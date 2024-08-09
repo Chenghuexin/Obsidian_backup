@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "800179202436859c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "52e3e4177dcded62",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=GQXVWtNkeZw"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-Fleeting notes/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-Fleeting notes/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-Fleeting notes/Test.md"
+              }
             }
           }
         ]
@@ -161,7 +149,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "52e3e4177dcded62",
+  "active": "9e3417a6a155538c",
   "lastOpenFiles": [
     "1-Fleeting notes/Test.md",
     "2-Literature notes/Untitled.md",
