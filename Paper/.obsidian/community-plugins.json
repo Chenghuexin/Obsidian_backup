@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-embedded-code-title",
-  "oz-clear-unused-images"
+  "oz-clear-unused-images",
+  "obsidian-pandoc",
+  "obsidian-title-index"
 ]
