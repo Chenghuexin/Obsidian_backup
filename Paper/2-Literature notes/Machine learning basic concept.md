@@ -8,4 +8,4 @@
 - y : Model(with unknown parameters)
 
 ## 2. Loss function
-![[Pasted image 20240812185714.png]] {widt
+![[Pasted image 20240812185714.png|500]] 
