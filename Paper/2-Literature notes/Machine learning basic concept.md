@@ -27,4 +27,4 @@
 
 ![[Pasted image 20240812191808.png]]
 
-- 
+- learning rate : 移動距離，為hyperparameters(需要自行設置的參數)
