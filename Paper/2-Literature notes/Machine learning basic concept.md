@@ -58,6 +58,6 @@
 	e.g.
 	![[Pasted image 20240812202005.png]]
 	
-	透過多個藍色曲線依然可以非常逼近
+	依然可以透過Piecewise linear curve去非常逼近
 	![[Pasted image 20240812202047.png]]
 	
