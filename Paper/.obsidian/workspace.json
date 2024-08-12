@@ -12,8 +12,12 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Introduction for machine learning.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true
             }
           }
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduction for machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introduction for machine learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Fleeting notes/Test.md"
+                "file": "Introduction for machine learning.md"
               }
             }
           }
@@ -143,9 +149,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "92eaa9d9ef74d557",
+  "active": "9e3417a6a155538c",
   "lastOpenFiles": [
     "1-Fleeting notes/Test.md",
+    "Introduction for machine learning.md",
     "Media Note - 【機器學習2022】開學囉~ 又要週更了~.md",
     "2-Literature notes/Untitled.md",
     "4-Index notes",
