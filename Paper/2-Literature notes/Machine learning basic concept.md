@@ -60,4 +60,6 @@
 	
 	依然可以透過Piecewise linear curve去非常逼近
 	![[Pasted image 20240812202047.png]]
-	
+
+
+### Sigmoid function
