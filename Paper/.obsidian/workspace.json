@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e3417a6a155538c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Literature notes/Introduction for machine learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "94543bd7e77abde0",
             "type": "leaf",
             "state": {
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/Introduction for machine learning.md",
+                "file": "2-Literature notes/Machine learning basic concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/Introduction for machine learning.md",
+                "file": "2-Literature notes/Machine learning basic concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Literature notes/Introduction for machine learning.md"
+                "file": "2-Literature notes/Machine learning basic concept.md"
               }
             }
           }
@@ -161,10 +147,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9e3417a6a155538c",
+  "active": "94543bd7e77abde0",
   "lastOpenFiles": [
-    "2-Literature notes/Machine learning basic concept.md",
     "2-Literature notes/Introduction for machine learning.md",
+    "2-Literature notes/Machine learning basic concept.md",
     "2024-08-12.md",
     "2-Literature notes/attachments/Pasted image 20240812191302.png",
     "2-Literature notes/attachments/Pasted image 20240812190619.png",
