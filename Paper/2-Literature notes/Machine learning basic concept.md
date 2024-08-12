@@ -17,3 +17,6 @@
 - **error Surface** : 嘗試不同的參數，算出其loss值，將其繪製成等高線圖
 
 ## 3. Optimization
+
+![[Pasted image 20240812191302.png|500]]
+
