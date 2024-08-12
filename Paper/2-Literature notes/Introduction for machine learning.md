@@ -15,4 +15,6 @@
 
 ![[Pasted image 20240812161425.png]]
 
-### 找出x和y之間的關係
+- 找出x和y之間的關係
+
+## Reinforcement Learning
