@@ -16,4 +16,4 @@
 - en有很多種方法 e.g. MAE、MSE、cross entropy
 
 
-### Error
+### Error Surface : 嘗試不同的參數，算出其loss值，將其繪製ㄔ高線圖
