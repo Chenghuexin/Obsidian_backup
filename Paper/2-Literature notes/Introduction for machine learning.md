@@ -1,3 +1,4 @@
+
 ## Differen types of Function
 
 ![[Pasted image 20240812155128.png]]
@@ -22,4 +23,4 @@
 - 無法標註資料，但可以判端資料的好與壞時使用
 
 ## Anomaly Detection(異常檢測)
-讓機器具備
+讓機器具備回答「我不知道」的回應
