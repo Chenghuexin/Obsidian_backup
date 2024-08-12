@@ -20,3 +20,6 @@
 ## Reinforcement Learning
 
 - 無法標註資料，但可以判端資料的好與壞時使用
+
+## Anomaly Detection(異常檢測)
+讓機器具備
