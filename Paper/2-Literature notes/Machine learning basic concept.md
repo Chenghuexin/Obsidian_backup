@@ -57,4 +57,7 @@
 - 如果今天是不是Piecewise Linear?
 	e.g.
 	![[Pasted image 20240812202005.png]]
-	j
+	
+	透過多個藍色曲線依然可以非常逼近
+	![[Pasted image 20240812202047.png]]
+	
