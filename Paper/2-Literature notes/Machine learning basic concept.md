@@ -20,3 +20,5 @@
 
 ![[Pasted image 20240812191302.png|500]]
 
+- 找出能讓loss function最小的w和b
+### Gradient Descent
