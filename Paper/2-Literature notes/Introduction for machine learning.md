@@ -41,4 +41,4 @@ tags:
 
 ## Meta learning
 機器從大量任務中自行發行出演算法，不再使用現有的演算法
-Few-shot learning is 
+Few-shot learning : 使用非常少量的資料進行學習，is usually achieved by meta-learning
