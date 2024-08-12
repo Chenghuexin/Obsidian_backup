@@ -65,5 +65,7 @@
 ### Sigmoid function
 ![[Pasted image 20240812202404.png]]
 
+##### 透過更改b、w、c產生不同形狀的Sigmoid function
+
 ### Hard Sigmoid
 ![[Pasted image 20240812202457.png]]
