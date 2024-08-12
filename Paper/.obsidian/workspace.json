@@ -20,19 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8e4a414130456141",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=7XZR0-4uS5s"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ba62419c526b0430",
@@ -47,6 +36,22 @@
                 "file": "Media Note - 【機器學習2022】開學囉~ 又要週更了~.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "130cd31922e5540b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d0c35045025612",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.youtube.com/watch?v=7XZR0-4uS5s"
               }
             }
           }
@@ -174,7 +179,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "8e4a414130456141",
+  "active": "82d0c35045025612",
   "lastOpenFiles": [
     "Media Note - 【機器學習2022】開學囉~ 又要週更了~.md",
     "1-Fleeting notes/Test.md",
