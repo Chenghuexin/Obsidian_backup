@@ -40,9 +40,11 @@
 ![[Pasted image 20240812193913.png]]
 
 ## Linear model的缺點
+
+![[Pasted image 20240812201427.png]]
+
 不管參數怎麼調整，這個function始終是一條線的形式，但現實的狀況不一定只是一條線，我們永遠無法透過linear model成功模擬跟現實相符的形式，原因來自於model的限制(**Model's bias**)
 
-![[Pasted image 20240812201422.png]]
 
 ## 解決上述問題
 
