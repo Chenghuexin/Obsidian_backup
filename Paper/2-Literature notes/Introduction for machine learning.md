@@ -38,3 +38,7 @@ tags:
 
 ## Network Compression
 模型過大時，可以進行壓縮
+
+## Meta learning
+機器從大量任務中自行發行出演算法，不再使用現有的演算法
+Few-shot learning is 
