@@ -63,3 +63,5 @@
 
 
 ### Sigmoid function
+![[Pasted image 20240812202404.png]]
+
