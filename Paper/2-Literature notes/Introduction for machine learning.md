@@ -18,3 +18,5 @@
 - 找出x和y之間的關係
 
 ## Reinforcement Learning
+
+- 無法標註資料，但可以判端資料的好與壞時使用
