@@ -29,3 +29,8 @@ tags:
 
 ## Anomaly Detection(異常檢測)
 讓機器具備回答「我不知道」的回應
+
+## Model Attack
+加入雜訊使得機器判斷錯誤
+
+##
