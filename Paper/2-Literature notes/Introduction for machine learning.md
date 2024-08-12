@@ -35,3 +35,6 @@ tags:
 
 ## Domain Adaptation
 對於輸入的資料與訓練測試相差過大的問題進行處理
+
+## Network Compression
+模型過大時，可以進行壓縮
