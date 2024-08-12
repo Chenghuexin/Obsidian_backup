@@ -12,29 +12,9 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Fleeting notes/Test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "86971883be3f3a25",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9eb0921295c00aa8",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=YQA8OKwATHI"
-              }
             }
           }
         ]
@@ -103,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting notes/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting notes/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +143,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9eb0921295c00aa8",
+  "active": "92eaa9d9ef74d557",
   "lastOpenFiles": [
     "1-Fleeting notes/Test.md",
     "Media Note - 【機器學習2022】開學囉~ 又要週更了~.md",
