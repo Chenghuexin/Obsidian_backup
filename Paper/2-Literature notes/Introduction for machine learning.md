@@ -9,7 +9,7 @@ tags:
 ![[Pasted image 20240812155128.png]]
 
 - scalar : 數值
-
+- 產生文字或是圖片 : structured learning
 ## Self-supervised Learning
 
 ![[Pasted image 20240812155639.png]]
