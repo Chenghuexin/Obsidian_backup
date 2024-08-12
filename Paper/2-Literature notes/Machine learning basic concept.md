@@ -2,6 +2,7 @@
 # 訓練過程
 ## 1. Function
 
+###### 以Linear model為例
 ![[Pasted image 20240812185440.png]]
 
 - w : weight
