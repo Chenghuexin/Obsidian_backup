@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ba62419c526b0430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73eb18d3e838596f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media Note - 【機器學習2022】開學囉~ 又要週更了~.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
