@@ -14,6 +14,6 @@
 
 - 輸出 :  設置的b和w表現是否好，數值越大代表與實際情況相差越大，越小代表越相似
 - en有很多種方法 e.g. MAE、MSE、cross entropy
+- **error Surface : 嘗試不同的參數，算出其loss值，將其繪製成等高線圖**
 
-
-### Error Surface : 嘗試不同的參數，算出其loss值，將其繪製ㄔ高線圖
+## 3. Optimization
