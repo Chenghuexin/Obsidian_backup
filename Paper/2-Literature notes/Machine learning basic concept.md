@@ -28,3 +28,4 @@
 ![[Pasted image 20240812191808.png]]
 
 - learning rate : 移動距離，為**hyperparameters**(需要自行設置的參數)
+- 斜率為負代表左邊高右邊低，所以應該往右
