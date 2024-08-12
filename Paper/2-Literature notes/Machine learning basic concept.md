@@ -10,4 +10,4 @@
 ## 2. Loss function
 ![[Pasted image 20240812185714.png|500]] 
 
-- 輸出 : 
+- 輸出 :  
