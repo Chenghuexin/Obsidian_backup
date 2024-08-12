@@ -33,3 +33,6 @@
 - learning rate : 移動距離，為**hyperparameters**(需要自行設置的參數)
 - 斜率為負代表左邊高(loss 高)右邊低(loss 低)，所以應該往右，以此類推
 - 缺點 : 因為初始位置導致最後選出來的(local minima)可能不是真正的最佳解(global minima)
+
+###### w、b
+![[Pasted image 20240812193913.png]]
