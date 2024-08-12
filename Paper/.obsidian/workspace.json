@@ -20,8 +20,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8e4a414130456141",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.youtube.com/watch?v=7XZR0-4uS5s"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting notes/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting notes/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-Fleeting notes/Test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,8 +156,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9e3417a6a155538c",
+  "active": "8e4a414130456141",
   "lastOpenFiles": [
+    "Media Note - 【機器學習2022】開學囉~ 又要週更了~.md",
     "1-Fleeting notes/Test.md",
     "2-Literature notes/Untitled.md",
     "4-Index notes",
