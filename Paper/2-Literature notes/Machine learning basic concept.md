@@ -65,3 +65,5 @@
 ### Sigmoid function
 ![[Pasted image 20240812202404.png]]
 
+### Hard Sigmoid
+![[Pasted image 20240812202457.png]]
