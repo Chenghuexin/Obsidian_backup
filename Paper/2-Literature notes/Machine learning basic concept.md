@@ -31,3 +31,4 @@
 
 - learning rate : 移動距離，為**hyperparameters**(需要自行設置的參數)
 - 斜率為負代表左邊高(loss 高)右邊低(loss 低)，所以應該往右，以此類推
+- 缺點 Pㄤ
