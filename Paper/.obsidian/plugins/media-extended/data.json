@@ -20,6 +20,6 @@
   "timestampOffset": 0,
   "biliDefaultQuality": 80,
   "screenshotFormat": "image/webp",
-  "enableSubtitle": false,
+  "enableSubtitle": true,
   "urlMappingData": []
 }
