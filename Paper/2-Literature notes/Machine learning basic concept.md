@@ -95,3 +95,4 @@
 ![[Pasted image 20240813223815.png]]
 
 ## Step 2 : Loss function L(θ)
+![[Pasted image 20240813224634.png]]
