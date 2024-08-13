@@ -24,7 +24,7 @@
 ![[Pasted image 20240812191302.png|500]]
 
 - 找出能讓loss function最小的w和b
-### Gradient Descent
+### 方法 一 : Gradient Descent
 
 ###### 以一個參數為舉例
 ![[Pasted image 20240812191722.png]]
