@@ -77,5 +77,8 @@
 ![[Pasted image 20240812202457.png]]
 
 
-## 6. 改寫
+## 6. 改寫 (linear -> sigmoid)
+
+![[Pasted image 20240813222849.png]]
+
 ![[Pasted image 20240813222416.png]]
