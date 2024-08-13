@@ -28,7 +28,7 @@
 
 ###### 以一個參數為舉例
 
-<圖一> Error Surface
+*下圖為error surface*
 ![[Pasted image 20240813214122.png]]
 
 ![[Pasted image 20240812191722.png]]
