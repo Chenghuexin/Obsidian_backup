@@ -97,7 +97,8 @@ tags:
 # after adjustment
 ## Step 1 : function with unknown function
 
-origin : [[#Step 1 Function]]
+- origin : [[#Step 1 Function]]
+- 下圖的function可以多ㄗ
 ![[Pasted image 20240813223815.png]]
 
 ## Step 2 : Loss function L(θ)
