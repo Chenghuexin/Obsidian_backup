@@ -106,6 +106,5 @@ origin : [[#Step 1 Function]]
 ## Step 3 : Optimization
 ![[Pasted image 20240813225651.png]]
 
-
-實際上我們在訓練的過程會將所有的未知參數分成好幾個batch
 ![[Pasted image 20240813230010.png]]
+實際上我們在訓練的過程會將所有的未知參數分成好幾個batch，透過每一個batch去找到更好的參數值，等到所有的batch都跑過一遍之後
