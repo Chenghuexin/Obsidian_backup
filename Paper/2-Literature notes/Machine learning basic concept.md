@@ -89,4 +89,6 @@
 ![[Pasted image 20240813222416.png]]![[Pasted image 20240813223244.png]]
 - θ : 所有未知參數放在一起
 
+## Step 1 after adjustment
+
 ![[Pasted image 20240813223815.png]]
