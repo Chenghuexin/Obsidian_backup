@@ -98,7 +98,7 @@ tags:
 ## Step 1 : function with unknown function
 
 - origin : [[#Step 1 Function]]
-- 下圖的function可以多做幾次嗎 : [[#Neuron]]
+- 下圖的function可以多做幾次嗎 : [[#Neural Network]]
 ![[Pasted image 20240813223815.png]]
 
 ## Step 2 : Loss function L(θ)
@@ -125,3 +125,4 @@ tags:
 
 # Neural Network
 
+![[Pasted image 20240813231957.png]]
