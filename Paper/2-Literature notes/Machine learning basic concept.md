@@ -10,7 +10,7 @@
 |  b  |             bias              |
 |  y  | Model(with unknow parameters) |
 
-## 2. Loss function
+## Step 2 : Loss function
 ![[Pasted image 20240812185714.png|500]] 
 
 ![[Pasted image 20240812190619.png|500]]
@@ -19,7 +19,7 @@
 - en有很多種方法 e.g. MAE、MSE、cross entropy
 - **error Surface** : 嘗試不同的參數，算出其loss值，將其繪製成等高線圖
 
-## 3. Optimization
+## Step 3 : Optimization
 
 ![[Pasted image 20240812191302.png|500]]
 
