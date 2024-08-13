@@ -107,4 +107,4 @@ origin : [[#Step 1 Function]]
 ![[Pasted image 20240813225651.png]]
 
 ![[Pasted image 20240813230010.png]]
-實際上我們在訓練的過程會將所有的未知參數分成好幾個batch，透過每一個batch去找到更好的參數值，等到所有的batch都跑過一遍之後
+實際上我們在訓練的過程會將所有的未知參數分成好幾個**batch**，透過每一個batch去更新參數值，等到所有的batch都跑過一遍之後，代表完成了1次**epoch**
