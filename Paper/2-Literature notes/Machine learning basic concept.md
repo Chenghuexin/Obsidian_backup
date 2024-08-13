@@ -111,4 +111,6 @@ origin : [[#Step 1 Function]]
 - batch size : hyperparameter
 - epoch : hyperparameter
 
-# Sigmoid -> Re
+##  Relu
+![[Pasted image 20240813230742.png]]
+
