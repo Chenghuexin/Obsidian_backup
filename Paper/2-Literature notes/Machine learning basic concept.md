@@ -111,7 +111,9 @@ origin : [[#Step 1 Function]]
 - batch size : hyperparameter
 - epoch : hyperparameter
 
-##  Relu
+#  Activation function
+
+## Relu
 ![[Pasted image 20240813230742.png]]
 
 ### 兩個Relu可以產生一個Sigmoid
