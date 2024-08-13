@@ -76,4 +76,6 @@
 ##### Hard Sigmoid
 ![[Pasted image 20240812202457.png]]
 
+
+## 6. 改寫
 ![[Pasted image 20240813222416.png]]
