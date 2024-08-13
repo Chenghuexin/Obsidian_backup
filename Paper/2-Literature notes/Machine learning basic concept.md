@@ -113,7 +113,9 @@ origin : [[#Step 1 Function]]
 
 #  Activation function
 
-## Relu
+## 1. Sigmoid
+
+## 2. Relu
 ![[Pasted image 20240813230742.png]]
 
 ### 兩個Relu可以產生一個Sigmoid
