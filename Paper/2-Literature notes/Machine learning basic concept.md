@@ -114,3 +114,6 @@ origin : [[#Step 1 Function]]
 ##  Relu
 ![[Pasted image 20240813230742.png]]
 
+### 兩個Relu可以產生一個Sigmoid
+![[Pasted image 20240813230853.png]]
+![[Pasted image 20240813230912.png]]
