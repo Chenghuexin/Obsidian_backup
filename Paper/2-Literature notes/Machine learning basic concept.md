@@ -126,3 +126,4 @@ tags:
 # Neural Network
 
 ![[Pasted image 20240813231957.png]]
+我們在[[#Step 1 function with unknown function]]中看到的function，其實可以重複值ㄒㄧㄥ
