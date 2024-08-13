@@ -110,3 +110,5 @@ origin : [[#Step 1 Function]]
 實際上我們在訓練的過程會將所有的未知參數分成好幾個**batch**，透過每一個batch去更新參數值，等到所有的batch都跑過一遍之後，代表完成了1次**epoch**
 - batch size : hyperparameter
 - epoch : hyperparameter
+
+# Sigmoid -> Re
