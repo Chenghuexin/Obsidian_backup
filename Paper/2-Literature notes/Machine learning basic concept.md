@@ -27,6 +27,10 @@
 ### 方法 一 : Gradient Descent
 
 ###### 以一個參數為舉例
+
+<圖一> Error Surface
+![[Pasted image 20240813214122.png]]
+
 ![[Pasted image 20240812191722.png]]
 
 ![[Pasted image 20240812191808.png]]
