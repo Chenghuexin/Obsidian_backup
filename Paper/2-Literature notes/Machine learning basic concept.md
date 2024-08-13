@@ -97,3 +97,6 @@ origin : [[#Step 1 Function]]
 
 ## Step 2 : Loss function L(θ)
 ![[Pasted image 20240813224634.png]]
+
+## Step 3 : Optimization
+![[Pasted image 20240813225651.png]]
