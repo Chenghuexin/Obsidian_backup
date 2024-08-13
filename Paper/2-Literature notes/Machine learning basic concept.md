@@ -94,4 +94,4 @@
 
 ![[Pasted image 20240813223815.png]]
 
-## Step 2 : 
+## Step 2 : Loss function L(θ)
