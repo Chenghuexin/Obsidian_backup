@@ -75,3 +75,4 @@
 
 ##### Hard Sigmoid
 ![[Pasted image 20240812202457.png]]
+
