@@ -92,6 +92,7 @@
 # after adjustment
 ## Step 1 : function with unknown function
 
+origin : 
 ![[Pasted image 20240813223815.png]]
 
 ## Step 2 : Loss function L(θ)
