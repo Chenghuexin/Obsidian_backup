@@ -98,7 +98,7 @@ tags:
 ## Step 1 : function with unknown function
 
 - origin : [[#Step 1 Function]]
-- 下圖的function可以多ㄗ
+- 下圖的function可以多做幾次嗎 : 可以
 ![[Pasted image 20240813223815.png]]
 
 ## Step 2 : Loss function L(θ)
@@ -122,3 +122,4 @@ tags:
 ### 兩個Relu可以產生一個Sigmoid
 ![[Pasted image 20240813230853.png]]
 ![[Pasted image 20240813230912.png]]
+
