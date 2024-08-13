@@ -1,3 +1,8 @@
+---
+tags:
+  - ML
+  - DL
+---
 
 # 訓練過程
 ## Step 1 : Function
