@@ -105,3 +105,7 @@ origin : [[#Step 1 Function]]
 
 ## Step 3 : Optimization
 ![[Pasted image 20240813225651.png]]
+
+
+實際上我們在訓練的過程會將所有的未知參數分成好幾個batch
+![[Pasted image 20240813230010.png]]
