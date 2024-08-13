@@ -127,4 +127,4 @@ tags:
 
 ![[Pasted image 20240813231957.png]]
 我們在[[#Step 1 function with unknown function]]中看到的function，其實可以多做幾次，如上圖所示。
-後來我們將這個function改名為Neuron
+後來我們將這個function改名為**Neuron**，或是hidden layer
