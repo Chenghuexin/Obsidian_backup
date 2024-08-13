@@ -87,4 +87,4 @@
 ![[Pasted image 20240813223214.png]]
 
 ![[Pasted image 20240813222416.png]]![[Pasted image 20240813223244.png]]
-- θ
+- θ : 所有未知參數放在一起
