@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,7 +159,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "99be0258b9476614",
+  "active": "f28df6d222057a2a",
   "lastOpenFiles": [
     "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT17M21.058S.webp",
