@@ -18,3 +18,4 @@ media: https://www.youtube.com/watch?v=Dr-WRlEFefw
 - ![[ML Lecture 6_ Brief Introduction of Deep LearningPT26M56.05S.webp|ML Lecture 6: Brief Introduction of Deep Learning - 26:56|50]] [26:56](https://www.youtube.com/watch?v=Dr-WRlEFefw&t=1616#t=26:56.05) output layers之前的部分將之視為Feature extractor，而output layer做的事情為Multi-calss Classifier，它會經過一個Softmx
 - [29:27](https://www.youtube.com/watch?v=Dr-WRlEFefw&t=1767#t=29:27.25) example
 
+# Gradient Descent
