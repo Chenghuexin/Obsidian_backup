@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
+                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 200
   },
   "right": {
     "id": "f684e491af8eeed5",
@@ -159,9 +159,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "f28df6d222057a2a",
+  "active": "92eaa9d9ef74d557",
   "lastOpenFiles": [
-    "Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
+    "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
     "2-Literature notes/Machine learning basic concept.md",
     "Media Note - 【機器學習2021】預測本頻道觀看人數 (下) - 深度學習基本概念簡介.md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
