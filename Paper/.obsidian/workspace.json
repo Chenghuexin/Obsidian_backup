@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,10 +159,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "99be0258b9476614",
+  "active": "f28df6d222057a2a",
   "lastOpenFiles": [
-    "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT14M53.878S.webp",
     "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
+    "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT14M53.878S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT15M2.22S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT13M18.517S.webp",
     "2-Literature notes/Machine learning basic concept.md",
@@ -180,7 +176,6 @@
     "2-Literature notes/attachments/Pasted image 20240813225926.png",
     "2-Literature notes/Introduction for machine learning.md",
     "2-Literature notes/attachments/Pasted image 20240813225651.png",
-    "2-Literature notes/attachments/Pasted image 20240813224634.png",
     "1-Fleeting notes/大咪學到的東西.md",
     "2024-08-12.md",
     "2-Literature notes/attachments",
