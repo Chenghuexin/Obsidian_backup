@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a912698115617b13",
+  "active": "4c42fdd5f7b350ef",
   "lastOpenFiles": [
     "2-Literature notes/Machine learning basic concept.md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",

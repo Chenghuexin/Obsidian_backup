@@ -2,5 +2,4 @@
 tags:
   - DL
   - Transformer
-aliases:
 ---
