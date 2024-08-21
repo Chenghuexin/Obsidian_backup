@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "88cc526eda339d0f",
+        "id": "157c7775940e0136",
         "type": "tabs",
         "children": [
           {
-            "id": "bbbd5cae06d64f7d",
+            "id": "86944257d9db1ff3",
             "type": "leaf",
             "state": {
-              "type": "mx-webpage",
+              "type": "markdown",
               "state": {
-                "source": "https://www.youtube.com/watch?v=bHcJCp2Fyxs"
+                "file": "2-Literature notes/Machine learning basic concept.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Literature notes/Machine learning basic concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Literature notes/Machine learning basic concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-Literature notes/Machine learning basic concept.md"
+              }
             }
           }
         ]
@@ -141,8 +147,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "bbbd5cae06d64f7d",
+  "active": "86944257d9db1ff3",
   "lastOpenFiles": [
+    "Media Note - 【機器學習2021】預測本頻道觀看人數 (下) - 深度學習基本概念簡介.md",
     "2-Literature notes/Machine learning basic concept.md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
     "2-Literature notes/attachments/Pasted image 20240813231957.png",
