@@ -19,3 +19,5 @@ media: https://www.youtube.com/watch?v=Dr-WRlEFefw
 - [29:27](https://www.youtube.com/watch?v=Dr-WRlEFefw&t=1767#t=29:27.25) example
 
 # Gradient Descent
+
+- Step 1 : 隨機選擇一個初始值，接著計算每一個參數(weight 和 bias)
