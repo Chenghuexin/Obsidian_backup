@@ -5,6 +5,7 @@
     "tags": "tags",
     "todo": "checkbox",
     "completion date": "date",
-    "starting date": "date"
+    "starting date": "date",
+    "work progress": "multitext"
   }
 }
