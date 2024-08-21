@@ -20,4 +20,4 @@ media: https://www.youtube.com/watch?v=Dr-WRlEFefw
 
 # Gradient Descent
 
-- Step 1 : 隨機選擇一個初始值，接著計算每一個參數(weight 和 bias)，接著計算每個參數的偏微分，將所有偏微分集合起來稱之為gradient
+- Step 1 : 隨機選擇一個初始值，接著計算每一個參數(weight 和 bias)，接著計算每個參數的偏微分，所有偏微分的集稱為gradient，接著可以透過參數learning rate乘上參數所對應的gradient
