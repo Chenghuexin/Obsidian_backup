@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "todo": "checkbox",
-    "completion date": "date"
+    "completion date": "date",
+    "starting date": "date"
   }
 }
