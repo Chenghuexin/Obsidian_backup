@@ -3,9 +3,5 @@ tags:
   - DL
   - Transformer
 starting date: 2024-08-21
-completion date: 
-work progress:
-  - unfinished
-  - in progress
-  - finished
+completion date:
 ---
