@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md"
+              }
             }
           }
         ]
@@ -159,9 +163,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "f28df6d222057a2a",
+  "active": "99be0258b9476614",
   "lastOpenFiles": [
     "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
+    "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT26M56.05S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT25M45.343S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT25M41.321S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT18M49.002S.webp",
@@ -174,7 +179,6 @@
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
     "2-Literature notes/attachments/Pasted image 20240813231957.png",
     "2-Literature notes/attachments/Pasted image 20240813230912.png",
-    "2-Literature notes/attachments/Pasted image 20240813230853.png",
     "2-Literature notes/Introduction for machine learning.md",
     "1-Fleeting notes/大咪學到的東西.md",
     "2024-08-12.md",
