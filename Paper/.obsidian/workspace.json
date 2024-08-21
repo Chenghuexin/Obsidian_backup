@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a912698115617b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +147,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "4c42fdd5f7b350ef",
+  "active": "92eaa9d9ef74d557",
   "lastOpenFiles": [
     "2-Literature notes/Machine learning basic concept.md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
