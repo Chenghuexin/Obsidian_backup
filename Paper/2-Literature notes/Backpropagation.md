@@ -11,5 +11,8 @@ media: https://www.youtube.com/watch?v=ibJpTrp5mcE
 # Backward pass
 
 - [17:45](https://www.youtube.com/watch?v=ibJpTrp5mcE&t=1065#t=17:45.07) 計算原理
-- 
-- [18:35](https://www.youtube.com/watch?v=ibJpTrp5mcE&t=1116#t=18:35.68) 
+- [18:35](https://www.youtube.com/watch?v=ibJpTrp5mcE&t=1116#t=18:35.68) 計算結果
+- [20:37](https://www.youtube.com/watch?v=ibJpTrp5mcE&t=1237#t=20:37.48) 
+- [29:03](https://www.youtube.com/watch?v=ibJpTrp5mcE&t=1743#t=29:03.04) 
+
+# 
