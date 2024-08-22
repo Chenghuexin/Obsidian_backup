@@ -25,3 +25,5 @@ media: https://www.youtube.com/watch?v=Dr-WRlEFefw
 # Backpropagation
 
 計算微分(gradient)比較有效率的方式
+
+細節 : [[Backpropagation]]

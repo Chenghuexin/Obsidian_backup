@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05077b1ae2be21b5",
+        "id": "bd8d52ccae4f2fa2",
         "type": "tabs",
         "children": [
           {
-            "id": "c4a753d7c75854c6",
+            "id": "7fa6100f8077953f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "c4a753d7c75854c6",
+  "active": "7fa6100f8077953f",
   "lastOpenFiles": [
     "2-Literature notes/Brief Introduction of Deep Learning.md",
     "2-Literature notes/Backpropagation.md",
