@@ -8,11 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f764eb8f1e0034db",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.youtube.com/watch?v=ibJpTrp5mcE"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "375de0dd37b89dfb",
+        "type": "tabs",
+        "children": [
+          {
             "id": "323251b3759e4584",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2-Literature notes/Backpropagation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f684e491af8eeed5",
@@ -140,7 +159,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "323251b3759e4584",
+  "active": "f764eb8f1e0034db",
   "lastOpenFiles": [
     "2-Literature notes/Backpropagation.md",
     "2-Literature notes/Brief Introduction of Deep Learning.md",
