@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "46422aa3d23520cc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a935118f84745a6a",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=ibJpTrp5mcE"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "836e8ddf098ce957",
         "type": "tabs",
         "children": [
@@ -29,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Literature notes/Backpropagation.md",
+                "file": "2-Literature notes/Brief Introduction of Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Literature notes/Brief Introduction of Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Literature notes/Brief Introduction of Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-Literature notes/Brief Introduction of Deep Learning.md"
+              }
             }
           }
         ]
@@ -159,7 +147,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a935118f84745a6a",
+  "active": "c5e8f410c6932b49",
   "lastOpenFiles": [
     "2-Literature notes/Backpropagation.md",
     "2-Literature notes/Machine learning basic concept.md",

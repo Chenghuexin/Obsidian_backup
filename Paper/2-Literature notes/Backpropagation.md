@@ -15,4 +15,6 @@ media: https://www.youtube.com/watch?v=ibJpTrp5mcE
 - [20:37](https://www.youtube.com/watch?v=ibJpTrp5mcE&t=1237#t=20:37.48) 
 - [29:03](https://www.youtube.com/watch?v=ibJpTrp5mcE&t=1743#t=29:03.04) 
 
-# 
+# Summarize
+
+- [30:25](https://www.youtube.com/watch?v=ibJpTrp5mcE&t=1825#t=30:25.48) 
