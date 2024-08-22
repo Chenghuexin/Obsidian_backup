@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "43ea90e55fbc7125",
+        "id": "76daa53f929faa4e",
         "type": "tabs",
         "children": [
           {
-            "id": "e499e0f4863de06c",
+            "id": "79e924e559b8c982",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mx-webpage",
               "state": {
-                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
-                "mode": "source",
-                "source": false
+                "source": "https://www.youtube.com/watch?v=ibJpTrp5mcE"
               }
             }
           }
         ]
       },
       {
-        "id": "ff5c46e670ad990f",
+        "id": "92abf1b25963f3e1",
         "type": "tabs",
         "children": [
           {
@@ -31,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Literature notes/Media Note - ML Lecture 7_ Backpropagation.md",
+                "file": "2-Literature notes/Backpropagation.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f684e491af8eeed5",
@@ -103,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/Media Note - ML Lecture 7_ Backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/Media Note - ML Lecture 7_ Backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-Literature notes/Media Note - ML Lecture 7_ Backpropagation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,10 +160,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "649a40e9e2f81557",
+  "active": "79e924e559b8c982",
   "lastOpenFiles": [
-    "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
-    "2-Literature notes/Media Note - ML Lecture 7_ Backpropagation.md",
+    "2-Literature notes/Backpropagation.md",
+    "2-Literature notes/Brief Introduction of Deep Learning.md",
     "2-Literature notes/Machine learning basic concept.md",
     "2-Literature notes/Introduction for machine learning.md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
