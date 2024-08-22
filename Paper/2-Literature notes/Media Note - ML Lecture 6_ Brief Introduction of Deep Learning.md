@@ -1,6 +1,5 @@
 ---
 media: https://www.youtube.com/watch?v=Dr-WRlEFefw
-media2: https://www.youtube.com/watch?v=ibJpTrp5mcE
 ---
 
 # 3 Steps
