@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e1f4a73c26e874aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f28df6d222057a2a",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=Dr-WRlEFefw"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "eeff82c2e8cee966",
         "type": "tabs",
         "children": [
@@ -101,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md"
+              }
             }
           }
         ]
@@ -159,7 +147,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "f28df6d222057a2a",
+  "active": "99be0258b9476614",
   "lastOpenFiles": [
     "2-Literature notes/Media Note - ML Lecture 6_ Brief Introduction of Deep Learning.md",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT26M56.05S.webp",
