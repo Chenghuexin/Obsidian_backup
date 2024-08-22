@@ -23,4 +23,5 @@ media: https://www.youtube.com/watch?v=Dr-WRlEFefw
 隨機選擇一個初始值，接著計算每一個參數(weight 和 bias)，接著計算每個參數的偏微分，所有偏微分的集稱為gradient，接著可以透過參數 - learning rate乘上參數所對應的gradient得到新的參數值
 
 # Backpropagation
+
 計算微分(gradient)比較有效率的方式
