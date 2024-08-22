@@ -11,9 +11,11 @@
             "id": "f764eb8f1e0034db",
             "type": "leaf",
             "state": {
-              "type": "mx-webpage",
+              "type": "markdown",
               "state": {
-                "source": "https://www.youtube.com/watch?v=ibJpTrp5mcE"
+                "file": "2-Literature notes/Brief Introduction of Deep Learning.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Literature notes/Brief Introduction of Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Literature notes/Brief Introduction of Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-Literature notes/Brief Introduction of Deep Learning.md"
+              }
             }
           }
         ]
