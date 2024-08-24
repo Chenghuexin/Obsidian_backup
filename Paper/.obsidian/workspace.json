@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/機器學習任務攻略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/機器學習任務攻略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-Literature notes/機器學習任務攻略.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,7 +159,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "950f3e4884d3d45d",
+  "active": "f81dd7b8079e68f7",
   "lastOpenFiles": [
     "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/Machine learning basic concept.md",
