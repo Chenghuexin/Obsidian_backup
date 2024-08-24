@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd8d52ccae4f2fa2",
+        "id": "6397d11c6a2f6bb6",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa6100f8077953f",
+            "id": "f81dd7b8079e68f7",
             "type": "leaf",
             "state": {
               "type": "mx-webpage",
@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "機器學習任務攻略.md",
+                "file": "2-Literature notes/機器學習任務攻略.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,13 +159,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "7fa6100f8077953f",
+  "active": "f81dd7b8079e68f7",
   "lastOpenFiles": [
-    "機器學習任務攻略.md",
-    "2-Literature notes/Brief Introduction of Deep Learning.md",
-    "2-Literature notes/Backpropagation.md",
+    "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/Machine learning basic concept.md",
     "2-Literature notes/Introduction for machine learning.md",
+    "2-Literature notes/Brief Introduction of Deep Learning.md",
+    "2-Literature notes/Backpropagation.md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT26M56.05S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT25M45.343S.webp",
