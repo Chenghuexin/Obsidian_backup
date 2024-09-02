@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Literature notes/Introduction for machine learning.md",
+                "file": "2-Literature notes/Machine learning basic concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/Introduction for machine learning.md",
+                "file": "2-Literature notes/Machine learning basic concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/Introduction for machine learning.md",
+                "file": "2-Literature notes/Machine learning basic concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Literature notes/Introduction for machine learning.md"
+                "file": "2-Literature notes/Machine learning basic concept.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "82c680266c07f551",
   "lastOpenFiles": [
-    "2-Literature notes/Machine learning basic concept.md",
-    "2-Literature notes/機器學習任務攻略.md",
-    "2-Literature notes/Introduction for machine learning.md",
-    "2-Literature notes/Brief Introduction of Deep Learning.md",
     "2-Literature notes/Backpropagation.md",
+    "2-Literature notes/機器學習任務攻略.md",
+    "2-Literature notes/Brief Introduction of Deep Learning.md",
+    "2-Literature notes/Introduction for machine learning.md",
+    "2-Literature notes/Machine learning basic concept.md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT26M56.05S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT25M45.343S.webp",
