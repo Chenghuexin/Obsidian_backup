@@ -1,2 +1,2 @@
 # Outline
-Genera
+Generative Pre-trained Transformer
