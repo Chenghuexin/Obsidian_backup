@@ -19,3 +19,6 @@ learning rate應該要客製化，不同的參數需要不同的learning rate
 
 
 - [17:33](https://www.youtube.com/watch?v=HYUXEeh3kwY&t=1053#t=17:33.25) 同一個參數在不同的時間可能也會需要不同的learning rate
+
+## RMSProp
+
