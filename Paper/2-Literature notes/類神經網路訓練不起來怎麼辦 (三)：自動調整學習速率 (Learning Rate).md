@@ -30,3 +30,6 @@ learning rate應該要客製化，不同的參數需要不同的learning rate
 # Adam
 
 - RMSProp + Momentum
+- most used optimization
+
+# Learning Rate Scheduling
