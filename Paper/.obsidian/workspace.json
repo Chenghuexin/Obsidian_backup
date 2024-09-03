@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "75762e6b2985b1d5",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.youtube.com/watch?v=zzbr1h9sF54"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "81cf033ac078299a",
+        "type": "tabs",
+        "children": [
+          {
             "id": "41b2ba6362c711b0",
             "type": "leaf",
             "state": {
@@ -85,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +159,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "41b2ba6362c711b0",
+  "active": "75762e6b2985b1d5",
   "lastOpenFiles": [
-    "2-Literature notes/類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
+    "2-Literature notes/類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
     "2-Literature notes/Brief Introduction of Deep Learning.md",
     "2-Literature notes/Backpropagation.md",
     "2-Literature notes/機器學習任務攻略.md",
