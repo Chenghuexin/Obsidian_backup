@@ -33,3 +33,9 @@ learning rate應該要客製化，不同的參數需要不同的learning rate
 - most used optimization
 
 # Learning Rate Scheduling
+
+## Learning Rate Decay
+
+learning rate隨著時間越來越小
+
+## Warm up
