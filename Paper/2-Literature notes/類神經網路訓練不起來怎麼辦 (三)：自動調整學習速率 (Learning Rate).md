@@ -38,4 +38,6 @@ learning rate應該要客製化，不同的參數需要不同的learning rate
 
 learning rate隨著時間越來越小
 
-## Warm up
+## Warm Up
+
+learning rate 首先變大再變小
