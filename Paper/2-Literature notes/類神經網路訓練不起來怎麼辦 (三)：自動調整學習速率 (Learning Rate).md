@@ -17,8 +17,9 @@ learning rate應該要客製化，不同的參數需要不同的learning rate
 
 - [16:01](https://www.youtube.com/watch?v=HYUXEeh3kwY&t=962#t=16:01.98) Adagrad
 
-
 - [17:33](https://www.youtube.com/watch?v=HYUXEeh3kwY&t=1053#t=17:33.25) 同一個參數在不同的時間可能也會需要不同的learning rate
 
 ## RMSProp
 
+
+- [19:25](https://www.youtube.com/watch?v=HYUXEeh3kwY&t=1165#t=19:25.26) 可以自行調整每一個gradient的權重
