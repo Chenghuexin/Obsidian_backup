@@ -114,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media Note - 【機器學習2021】類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media Note - 【機器學習2021】類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Media Note - 【機器學習2021】類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -176,7 +172,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "222b6b099633111b",
+  "active": "f2fda0dde2ee0b62",
   "lastOpenFiles": [
     "Media Note - 【機器學習2021】類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
     "2-Literature notes/機器學習任務攻略.md",
