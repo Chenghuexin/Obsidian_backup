@@ -7,3 +7,5 @@ media: https://www.youtube.com/watch?v=QW6uINn7uGk
 
 # 事實上...
 導致gradient是0的原因不只有local minima，還有saddle point
+
+- saddle point : gradient is zero, but it's neither local minima nor local maxima
