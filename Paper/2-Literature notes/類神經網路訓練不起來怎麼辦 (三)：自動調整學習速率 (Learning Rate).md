@@ -10,4 +10,4 @@ learning rate應該要客製化，不同的參數需要不同的learning rate
 
 - [11:36](https://www.youtube.com/watch?v=HYUXEeh3kwY&t=696#t=11:36.09) 
 
-## Root Mean 
+## Root Mean Square
