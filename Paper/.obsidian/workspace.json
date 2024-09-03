@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
+                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
+                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
+                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md"
+                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md"
               }
             }
           }
@@ -147,15 +147,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "92eaa9d9ef74d557",
+  "active": "41b2ba6362c711b0",
   "lastOpenFiles": [
-    "Media Note - 【機器學習2021】類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
+    "2-Literature notes/類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
+    "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
     "2-Literature notes/Brief Introduction of Deep Learning.md",
     "2-Literature notes/Backpropagation.md",
     "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/報書 - ChatGPT4.md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
-    "類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
     "1-Fleeting notes/大咪學到的東西.md",
     "attachments/Pasted image 20240902215232.png",
     "attachments",

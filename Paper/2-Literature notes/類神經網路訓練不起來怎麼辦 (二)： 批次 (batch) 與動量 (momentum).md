@@ -1,7 +1,7 @@
 ---
 media: https://www.youtube.com/watch?v=zzbr1h9sF54
 ---
-承上回 : [[Media Note - 【機器學習2021】類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point)]] 
+承上回 : [[類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point)]] 
 # Batch
 
 ## Small Batch v.s. Large Batch
