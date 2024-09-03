@@ -16,3 +16,4 @@ media: https://www.youtube.com/watch?v=QW6uINn7uGk
 
 
 - [11:30](https://www.youtube.com/watch?v=QW6uINn7uGk&t=691#t=11:30.67) 
+- [13:15](https://www.youtube.com/watch?v=QW6uINn7uGk&t=795#t=13:15.42) eigen values are positive : local minimal, some eigen 
