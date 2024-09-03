@@ -25,3 +25,8 @@ learning rate應該要客製化，不同的參數需要不同的learning rate
 - [19:25](https://www.youtube.com/watch?v=HYUXEeh3kwY&t=1165#t=19:25.26) 透過alpha可以自行調整每一個gradient的權重，達到動態調整sigma
 
 - [21:57](https://www.youtube.com/watch?v=HYUXEeh3kwY&t=1318#t=21:57.63) example
+
+
+# Adam
+
+- RMSProp + Momentum
