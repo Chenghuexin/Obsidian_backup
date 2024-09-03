@@ -4,32 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "ae2f80bee654771b",
+        "id": "3e8c9cd4914101b2",
         "type": "tabs",
         "children": [
           {
-            "id": "75762e6b2985b1d5",
+            "id": "fcdc3c94dc57c40a",
             "type": "leaf",
             "state": {
               "type": "mx-webpage",
               "state": {
-                "source": "https://www.youtube.com/watch?v=zzbr1h9sF54"
+                "source": "https://www.youtube.com/watch?v=HYUXEeh3kwY"
               }
             }
           }
         ]
       },
       {
-        "id": "81cf033ac078299a",
+        "id": "aa36e308f5eabb1c",
         "type": "tabs",
         "children": [
           {
-            "id": "41b2ba6362c711b0",
+            "id": "44eb6f04149c11d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
+                "file": "類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md"
+              }
             }
           }
         ]
@@ -159,8 +163,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "75762e6b2985b1d5",
+  "active": "44eb6f04149c11d3",
   "lastOpenFiles": [
+    "類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
     "2-Literature notes/Brief Introduction of Deep Learning.md",
