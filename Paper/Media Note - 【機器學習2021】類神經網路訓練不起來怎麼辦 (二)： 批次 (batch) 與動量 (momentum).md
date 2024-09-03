@@ -11,3 +11,5 @@ media: https://www.youtube.com/watch?v=zzbr1h9sF54
 
 # Gradient Descent + Momentum
 
+
+- [27:25](https://www.youtube.com/watch?v=zzbr1h9sF54&t=1646#t=27:25.71) 考慮了
