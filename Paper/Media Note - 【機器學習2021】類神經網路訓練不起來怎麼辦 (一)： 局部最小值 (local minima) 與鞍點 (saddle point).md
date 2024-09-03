@@ -11,3 +11,5 @@ media: https://www.youtube.com/watch?v=QW6uINn7uGk
 
 - saddle point : gradient is zero, but it's neither local minima nor local maxima
 - critical point : all point when their gradient are zero
+
+# 如何判斷是走到local minima還是sa
