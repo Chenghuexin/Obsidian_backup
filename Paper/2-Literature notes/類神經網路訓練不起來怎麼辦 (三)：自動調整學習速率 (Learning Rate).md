@@ -14,3 +14,5 @@ learning rate應該要客製化，不同的參數需要不同的learning rate
 
 
 - [15:21](https://www.youtube.com/watch?v=HYUXEeh3kwY&t=922#t=15:21.76) 過去所有的gradient的平方和，再平均然後開根號
+
+- [16:01](https://www.youtube.com/watch?v=HYUXEeh3kwY&t=962#t=16:01.98) Adagrad
