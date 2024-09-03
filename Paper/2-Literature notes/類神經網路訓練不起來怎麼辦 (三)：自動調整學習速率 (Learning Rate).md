@@ -5,4 +5,4 @@ media: https://www.youtube.com/watch?v=HYUXEeh3kwY
 
 # Learning rate cannot be one-size-fits-all
 
-learning rate應該要客製化
+learning rate應該要客製化，不同的參數需要不同的learning rate
