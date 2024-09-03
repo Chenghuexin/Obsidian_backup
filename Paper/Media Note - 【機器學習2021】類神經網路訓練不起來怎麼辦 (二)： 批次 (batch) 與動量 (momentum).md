@@ -12,4 +12,4 @@ media: https://www.youtube.com/watch?v=zzbr1h9sF54
 # Gradient Descent + Momentum
 
 
-- [27:25](https://www.youtube.com/watch?v=zzbr1h9sF54&t=1646#t=27:25.71) 考慮了
+- [27:25](https://www.youtube.com/watch?v=zzbr1h9sF54&t=1646#t=27:25.71) 考慮了之前移動的方向和gradient的方向來調整參數
