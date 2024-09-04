@@ -7,3 +7,4 @@ media: https://www.youtube.com/watch?v=N6aRv06iv2g
 
 ## Autoregressive
 
+decoder會把自己的輸出當作接下來的
