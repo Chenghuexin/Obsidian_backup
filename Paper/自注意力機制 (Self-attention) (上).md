@@ -9,3 +9,5 @@ media: https://www.youtube.com/watch?v=hYdO9CscNes
 根據a1向量，考慮其他向量，其中哪個向量與a1是最有關連的，每一個向量與a1的關聯程度以α表示
 
 如何自動決定向量之間的關聯性 :
+dot-product(常見作法) : 
+將比較的兩個向量分別乘上不同的矩陣
