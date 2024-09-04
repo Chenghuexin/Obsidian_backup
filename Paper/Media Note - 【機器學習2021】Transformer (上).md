@@ -12,4 +12,4 @@ Transformer 是一個 Seq2Seq model, 它的輸出長度由機器自行決定
 ## Multi-class v.s. Multi-label
 
 - Multi-class : 機器要從數個class中選出一個class
-- Multi-label : 同一個東西，可以屬於多個cl
+- Multi-label : 同一個東西，可以屬於多個class
