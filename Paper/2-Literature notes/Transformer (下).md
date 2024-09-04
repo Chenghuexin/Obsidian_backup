@@ -37,3 +37,4 @@ decoder會把自己的輸出當作接下來的輸入 (e.g.  [01:55](https://www.
 
 # Transformer - training
 
+decoder的輸入會是正確答案(teacher forcing)
