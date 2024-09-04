@@ -23,4 +23,5 @@ Transformer 是一個 Seq2Seq model, 它的輸出長度由機器自行決定
 工作 : 輸入一排向量，輸出一排向量
 架構圖 :  ![[【機器學習2021】Transformer (上)PT24M44.058S.webp|【機器學習2021】Transformer (上) - 24:44|50]] [24:44](https://www.youtube.com/watch?v=n9TlOhRjYoc&t=1484#t=24:44.06) 
 
+流程 : 輸入一排vector進入self-attention
 ## Decoder
