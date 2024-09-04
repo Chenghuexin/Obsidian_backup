@@ -8,7 +8,7 @@ media: https://www.youtube.com/watch?v=hYdO9CscNes
 
 ## Step 1 :
 
-> 原理 : 根據a1向量，考慮其他向量，其中哪個向量與a1是最有關連的，每一個向量與a1的關聯程度以α(attention score)表示
+> 考慮關聯性 : 根據a1向量，考慮其他向量，其中哪個向量與a1是最有關連的，每一個向量與a1的關聯程度以α(attention score)表示
 
 > [!NOTE]
 > 如何自動決定向量之間的關聯性 :
@@ -23,3 +23,4 @@ media: https://www.youtube.com/watch?v=hYdO9CscNes
 ---
 ## Step 2 :
 
+抽取重要資訊 : 將所有原輸入的向量乘上Wv向量得到V，接著再將對應的
