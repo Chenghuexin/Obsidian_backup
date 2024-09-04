@@ -32,4 +32,3 @@ Transformer 是一個 Seq2Seq model, 它的輸出長度由機器自行決定
 > 
 > - Add & Norm : residual + layer normalization
 
-## Decoder
