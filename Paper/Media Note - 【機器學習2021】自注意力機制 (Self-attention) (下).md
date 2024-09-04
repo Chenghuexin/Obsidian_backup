@@ -25,5 +25,8 @@ self-attention沒有位置資訊，如果想要把位置資訊加進去，可以
 
 # Self-attention v.s. RNN
 
+- [35:36](https://www.youtube.com/watch?v=gmsMY5kc-zw&t=2137#t=35:37.00) RNN介紹
 
 RNN無法平行處理
+
+RNN雖然也考量到所有輸入，但在儲存資料上比self-att
