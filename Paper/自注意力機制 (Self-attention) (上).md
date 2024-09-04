@@ -16,4 +16,4 @@ media: https://www.youtube.com/watch?v=hYdO9CscNes
 > - additive
 > 一樣跟dot-product先得到q、k矩陣後，將這兩個矩陣串接起來，經過activation function，再通過transform
 
-實作 : a1乘上Wq得到query，其他向量乘上Wk(**key)**
+實作 : a1乘上Wq得到query，其他向量乘上Wk得到key；接著query和不同的key做dot-product所得到的結果就是α(attention score)
