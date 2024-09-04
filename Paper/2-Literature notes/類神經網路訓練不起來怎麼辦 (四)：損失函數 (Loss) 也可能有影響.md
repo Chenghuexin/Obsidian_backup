@@ -10,3 +10,6 @@ media: https://www.youtube.com/watch?v=O2VkP8dJ5FE
 # Class as one-hot vector
 
 這種方法可以避免class之間有相似性的問題
+
+
+- [05:17](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=317#t=05:17.14) 輸出
