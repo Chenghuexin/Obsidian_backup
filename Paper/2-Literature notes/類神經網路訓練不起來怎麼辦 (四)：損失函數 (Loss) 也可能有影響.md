@@ -17,6 +17,6 @@ media: https://www.youtube.com/watch?v=O2VkP8dJ5FE
 # Softmax
 
 
-- [06:15](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=376#t=06:15.95) 原本的輸出會再經過一個softmax才會是最後的結果
+- [06:15](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=376#t=06:15.95) 原本的輸出(logit)會再經過一個softmax才會是最後的結果
 
 - [08:47](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=527#t=08:47.20) 公式
