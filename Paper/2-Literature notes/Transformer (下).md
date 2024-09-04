@@ -21,10 +21,11 @@ Masked Self-attention : 與self-attention不同的點是產生b1的時候只能�
 
 一次把整個句子產生出來，輸入可能會是一整排的begin token讓他一次產生一排的token
 
-怎麼決定輸入長度 : 
-方法一 : 透過一個classifier決定輸入長度
-方法二 : 輸入很長一排begin token，在輸出出現end token的時候停止
+> [!NOTE]
+> 怎麼決定輸入長度 : 
+> 方法一 : 透過一個classifier決定輸入長度
+> 方法二 : 輸入很長一排begin token，在輸出出現end token的時候停止
 
-優點 : 執行速度比AT快、比較可以控制輸出的長度
-
-缺點 : 往往表現
+> 優點 : 執行速度比AT快、比較可以控制輸出的長度
+> 
+> 缺點 : 往往表現都不如AT(原因 : Multi-modality)
