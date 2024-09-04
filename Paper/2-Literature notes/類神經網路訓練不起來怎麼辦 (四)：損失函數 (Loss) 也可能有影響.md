@@ -13,3 +13,8 @@ media: https://www.youtube.com/watch?v=O2VkP8dJ5FE
 
 
 - [05:17](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=317#t=05:17.14) 輸出
+
+# Softmax
+
+
+- [06:15](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=376#t=06:15.95) 
