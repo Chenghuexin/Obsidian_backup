@@ -10,4 +10,6 @@ media: https://www.youtube.com/watch?v=hYdO9CscNes
 
 如何自動決定向量之間的關聯性 :
 dot-product(常見作法) : 
-將比較的兩個向量分別乘上不同的矩陣
+將比較的兩個向量分別乘上不同的矩陣，得到q、k兩個矩陣，再將q和k做dot-product，所得到的結果就是α
+
+a
