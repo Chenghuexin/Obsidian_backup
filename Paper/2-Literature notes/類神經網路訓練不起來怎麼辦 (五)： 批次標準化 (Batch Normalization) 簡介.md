@@ -34,3 +34,4 @@ media: https://www.youtube.com/watch?v=BABPWOkSbLE
 # Testing
 
 在做batch normalization時是透過一整個batch算出μ和σ，如果今天在測試時你只有丟一筆資料進去測試的話根本無法得到這兩個參數
+pytorch中，利用訓練時利用每一次的batch normalization得到的上述兩ㄍㄜ
