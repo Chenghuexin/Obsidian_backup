@@ -14,3 +14,5 @@ media: https://www.youtube.com/watch?v=OP5HcXJg2Aw
 # Parameter sharing
 
 each receptive field has the neurons with the same set of parameters(**Filter**)
+
+# Pooling
