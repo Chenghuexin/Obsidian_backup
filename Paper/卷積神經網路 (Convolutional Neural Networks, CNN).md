@@ -21,4 +21,4 @@ each receptive field has the neurons with the same set of parameters(**Filter**)
 
 # Flatten
 
-將所有矩陣
+將所有矩陣拉直變成一個向量
