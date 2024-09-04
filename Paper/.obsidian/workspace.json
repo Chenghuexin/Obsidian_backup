@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Literature notes/Transformer (下).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Literature notes/Transformer (下).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-Literature notes/Transformer (下).md"
+              }
             }
           }
         ]
@@ -160,7 +164,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "db386f3eedb74a2a",
+  "active": "3429e529d3643e75",
   "lastOpenFiles": [
     "2-Literature notes/Transformer (下).md",
     "2-Literature notes/attachments/【機器學習2021】Transformer (下)PT9M18.824S.webp",
