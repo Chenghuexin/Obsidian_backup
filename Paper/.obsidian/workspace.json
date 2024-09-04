@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "597d7b3434f073d6",
+        "id": "733ee9654dbbe121",
         "type": "tabs",
         "children": [
           {
@@ -150,6 +150,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
