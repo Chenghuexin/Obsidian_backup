@@ -21,3 +21,7 @@ self-attention沒有位置資訊，如果想要把位置資訊加進去，可以
 > CNN可以視為一種簡化版的self-attention，self-attention會考慮到整張圖片，但CNN只會考慮receptive field裡的東西；也可以說self-attention是CNN的複雜化
 
 > CNN的彈性比較小，在資料量比較小的時候表現會比self-attention好；而self-attention彈性比較大，在資料量大的時候表現會比CNN好
+
+
+# Self-attention v.s. CNN
+
