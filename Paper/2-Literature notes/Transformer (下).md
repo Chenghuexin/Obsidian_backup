@@ -15,7 +15,7 @@ decoder會把自己的輸出當作接下來的輸入 (e.g.  [01:55](https://www.
 
 ### 流程
 
-輸入begin token，經過masked self-attention, 
+輸入begin token，經過masked self-attention, 接著進行residual connection和layer normalization；將輸出結果與encoder的輸出結果進行cross attention；最後進行全連接和Add 
 > [!NOTE]
 > Masked Self-attention : 與self-attention不同的點是產生b1的時候只能考慮a1，產生b2時只能考慮a1,a2，以此類推([11:48](https://www.youtube.com/watch?v=N6aRv06iv2g&t=709#t=11:48.59) )；因為decoder的運作方法，所以只能考慮左邊的東西，無法考慮到右邊的東西
 
