@@ -6,3 +6,6 @@ media: https://www.youtube.com/watch?v=BABPWOkSbLE
 # Changing Landscape
 
 error surface過於崎嶇導致訓練效果不好
+
+導致error surface崎嶇的原因 : 
+特徵跟特徵之間的數值範圍差距過大
