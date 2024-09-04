@@ -44,4 +44,5 @@ decoder的輸入會是正確答案(teacher forcing)
 
 強制學習順序
 
-Be
+## Beam Search
+
