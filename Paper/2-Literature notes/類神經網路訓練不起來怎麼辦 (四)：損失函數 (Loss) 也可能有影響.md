@@ -21,13 +21,15 @@ media: https://www.youtube.com/watch?v=O2VkP8dJ5FE
 
 - [08:47](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=527#t=08:47.20) 公式
 
+# Loss of Classification
+
 ## Mean Square Error(MSE)
 
 
 - [11:21](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=681#t=11:21.28) 
 
 
-# Cross-entropy
+## Cross-entropy
 
 
 - [12:09](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=730#t=12:09.53) 

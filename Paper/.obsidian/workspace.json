@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cc01af2ad27d119f",
+        "id": "4679d553cb7bb7ea",
         "type": "tabs",
         "children": [
           {
-            "id": "9c82e3e483cdf534",
+            "id": "824a754f3c75e6bf",
             "type": "leaf",
             "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=O2VkP8dJ5FE"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2ca67104be21b060",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa79300a05f8acfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -159,7 +139,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9c82e3e483cdf534",
+  "active": "824a754f3c75e6bf",
   "lastOpenFiles": [
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
