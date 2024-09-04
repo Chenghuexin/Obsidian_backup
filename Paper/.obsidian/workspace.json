@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ad536686dead1c4",
+        "id": "597d7b3434f073d6",
         "type": "tabs",
         "children": [
           {
-            "id": "abaf6a0fdaa808de",
+            "id": "73ed96fc00522713",
             "type": "leaf",
             "state": {
               "type": "mx-webpage",
@@ -159,7 +159,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "abaf6a0fdaa808de",
+  "active": "73ed96fc00522713",
   "lastOpenFiles": [
     "類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",
