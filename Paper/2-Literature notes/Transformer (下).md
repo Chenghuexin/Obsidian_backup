@@ -42,3 +42,6 @@ decoder的輸入會是正確答案(teacher forcing)
 
 ## Guided Attention
 
+強制學習順序
+
+Be
