@@ -27,5 +27,7 @@ Transformer 是一個 Seq2Seq model, 它的輸出長度由機器自行決定
 
 layer normalization : normalize同一個feature不同維度的資料
 
-add
+可能會加上positional encoding
+
+Add & Norm : residual + layer normalization
 ## Decoder
