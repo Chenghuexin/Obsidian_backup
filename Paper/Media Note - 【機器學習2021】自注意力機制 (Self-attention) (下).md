@@ -33,4 +33,5 @@ RNN雖然也考量到所有輸入，但在儲存資料上比self-attention不方
 
 # Self-attention for Graph
 
-graph有edge，已經告知我們節點之間的關聯性了，只需計算有連接地節點之間的關聯性即可，沒有相連的節點就代表可能沒有關連性，即為一種G
+graph有edge，已經告知我們節點之間的關聯性了，只需計算有連接地節點之間的關聯性即可，沒有相連的節點就代表可能沒有關連性，即為一種Graph Neural Network(GNN)
+

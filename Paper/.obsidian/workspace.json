@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4b21a5752720a5d1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "48f73e9c0cbc4d19",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=gmsMY5kc-zw"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "195521a1a28e7330",
         "type": "tabs",
         "children": [
@@ -113,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Media Note - 【機器學習2021】自注意力機制 (Self-attention) (下).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Media Note - 【機器學習2021】自注意力機制 (Self-attention) (下).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Media Note - 【機器學習2021】自注意力機制 (Self-attention) (下).md"
+              }
             }
           }
         ]
@@ -172,7 +160,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "48f73e9c0cbc4d19",
+  "active": "2b8a4f1f1e71f8df",
   "lastOpenFiles": [
     "Media Note - 【機器學習2021】自注意力機制 (Self-attention) (下).md",
     "自注意力機制 (Self-attention) (上).md",
