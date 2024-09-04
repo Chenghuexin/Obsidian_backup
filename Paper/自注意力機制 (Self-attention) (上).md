@@ -16,3 +16,4 @@ media: https://www.youtube.com/watch?v=hYdO9CscNes
 > - additive
 > 一樣跟dot-product先得到q、k矩陣後，將這兩個矩陣串接起來，經過activation function，再通過transform
 
+接著以
