@@ -28,3 +28,5 @@ media: https://www.youtube.com/watch?v=BABPWOkSbLE
 
 只做一個batch裡面的normalization
 
+
+- [18:33](https://www.youtube.com/watch?v=BABPWOkSbLE&t=1114#t=18:33.55) 避免做完normalization後平均都是0，可能會給network一些限制導致有負面的影響，所以加上參數讓調整分布
