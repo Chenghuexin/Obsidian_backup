@@ -12,3 +12,5 @@ media: https://www.youtube.com/watch?v=gmsMY5kc-zw
 
 # Positional Encoding
 
+self-attention沒有位置資訊，如果想要把位置資訊加進去
+
