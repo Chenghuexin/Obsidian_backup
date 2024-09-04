@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "733ee9654dbbe121",
+        "id": "ffb39d4195e6deb2",
         "type": "tabs",
         "children": [
           {
-            "id": "73ed96fc00522713",
+            "id": "6b99a88fc07d5393",
             "type": "leaf",
             "state": {
               "type": "mx-webpage",
@@ -160,9 +160,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "73ed96fc00522713",
+  "active": "6b99a88fc07d5393",
   "lastOpenFiles": [
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
+    "1-Fleeting notes/大咪學到的東西.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
@@ -172,7 +173,6 @@
     "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/報書 - ChatGPT4.md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
-    "1-Fleeting notes/大咪學到的東西.md",
     "attachments/Pasted image 20240902215232.png",
     "attachments",
     "2-Literature notes/Machine learning basic concept.md",
