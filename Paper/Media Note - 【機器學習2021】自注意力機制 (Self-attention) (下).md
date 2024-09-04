@@ -23,5 +23,7 @@ self-attention沒有位置資訊，如果想要把位置資訊加進去，可以
 > CNN的彈性比較小，在資料量比較小的時候表現會比self-attention好；而self-attention彈性比較大，在資料量大的時候表現會比CNN好
 
 
-# Self-attention v.s. CNN
+# Self-attention v.s. RNN
 
+
+RNN無法平行處理
