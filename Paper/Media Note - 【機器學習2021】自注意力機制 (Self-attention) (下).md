@@ -7,4 +7,4 @@ media: https://www.youtube.com/watch?v=gmsMY5kc-zw
 
 透過query找key的相關，但相關有不同的形式和定義，所以應該要有多個不同的query負責不同的種類的相關性
 
-以 2 heads作為解釋舉例 : 得到query之後
+以 2 heads作為解釋舉例 : 得到query(aj)之後乘上另外兩個矩陣得到qj1,qj2，以此類推，key
