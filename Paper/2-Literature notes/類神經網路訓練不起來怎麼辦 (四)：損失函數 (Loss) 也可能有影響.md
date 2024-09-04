@@ -26,3 +26,8 @@ media: https://www.youtube.com/watch?v=O2VkP8dJ5FE
 
 - [11:21](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=681#t=11:21.28) 
 
+
+# Cross-entropy
+
+
+- [12:09](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=730#t=12:09.53) 
