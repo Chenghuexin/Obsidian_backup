@@ -40,6 +40,10 @@ decoder會把自己的輸出當作接下來的輸入 (e.g.  [01:55](https://www.
 
 decoder的輸入會是正確答案(teacher forcing)
 
+## Optimizing Evaluation Metrics
+
+訓練的時候看的是cross-entropy
+測試的時候看的是BLEU score
 ## Guided Attention
 
 強制學習順序
