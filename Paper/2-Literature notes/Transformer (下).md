@@ -18,7 +18,9 @@ decoder會把自己的輸出當作接下來的輸入 (e.g.  [01:55](https://www.
 > [!NOTE]
 > Masked Self-attention : 與self-attention不同的點是產生b1的時候只能考慮a1，產生b2時只能考慮a1,a2，以此類推([11:48](https://www.youtube.com/watch?v=N6aRv06iv2g&t=709#t=11:48.59) )；因為decoder的運作方法，所以只能考慮左邊的東西，無法考慮到右邊的東西
 
-cross-attention : masked self-attention的輸出乘上transform得到一個向量query，然後encoder的輸出向量產生key，再計算key和query的attention score並執行一次softmax；接著藉由encoder的輸出向量產生value(這邊產生的方法都跟self-attention一樣)，接著與個別的attention score相乘最後相加
+> [!NOTE]
+> cross-attention : masked self-attention的輸出乘上transform得到一個向量query，然後encoder的輸出向量產生key，再計算key和query的attention score並執行一次softmax；接著藉由encoder的輸出向量產生value(這邊產生的方法都跟self-attention一樣)，接著與個別的attention score相乘最後相加
+> 
 
 ## Non-autoregressive(NAT)
 
