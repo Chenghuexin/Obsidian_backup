@@ -29,4 +29,4 @@ self-attention沒有位置資訊，如果想要把位置資訊加進去，可以
 
 RNN無法平行處理
 
-RNN雖然也考量到所有輸入，但在儲存資料上比self-att
+RNN雖然也考量到所有輸入，但在儲存資料上比self-attention不方便
