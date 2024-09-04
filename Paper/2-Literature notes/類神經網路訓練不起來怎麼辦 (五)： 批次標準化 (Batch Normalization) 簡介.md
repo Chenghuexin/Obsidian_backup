@@ -15,3 +15,8 @@ media: https://www.youtube.com/watch?v=BABPWOkSbLE
 
 解決特徵與特徵之間數值範圍差距過大的問題
 
+## 方法 一 : standardlization 
+
+
+- [07:19](https://www.youtube.com/watch?v=BABPWOkSbLE&t=440#t=07:20.00) 公式解釋
+
