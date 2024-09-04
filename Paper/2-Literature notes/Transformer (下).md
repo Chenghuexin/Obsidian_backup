@@ -21,4 +21,4 @@ Masked Self-attention : 與self-attention不同的點是產生b1的時候只能�
 
 一次把整個句子產生出來，輸入可能會是一整排的begin token讓他一次產生一排的token
 
-怎麼決定輸入長度
+怎麼決定輸入長度 : 透過一個classifier決定輸入長度(一種做法)
