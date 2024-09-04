@@ -5,4 +5,4 @@ media: https://www.youtube.com/watch?v=O2VkP8dJ5FE
 
 # 分類的小問題
 
-當 1 = class 1, 2 =
+當 1 = class 1, 2 = class 2, 3 = class 3；這樣會
