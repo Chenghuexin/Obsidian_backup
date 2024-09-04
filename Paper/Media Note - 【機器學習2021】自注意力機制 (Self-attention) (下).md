@@ -12,5 +12,7 @@ media: https://www.youtube.com/watch?v=gmsMY5kc-zw
 
 # Positional Encoding
 
-self-attention沒有位置資訊，如果想要把位置資訊加進去
+self-attention沒有位置資訊，如果想要把位置資訊加進去，可以使用positional encoding
+
+原理 : 對每一個位置設定一個向量，叫做positional vector，然後把對應的positional vector加到
 
