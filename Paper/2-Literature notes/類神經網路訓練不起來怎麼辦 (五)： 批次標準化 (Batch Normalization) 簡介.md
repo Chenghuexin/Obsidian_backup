@@ -33,3 +33,4 @@ media: https://www.youtube.com/watch?v=BABPWOkSbLE
 
 # Testing
 
+在做batch normalization時是透過一整個bat
