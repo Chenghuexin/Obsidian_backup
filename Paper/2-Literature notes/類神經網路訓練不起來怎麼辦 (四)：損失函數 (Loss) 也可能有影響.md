@@ -5,4 +5,7 @@ media: https://www.youtube.com/watch?v=O2VkP8dJ5FE
 
 # 分類的小問題
 
-當 1 = class 1, 2 = class 2, 3 = class 3；這樣的表示方法會導致class 1 和 class 2 比較相似，class 1 和 class 3 比較不一樣，
+當 1 = class 1, 2 = class 2, 3 = class 3；這樣的表示方法會導致class 1 和 class 2 比較相似，class 1 和 class 3 比較不一樣，在某些情況下會有問題。
+
+# Class as one-hot vector
+
