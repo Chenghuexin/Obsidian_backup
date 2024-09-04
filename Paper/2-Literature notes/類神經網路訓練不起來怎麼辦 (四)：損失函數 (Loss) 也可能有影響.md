@@ -31,3 +31,5 @@ media: https://www.youtube.com/watch?v=O2VkP8dJ5FE
 
 
 - [12:09](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=730#t=12:09.53) 
+
+- [13:08](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=788#t=13:08.09) Minimizing cross-entropy is equivalent to maximizing likelihood
