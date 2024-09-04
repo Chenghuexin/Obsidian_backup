@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md"
+              }
             }
           }
         ]
@@ -160,7 +164,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "73ed96fc00522713",
+  "active": "1df21afe5fc8d5cd",
   "lastOpenFiles": [
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",

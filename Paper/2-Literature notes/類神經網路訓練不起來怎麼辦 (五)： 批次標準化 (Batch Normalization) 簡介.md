@@ -20,3 +20,4 @@ media: https://www.youtube.com/watch?v=BABPWOkSbLE
 
 - [07:19](https://www.youtube.com/watch?v=BABPWOkSbLE&t=440#t=07:20.00) 公式解釋，做完normalization之後的好處是所有的特徵加總平均為0，變異數(variance)皆為1
 
+# 
