@@ -47,7 +47,7 @@ decoder的輸入會是正確答案(teacher forcing)
 
 ## Exopsure bias
 
-
+訓練的時候decoder看到的是正確答案，但在測試的時候decoder看到的是自己的預測結果
 ## Guided Attention
 
 強制學習順序
