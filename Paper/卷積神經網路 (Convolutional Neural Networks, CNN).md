@@ -17,4 +17,8 @@ each receptive field has the neurons with the same set of parameters(**Filter**)
 
 # Pooling
 
-主要目的為減少運算量，但近年來
+主要目的為減少運算量，但近年來因為運算能力越來越進步，開始減少使用Pooling
+
+# Flatten
+
+將所有矩陣
