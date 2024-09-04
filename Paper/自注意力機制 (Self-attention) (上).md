@@ -11,9 +11,9 @@ media: https://www.youtube.com/watch?v=hYdO9CscNes
 > [!NOTE]
 > 如何自動決定向量之間的關聯性 :
 > - dot-product(常見作法) : 
-> 將比較的兩個向量分別乘上不同的矩陣，得到q、k兩個矩陣，再將q和k做dot-product，所得到的結果就是α
+> 將比較的兩個向量分別乘上不同的矩陣(Wq、Wk)，得到q、k兩個矩陣，再將q和k做dot-product，所得到的結果就是α
 > 
 > - additive
 > 一樣跟dot-product先得到q、k矩陣後，將這兩個矩陣串接起來，經過activation function，再通過transform
 
-實作 : a1乘上
+實作 : a1乘上Wq得到query，其他向量乘上Wk(**key)**
