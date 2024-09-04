@@ -11,7 +11,7 @@ media: https://www.youtube.com/watch?v=BABPWOkSbLE
 
 - 特徵跟特徵之間的數值範圍差距過大
 
-# Feature Normalization
+# 解決方法 ─ Feature Normalization
 
 解決特徵與特徵之間數值範圍差距過大的問題
 
@@ -30,3 +30,6 @@ media: https://www.youtube.com/watch?v=BABPWOkSbLE
 
 
 - [18:33](https://www.youtube.com/watch?v=BABPWOkSbLE&t=1114#t=18:33.55) 避免做完normalization後平均都是0，可能會給network一些限制導致有負面的影響，所以加上參數讓調整分布
+
+# Testing
+
