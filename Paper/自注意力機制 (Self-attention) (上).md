@@ -23,4 +23,4 @@ media: https://www.youtube.com/watch?v=hYdO9CscNes
 ---
 ## Step 2 :
 
-抽取重要資訊 : 將所有原輸入的向量乘上Wv向量得到V，接著再將對應的
+抽取重要資訊 : 將所有原輸入的向量乘上Wv向量得到V，接著再將對應的α'(經過softmax的α)和相對應的v
