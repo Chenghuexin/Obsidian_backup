@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e8503c13950a73ce",
+        "id": "c591d49832d9f949",
         "type": "tabs",
         "children": [
           {
-            "id": "78bf3c5d3f4af0fd",
+            "id": "be7d8acedf56e721",
             "type": "leaf",
             "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=OP5HcXJg2Aw"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5d535df53d3a2fbb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9d128267c6855dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "卷積神經網路 (Convolutional Neural Networks, CNN).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -160,7 +140,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "78bf3c5d3f4af0fd",
+  "active": "be7d8acedf56e721",
   "lastOpenFiles": [
     "卷積神經網路 (Convolutional Neural Networks, CNN).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
