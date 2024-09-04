@@ -1,7 +1,7 @@
 ---
 media: https://www.youtube.com/watch?v=HYUXEeh3kwY
 ---
-承上回 : [[類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate)]]
+承上回 : [[類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum)]]
 
 # Learning rate cannot be one-size-fits-all
 

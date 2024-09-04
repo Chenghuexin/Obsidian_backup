@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4679d553cb7bb7ea",
+        "id": "9ad536686dead1c4",
         "type": "tabs",
         "children": [
           {
-            "id": "824a754f3c75e6bf",
+            "id": "abaf6a0fdaa808de",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "824a754f3c75e6bf",
+  "active": "abaf6a0fdaa808de",
   "lastOpenFiles": [
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
