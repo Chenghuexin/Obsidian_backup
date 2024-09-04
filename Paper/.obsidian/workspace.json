@@ -4,28 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "195521a1a28e7330",
+        "id": "948a687de9f4e61d",
         "type": "tabs",
         "children": [
           {
-            "id": "2b8a4f1f1e71f8df",
+            "id": "773511dab0cf20bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mx-webpage",
               "state": {
-                "file": "Media Note - 【機器學習2021】自注意力機制 (Self-attention) (下).md",
-                "mode": "source",
-                "source": false
+                "source": "https://www.youtube.com/watch?v=n9TlOhRjYoc"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1a813548aeda0108",
+        "type": "tabs",
+        "children": [
           {
-            "id": "bbd0a148bac9fc5f",
+            "id": "b895107a86c35f92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自注意力機制 (Self-attention) (上).md",
+                "file": "Media Note - 【機器學習2021】Transformer (上).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media Note - 【機器學習2021】自注意力機制 (Self-attention) (下).md",
+                "file": "Media Note - 【機器學習2021】Transformer (上).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media Note - 【機器學習2021】自注意力機制 (Self-attention) (下).md",
+                "file": "Media Note - 【機器學習2021】Transformer (上).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media Note - 【機器學習2021】自注意力機制 (Self-attention) (下).md"
+                "file": "Media Note - 【機器學習2021】Transformer (上).md"
               }
             }
           }
@@ -160,10 +164,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "2b8a4f1f1e71f8df",
+  "active": "b895107a86c35f92",
   "lastOpenFiles": [
-    "Media Note - 【機器學習2021】自注意力機制 (Self-attention) (下).md",
-    "自注意力機制 (Self-attention) (上).md",
+    "Media Note - 【機器學習2021】Transformer (上).md",
+    "2-Literature notes/自注意力機制 (Self-attention) (下).md",
+    "2-Literature notes/自注意力機制 (Self-attention) (上).md",
     "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
     "1-Fleeting notes/大咪學到的東西.md",
