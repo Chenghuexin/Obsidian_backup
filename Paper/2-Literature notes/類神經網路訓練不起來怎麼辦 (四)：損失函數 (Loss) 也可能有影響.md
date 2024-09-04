@@ -21,7 +21,7 @@ media: https://www.youtube.com/watch?v=O2VkP8dJ5FE
 
 - [08:47](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=527#t=08:47.20) 公式
 
-# Mean Square Error(MSE)
+## Mean Square Error(MSE)
 
 
 - [11:21](https://www.youtube.com/watch?v=O2VkP8dJ5FE&t=681#t=11:21.28) 
