@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media Note - 【機器學習2021】Transformer (上).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media Note - 【機器學習2021】Transformer (上).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Media Note - 【機器學習2021】Transformer (上).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,7 +160,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "b895107a86c35f92",
+  "active": "773511dab0cf20bd",
   "lastOpenFiles": [
     "Media Note - 【機器學習2021】Transformer (上).md",
     "2-Literature notes/自注意力機制 (Self-attention) (下).md",
