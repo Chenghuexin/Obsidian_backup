@@ -22,3 +22,7 @@ each receptive field has the neurons with the same set of parameters(**Filter**)
 # Flatten
 
 將所有矩陣拉直變成一個向量，接著再把這個向量丟入全連階層
+
+# CNN的缺點
+
+無法處理影像放大縮小或旋轉的問題
