@@ -44,6 +44,10 @@ decoder的輸入會是正確答案(teacher forcing)
 
 訓練的時候看的是cross-entropy
 測試的時候看的是BLEU score
+
+## Exopsure bias
+
+
 ## Guided Attention
 
 強制學習順序
