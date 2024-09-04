@@ -23,3 +23,6 @@ media: https://www.youtube.com/watch?v=BABPWOkSbLE
 # Normalization後經過某個layer之後的值也需要做Normalization 
 
 - [10:00](https://www.youtube.com/watch?v=BABPWOkSbLE&t=600#t=10:00.15) 
+
+## Batch Normalization
+
