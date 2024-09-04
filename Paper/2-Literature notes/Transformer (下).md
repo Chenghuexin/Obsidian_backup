@@ -35,4 +35,5 @@ decoder會把自己的輸出當作接下來的輸入 (e.g.  [01:55](https://www.
 > 
 > 缺點 : 往往表現都不如AT(原因 : Multi-modality)
 
-# Transo
+# Transformer - training
+
