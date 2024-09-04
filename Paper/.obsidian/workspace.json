@@ -34,8 +34,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbd0a148bac9fc5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自注意力機制 (Self-attention) (上).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "自注意力機制 (Self-attention) (上).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "自注意力機制 (Self-attention) (上).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "自注意力機制 (Self-attention) (上).md"
+              }
             }
           }
         ]
@@ -160,11 +177,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "48f73e9c0cbc4d19",
+  "active": "bbd0a148bac9fc5f",
   "lastOpenFiles": [
     "Media Note - 【機器學習2021】自注意力機制 (Self-attention) (下).md",
     "自注意力機制 (Self-attention) (上).md",
-    "卷積神經網路 (Convolutional Neural Networks, CNN).md",
+    "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
     "1-Fleeting notes/大咪學到的東西.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",
