@@ -25,9 +25,11 @@ Transformer 是一個 Seq2Seq model, 它的輸出長度由機器自行決定
 
 流程 : 輸入一排vector進入self-attention(multi-head)，self-attention的輸出還會加上原本相對應的輸入(residual connection)，接著再執行layer normalization，接著連接全連接，並且也有residual connection，再做一次layer normalization，最後輸出結果
 
-layer normalization : normalize同一個feature不同維度的資料
+> [!NOTE]
+> - layer normalization : normalize同一個feature不同維度的資料
+> 
+> - 可能會加上positional encoding
+> 
+> - Add & Norm : residual + layer normalization
 
-可能會加上positional encoding
-
-Add & Norm : residual + layer normalization
 ## Decoder
