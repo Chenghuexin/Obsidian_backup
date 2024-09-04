@@ -26,3 +26,4 @@ media: https://www.youtube.com/watch?v=BABPWOkSbLE
 
 ## Batch Normalization
 
+只做一個batch裡面的normalization
