@@ -47,7 +47,9 @@ decoder的輸入會是正確答案(teacher forcing)
 
 ## Exopsure bias
 
-訓練的時候decoder看到的是正確答案，但在測試的時候decoder看到的是自己的預測結果
+不一致的現象 : 訓練的時候decoder看到的是正確答案，但在測試的時候decoder看到的是自己的預測結果
+
+解決方法 : 在訓練的時候給予decoder錯誤的資料(scheduled sampling)
 ## Guided Attention
 
 強制學習順序
