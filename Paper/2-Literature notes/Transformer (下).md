@@ -34,3 +34,5 @@ decoder會把自己的輸出當作接下來的輸入 (e.g.  [01:55](https://www.
 > 優點 : 執行速度比AT快、比較可以控制輸出的長度
 > 
 > 缺點 : 往往表現都不如AT(原因 : Multi-modality)
+
+# Transo
