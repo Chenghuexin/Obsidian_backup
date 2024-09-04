@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "卷積神經網路 (Convolutional Neural Networks, CNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "卷積神經網路 (Convolutional Neural Networks, CNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "卷積神經網路 (Convolutional Neural Networks, CNN).md"
+              }
             }
           }
         ]
@@ -160,7 +164,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "78bf3c5d3f4af0fd",
+  "active": "c9d128267c6855dc",
   "lastOpenFiles": [
     "卷積神經網路 (Convolutional Neural Networks, CNN).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",

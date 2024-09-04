@@ -16,3 +16,5 @@ media: https://www.youtube.com/watch?v=OP5HcXJg2Aw
 each receptive field has the neurons with the same set of parameters(**Filter**)
 
 # Pooling
+
+主要目的為減少運算量，但近年來
