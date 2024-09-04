@@ -6,7 +6,7 @@ media: https://www.youtube.com/watch?v=hYdO9CscNes
 吃整個Sequence的資訊，輸入幾個向量，就會輸出幾個向量；輸出的向量皆是考慮過整個sequence才得到的
 
 
-根據a1向量，考慮其他向量，其中哪個向量與a1是最有關連的，每一個向量與a1的關聯程度以α(attention score)表示
+> 原理 : 根據a1向量，考慮其他向量，其中哪個向量與a1是最有關連的，每一個向量與a1的關聯程度以α(attention score)表示
 
 > [!NOTE]
 > 如何自動決定向量之間的關聯性 :
@@ -16,4 +16,4 @@ media: https://www.youtube.com/watch?v=hYdO9CscNes
 > - additive
 > 一樣跟dot-product先得到q、k矩陣後，將這兩個矩陣串接起來，經過activation function，再通過transform
 
-接著以
+實作 : a1乘上
