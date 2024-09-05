@@ -4,32 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "97f3caf85917dd10",
+        "id": "adec42c99dcc1c78",
         "type": "tabs",
         "children": [
           {
-            "id": "db386f3eedb74a2a",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=N6aRv06iv2g"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0e18718a72d97735",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3429e529d3643e75",
+            "id": "9e0616250ee72294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Literature notes/Transformer (下).md",
+                "file": "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-Literature notes/3D Medical image segmentation using parallel transformers.md"
+              }
             }
           }
         ]
@@ -160,14 +148,14 @@
       "media-extended:Open media": false
     }
   },
-  "active": "db386f3eedb74a2a",
+  "active": "9e0616250ee72294",
   "lastOpenFiles": [
     "2-Literature notes/Transformer (下).md",
     "2-Literature notes/attachments/【機器學習2021】Transformer (下)PT9M18.824S.webp",
     "1-Fleeting notes/大咪學到的東西.md",
     "2-Literature notes/Transformer (上).md",
-    "attachments/【機器學習2021】Transformer (上)PT24M44.058S.webp",
-    "attachments/【機器學習2021】Transformer (上)PT22M59.241S.webp",
+    "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT24M44.058S.webp",
+    "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT22M59.241S.webp",
     "2-Literature notes/自注意力機制 (Self-attention) (下).md",
     "2-Literature notes/自注意力機制 (Self-attention) (上).md",
     "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
@@ -181,7 +169,7 @@
     "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/報書 - ChatGPT4.md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
-    "attachments/Pasted image 20240902215232.png",
+    "2-Literature notes/attachments/Pasted image 20240902215232.png",
     "attachments",
     "2-Literature notes/Machine learning basic concept.md",
     "2-Literature notes/Introduction for machine learning.md",
