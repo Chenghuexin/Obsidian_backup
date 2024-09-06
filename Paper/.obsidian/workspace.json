@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54a283b7614cebcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Literature notes/自注意力機制 (Self-attention) (下).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/Transformer (上).md",
+                "file": "2-Literature notes/自注意力機制 (Self-attention) (下).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/Transformer (上).md",
+                "file": "2-Literature notes/自注意力機制 (Self-attention) (下).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Literature notes/Transformer (上).md"
+                "file": "2-Literature notes/自注意力機制 (Self-attention) (下).md"
               }
             }
           }
@@ -161,10 +173,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "aac4744a4c01e586",
+  "active": "54a283b7614cebcf",
   "lastOpenFiles": [
-    "2-Literature notes/自注意力機制 (Self-attention) (上).md",
     "2-Literature notes/Transformer (上).md",
+    "2-Literature notes/自注意力機制 (Self-attention) (上).md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
     "2-Literature notes/Transformer (下).md",
     "2-Literature notes/attachments/【機器學習2021】Transformer (下)PT9M18.824S.webp",
