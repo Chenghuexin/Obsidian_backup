@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
+                "file": "2-Literature notes/報書 - ChatGPT4.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
+                "file": "2-Literature notes/報書 - ChatGPT4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
+                "file": "2-Literature notes/報書 - ChatGPT4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Literature notes/3D Medical image segmentation using parallel transformers.md"
+                "file": "2-Literature notes/報書 - ChatGPT4.md"
               }
             }
           }
@@ -187,8 +187,8 @@
   },
   "active": "b0c28a0abdb6e8b9",
   "lastOpenFiles": [
-    "1-Fleeting notes/大咪學到的東西.md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
+    "1-Fleeting notes/大咪學到的東西.md",
     "2-Literature notes/自注意力機制 (Self-attention) (下).md",
     "2-Literature notes/Transformer (上).md",
     "2-Literature notes/自注意力機制 (Self-attention) (上).md",
