@@ -22,3 +22,6 @@ is possible with a linear transformation.
 The differences between  
 the input and context vector motivate their sepa-  
 rate treatment in the PRU architecture.
+
+## linear transformation
+
