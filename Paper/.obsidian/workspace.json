@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Literature notes/Transformer (上).md",
+                "file": "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting notes/大咪學到的東西.md",
+                "file": "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting notes/大咪學到的東西.md",
+                "file": "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Fleeting notes/大咪學到的東西.md"
+                "file": "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md"
               }
             }
           }
@@ -173,14 +173,14 @@
       "media-extended:Open media": false
     }
   },
-  "active": "54a283b7614cebcf",
+  "active": "aac4744a4c01e586",
   "lastOpenFiles": [
-    "2-Literature notes/報書 - ChatGPT4.md",
-    "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
-    "1-Fleeting notes/大咪學到的東西.md",
     "2-Literature notes/自注意力機制 (Self-attention) (下).md",
-    "2-Literature notes/Transformer (上).md",
     "2-Literature notes/自注意力機制 (Self-attention) (上).md",
+    "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
+    "2-Literature notes/Transformer (上).md",
+    "1-Fleeting notes/大咪學到的東西.md",
+    "2-Literature notes/報書 - ChatGPT4.md",
     "2-Literature notes/Transformer (下).md",
     "2-Literature notes/attachments/【機器學習2021】Transformer (下)PT9M18.824S.webp",
     "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT24M44.058S.webp",
