@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
+                "file": "2-Literature notes/Machine learning basic concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
+                "file": "2-Literature notes/Machine learning basic concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
+                "file": "2-Literature notes/Machine learning basic concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md"
+                "file": "2-Literature notes/Machine learning basic concept.md"
               }
             }
           }
@@ -175,6 +175,13 @@
   },
   "active": "aac4744a4c01e586",
   "lastOpenFiles": [
+    "2-Literature notes/Introduction for machine learning.md",
+    "2-Literature notes/Backpropagation.md",
+    "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",
+    "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
+    "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
+    "2-Literature notes/類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
+    "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
     "2-Literature notes/自注意力機制 (Self-attention) (下).md",
     "2-Literature notes/自注意力機制 (Self-attention) (上).md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
@@ -185,19 +192,12 @@
     "2-Literature notes/attachments/【機器學習2021】Transformer (下)PT9M18.824S.webp",
     "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT24M44.058S.webp",
     "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT22M59.241S.webp",
-    "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
-    "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",
-    "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
-    "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
-    "2-Literature notes/類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
     "2-Literature notes/Brief Introduction of Deep Learning.md",
-    "2-Literature notes/Backpropagation.md",
     "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/attachments/Pasted image 20240902215232.png",
     "attachments",
     "2-Literature notes/Machine learning basic concept.md",
-    "2-Literature notes/Introduction for machine learning.md",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT26M56.05S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT25M45.343S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT25M41.321S.webp",
