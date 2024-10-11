@@ -53,3 +53,8 @@
 >	Apache Spark, 
 >	Talend Open Studio
 >## 2. Data warehouses : RDBMS
+>	Amazon Redshift, 
+>	Snowflake, 
+>	Oracle
+>## 3. Data lakes : Storage of origin data
+>
