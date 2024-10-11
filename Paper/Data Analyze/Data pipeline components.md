@@ -48,4 +48,5 @@
 
 # 8. Technology
 >[!NOTE] 
->1. ETL  
+>## 1. ETL  tools : Informatica Power Center, Apache Spark, Talend Open Studio
+>## 2.
