@@ -47,4 +47,5 @@
 >- data load
 
 # 8. Technology
->[!NOTE] ## Definition : 
+>[!NOTE] 
+>1. ETL  
