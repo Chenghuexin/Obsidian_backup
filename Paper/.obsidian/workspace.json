@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2a1b229d6ce7d31",
+            "id": "36f271f2b390e456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Literature notes/自注意力機制 (Self-attention) (上).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aac4744a4c01e586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Literature notes/Machine learning basic concept.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54a283b7614cebcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Fleeting notes/大咪學到的東西.md",
+                "file": "Data Analyze/Data pipeline components.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/Machine learning basic concept.md",
+                "file": "Data Analyze/Data pipeline components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/Machine learning basic concept.md",
+                "file": "Data Analyze/Data pipeline components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Literature notes/Machine learning basic concept.md"
+                "file": "Data Analyze/Data pipeline components.md"
               }
             }
           }
@@ -173,8 +148,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "92eaa9d9ef74d557",
+  "active": "36f271f2b390e456",
   "lastOpenFiles": [
+    "2-Literature notes/Machine learning basic concept.md",
+    "Data Analyze/Data pipeline components.md",
     "Data Analyze",
     "2-Literature notes/Introduction for machine learning.md",
     "2-Literature notes/Backpropagation.md",
@@ -198,7 +175,6 @@
     "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/attachments/Pasted image 20240902215232.png",
     "attachments",
-    "2-Literature notes/Machine learning basic concept.md",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT26M56.05S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT25M45.343S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT25M41.321S.webp",
