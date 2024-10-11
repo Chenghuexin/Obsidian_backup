@@ -34,5 +34,8 @@
 > - streaming data
 
 # 6. Workflow
->[!NOTE]## Definition : In the pipeline, workflow defines a series of tasks and dependence between data
->
+>[!NOTE] ## Definition : In the pipeline, workflow defines a series of tasks and dependence between data
+>## Concept : 
+>- job
+>- upstream
+>- downstream
