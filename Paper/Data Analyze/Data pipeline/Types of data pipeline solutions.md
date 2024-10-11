@@ -1,3 +1,7 @@
+---
+refernece: https://hackmd.io/@Willie-The-Lord/Sym6lMv0O
+---
+
 ### Threr are diffenent ways to implement and apply pipeline channels in different situations
 
 ### 1. Batch
