@@ -19,3 +19,8 @@
 > - Load : load reformatted data to final destination
 
 # 4. Storage
+
+> [!NOTE] ## Definition : 
+> Contents
+
+
