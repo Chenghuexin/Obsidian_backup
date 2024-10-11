@@ -27,6 +27,8 @@
 > - volume of queries to a storage system
 
 # 5. Processing
-[!NOTE] ## Definietion : How to **implement** the process of data changes
 
-
+> [!NOTE] ## Definietion : How to **implement** the process of data changes
+> ### Example : 
+> - database replication
+> - streaming data
