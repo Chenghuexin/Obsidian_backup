@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analyze/Data pipeline components.md",
+                "file": "Data Analyze/Data pipeline/Data pipeline components.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analyze/Data pipeline components.md",
+                "file": "Data Analyze/Data pipeline/Data pipeline components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analyze/Data pipeline components.md",
+                "file": "Data Analyze/Data pipeline/Data pipeline components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analyze/Data pipeline components.md"
+                "file": "Data Analyze/Data pipeline/Data pipeline components.md"
               }
             }
           }
@@ -149,10 +149,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "36f271f2b390e456",
+  "active": "92eaa9d9ef74d557",
   "lastOpenFiles": [
+    "Data Analyze/Data pipeline",
     "2-Literature notes/Machine learning basic concept.md",
-    "Data Analyze/Data pipeline components.md",
+    "Data Analyze/Data pipeline/Data pipeline components.md",
     "Data Analyze",
     "2-Literature notes/Introduction for machine learning.md",
     "2-Literature notes/Backpropagation.md",
