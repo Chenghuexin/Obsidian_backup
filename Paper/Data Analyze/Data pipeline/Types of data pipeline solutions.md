@@ -2,7 +2,9 @@
 
 ### 1. Batch
 regular interval large volume data
+e.g. : marketing information
 
 ### 2. Real-time
+
 ### 3. Cloud native
 ### 4. Open source
