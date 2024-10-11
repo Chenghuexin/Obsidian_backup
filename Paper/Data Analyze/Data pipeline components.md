@@ -32,3 +32,6 @@
 > ### Example : 
 > - database replication
 > - streaming data
+
+# 6. Workflow
+>[!NOTE]## Definition : In the pipeline, workflow defines 
