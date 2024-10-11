@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cfcd00f18d194d21",
+        "id": "19dfb7e15715bddd",
         "type": "tabs",
         "children": [
           {
-            "id": "ce568839ccad2b96",
+            "id": "f73d58dbcf47a257",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analyze/Data pipeline/Types of data pipeline solutions.md",
+                "file": "Data Analyze/Data pipeline/Data pipeline components.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f684e491af8eeed5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analyze/Data pipeline/Types of data pipeline solutions.md",
+                "file": "Data Analyze/Data pipeline/Data pipeline components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analyze/Data pipeline/Types of data pipeline solutions.md",
+                "file": "Data Analyze/Data pipeline/Data pipeline components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analyze/Data pipeline/Types of data pipeline solutions.md"
+                "file": "Data Analyze/Data pipeline/Data pipeline components.md"
               }
             }
           }
@@ -148,8 +149,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "ce568839ccad2b96",
+  "active": "f73d58dbcf47a257",
   "lastOpenFiles": [
+    "2-Literature notes/自注意力機制 (Self-attention) (上).md",
     "Data Analyze/Data pipeline/Data pipeline components.md",
     "Data Analyze/Data pipeline/Types of data pipeline solutions.md",
     "Data Analyze/Data pipeline",
@@ -163,7 +165,6 @@
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
     "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
     "2-Literature notes/自注意力機制 (Self-attention) (下).md",
-    "2-Literature notes/自注意力機制 (Self-attention) (上).md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
     "2-Literature notes/Transformer (上).md",
     "1-Fleeting notes/大咪學到的東西.md",
