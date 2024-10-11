@@ -21,6 +21,6 @@
 # 4. Storage
 
 > [!NOTE] ## Definition : The place where data is stored at different stages in the pipeline
-> Contents
+> ### depends on many factors : 
 
 
