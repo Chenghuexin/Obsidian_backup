@@ -1,0 +1,1 @@
+## Threr are diffenent ways to implement and apply

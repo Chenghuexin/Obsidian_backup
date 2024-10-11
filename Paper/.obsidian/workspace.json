@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d6cb923cd31605fa",
+        "id": "cfcd00f18d194d21",
         "type": "tabs",
         "children": [
           {
-            "id": "36f271f2b390e456",
+            "id": "ce568839ccad2b96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analyze/Data pipeline/Data pipeline components.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d7d37f36fd434c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Data Analyze/Data pipeline/Types of data pipeline solutions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f684e491af8eeed5",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Data Analyze/Data pipeline/Types of data pipeline solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Data Analyze/Data pipeline/Types of data pipeline solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Data Analyze/Data pipeline/Types of data pipeline solutions.md"
               }
             }
           }
@@ -161,10 +149,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "0d7d37f36fd434c4",
+  "active": "92eaa9d9ef74d557",
   "lastOpenFiles": [
     "Data Analyze/Data pipeline/Data pipeline components.md",
-    "Untitled.md",
+    "Data Analyze/Data pipeline/Types of data pipeline solutions.md",
     "Data Analyze/Data pipeline",
     "2-Literature notes/Machine learning basic concept.md",
     "Data Analyze",
