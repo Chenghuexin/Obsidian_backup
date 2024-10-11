@@ -42,4 +42,9 @@
 
 # 7. Monitoring
 >[!NOTE] ## Definition : Check whether the data in the pipeline is functioning normally
->
+>## Example : 
+>- efficiency
+>- data load
+
+# 8. Technology
+>[!NOTE] ## Definition : 
