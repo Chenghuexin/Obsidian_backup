@@ -69,4 +69,8 @@
 >	Storm, 
 >	Kafka
 >## 6. Programming Language
-> 		
+>	java
+>	python
+>	Ruby
+>	Scala
+>	 		
