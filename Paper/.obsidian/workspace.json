@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f684e491af8eeed5",
@@ -148,7 +149,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "92eaa9d9ef74d557",
+  "active": "0c4b20f482ae459c",
   "lastOpenFiles": [
     "Data Analyze/DataOps.md",
     "Data Analyze/Data pipeline/Types of data pipeline solutions.md",
