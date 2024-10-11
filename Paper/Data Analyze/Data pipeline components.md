@@ -56,6 +56,9 @@
 >	Amazon Redshift, 
 >	Snowflake, 
 >	Oracle
->## 3. Data lakes : Raw data storage, which may be relational or unrelated to data
+>## 3. Data lakes : Raw data storage, which may be relational or non-relational data
+>	Microsoft Azure, 
+>	IB
+>## 4.Batch workflow schedulers: 自動化和監控工作流(workflow) e.g. Air
 >
 >
