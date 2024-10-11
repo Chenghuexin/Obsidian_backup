@@ -21,9 +21,12 @@
 # 4. Storage
 
 > [!NOTE] ## Definition : The place where data is stored at different stages in the pipeline
-> ### depends on many factors : 
+> ### depends on many factors(example) : 
 > - volume
 > - fequency
-> - volume of qu
+> - volume of queries to a storage system
+
+# 5. Processing
+[!NOTE] ## Definietion : 
 
 
