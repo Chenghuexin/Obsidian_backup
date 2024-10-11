@@ -14,6 +14,7 @@
 
 > [!NOTE] ## Definition : The process of data "flowing" between the starting point and the ending point
 > ### ETL
-> - Extract : Getting data
+> - Extract : Getting data from disparate source systems
+> - Transform : Moving data into staging area and transfering data format into 
 
 # 4. Storage
