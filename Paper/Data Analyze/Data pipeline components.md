@@ -8,7 +8,11 @@
 # 2. Destination
 
 > [!NOTE] ## Definition : The data after transfering
-> - depending on 
+> - depends mainly on the practical application of the data
 
 # 3. Dataflow
+
+> [!NOTE] T
+> Contents
+
 # 4. Storage
