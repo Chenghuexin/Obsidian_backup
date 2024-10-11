@@ -64,5 +64,9 @@
 >	Oozie, 
 >	Azkaban
 >## 5. Handle streaming/continuously generated data
->
->
+>	Apache Spark, 
+>	Flink, 
+>	Storm, 
+>	Kafka
+>## 6. Programming Language
+> 		
