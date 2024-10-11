@@ -49,5 +49,7 @@
 # 8. Technology
 >[!NOTE] 
 >## 1. ETL  tools : data preparation, integration tools
->	Informatica Power Center, Apache Spark, Talend Open Studio
->## 2. Data warehouses : 
+>	Informatica Power Center, 
+>	Apache Spark, 
+>	Talend Open Studio
+>## 2. Data warehouses : RDBMS
