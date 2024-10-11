@@ -22,5 +22,8 @@
 
 > [!NOTE] ## Definition : The place where data is stored at different stages in the pipeline
 > ### depends on many factors : 
+> - volume
+> - fequency
+> - volume of qu
 
 
