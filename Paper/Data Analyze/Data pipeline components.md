@@ -1,6 +1,7 @@
 # 1. Origin
 
-## Definition : The start ofdata in the pipeline
+> [!NOTE]
+> ## Definition : The start of data in the pipeline
 
 # 2. Destination
 # 3. Dataflow
