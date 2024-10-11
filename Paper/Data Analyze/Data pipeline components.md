@@ -27,6 +27,6 @@
 > - volume of queries to a storage system
 
 # 5. Processing
-[!NOTE] ## Definietion : 
+[!NOTE] ## Definietion : How to **implement** the process of data changes
 
 
