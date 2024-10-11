@@ -12,7 +12,8 @@
 
 # 3. Dataflow
 
-> [!NOTE] ## Definition : 
-> Contents
+> [!NOTE] ## Definition : The process of data "flowing" between the starting point and the ending point
+> ### ETL
+> - Extract : Getting data
 
 # 4. Storage
