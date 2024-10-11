@@ -39,3 +39,7 @@
 >- job
 >- upstream
 >- downstream
+
+# 7. Monitoring
+>[!NOTE] ## Definition : Check whether the data in the pipeline is functioning normally
+>
