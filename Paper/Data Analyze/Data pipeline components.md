@@ -7,8 +7,8 @@
 
 # 2. Destination
 
-> [!NOTE] Definition : The d
-> Contents
+> [!NOTE] ## Definition : The data after transfering
+> - depending on 
 
 # 3. Dataflow
 # 4. Storage
