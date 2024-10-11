@@ -20,7 +20,7 @@
 
 # 4. Storage
 
-> [!NOTE] ## Definition : The place where data is sotred at different stages in the pipeline
+> [!NOTE] ## Definition : The place where data is stored at different stages in the pipeline
 > Contents
 
 
