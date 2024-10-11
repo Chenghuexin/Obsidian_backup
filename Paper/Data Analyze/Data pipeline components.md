@@ -56,5 +56,6 @@
 >	Amazon Redshift, 
 >	Snowflake, 
 >	Oracle
->## 3. Data lakes : Storage of origin data
+>## 3. Data lakes : Raw data storage, which may be relational or unrelated to data
+>
 >
