@@ -1,8 +1,8 @@
 ---
 Leetcode: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
 refernece: https://magiclen.org/quickselect/
-range: Mediam
 tags:
+  - Sorting
 ---
 
 # Problem explaination
