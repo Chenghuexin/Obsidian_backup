@@ -19,7 +19,7 @@ class Solution {
 
         k = nums.length - k;
 
-		// initialization
+		// initialization, start => piviot
         int start = 0, end = nums.length - 1;
 
         while(start < end){
@@ -59,13 +59,13 @@ class Solution {
         // increasing order
 
         while(true){
-			// find the element which is larger than 
+			// find the element which is larger than piviot
             while(nums[++temp_start] < nums[start] && temp_start < end);
-
+			// find the element which is smaller than piviot
             while(nums[--temp_end] > nums[start] && temp_end > start);
 
   
-
+			// it means 
             if(temp_start >= temp_end){
 
                 break;
