@@ -3,6 +3,7 @@ Leetcode: https://leetcode.com/problems/kth-largest-element-in-an-array/descript
 refernece: https://magiclen.org/quickselect/
 tags:
   - Sorting
+  - DivideAndConquer
 ---
 
 # Problem explaination
@@ -14,11 +15,6 @@ Find the Kth largest element in  a array
 # Solution
 ## Quick Select
 
->[!NOTE]program explaination
->1. initialize a piviot to index 0
->2. from index of piviot + 1, find the element which is larger than piviot, named as temp_start
->3. from end of array, find the element which is smaller than piviot, named as temp_end
->4. 
 ```Java
 class Solution {
 
