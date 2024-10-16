@@ -4,3 +4,86 @@ tags:
   - Sorting
   - DivideAndConquer
 ---
+# Problem explaination
+find the top k 
+# Solution
+```Java
+class Solution {
+
+    public int[] topKFrequent(int[] nums, int k) {
+
+        // record the frquency of each element
+
+        HashMap<Integer, Integer> Freq = new HashMap<>();
+
+        for (int i : nums) {
+
+            Freq.put(i, Freq.getOrDefault(i, 0) + 1);
+
+        }
+
+  
+
+        // one bucket store the element(key) having the same frequency(index)
+
+        List<Integer>[] buckets = new ArrayList[nums.length + 1];
+
+        for (int key : Freq.keySet()) {
+
+            int f = Freq.get(key);
+
+            if(buckets[f] == null){
+
+                buckets[f] = new ArrayList<>();
+
+            }
+
+            buckets[f].add(key);
+
+        }
+
+  
+
+        // find top K
+
+        List<Integer> topK = new ArrayList<>();
+
+        for (int i = buckets.length - 1; i >= 0 && topK.size() < k ; i--) {
+
+            if(buckets[i] == null){
+
+                continue;
+
+            }
+
+  
+
+            if(buckets[i].size() <= (k - topK.size())) {
+
+                topK.addAll(buckets[i]);
+
+            } else {
+
+                topK.addAll(buckets[i].subList(0, k - topK.size()));
+
+            }
+
+        }
+
+  
+
+        int[] result = new int[k];
+
+        for (int i = 0; i < k; i++){
+
+            result[i] = topK.get(i);
+
+        }
+
+        return result;
+
+    }
+
+}
+
+```
