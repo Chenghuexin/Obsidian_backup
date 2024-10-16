@@ -19,7 +19,7 @@ class Solution {
 
         k = nums.length - k;
 
-		// initi
+		// initialization
         int start = 0, end = nums.length - 1;
 
         while(start < end){
@@ -59,7 +59,7 @@ class Solution {
         // increasing order
 
         while(true){
-
+			// find the element which is larger than 
             while(nums[++temp_start] < nums[start] && temp_start < end);
 
             while(nums[--temp_end] > nums[start] && temp_end > start);
