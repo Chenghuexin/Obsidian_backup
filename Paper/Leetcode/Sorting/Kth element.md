@@ -65,7 +65,7 @@ class Solution {
             while(nums[--temp_end] > nums[start] && temp_end > start);
 
   
-			// it means 
+
             if(temp_start >= temp_end){
 
                 break;
@@ -77,7 +77,7 @@ class Solution {
             swap(nums, temp_start, temp_end);
 
         }
-
+        
         swap(nums, start, temp_end);
 
         return temp_end;
