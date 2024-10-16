@@ -8,7 +8,7 @@ tags:
 find the k most frequent elements
 
 >[!NOTE]Notice
->
+>using array to store the elements of different frequence, in
 # Solution
 ```Java
 class Solution {
