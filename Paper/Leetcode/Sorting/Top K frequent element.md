@@ -8,7 +8,9 @@ tags:
 find the k most frequent elements
 
 >[!NOTE]Notice
->using array to store the elements of different frequence, in
+>using array to store the elements of different frequence. 
+>e.g. array[3] sotre the elements whose frequency are 3
+>Don't use sorting!!
 # Solution
 ```Java
 class Solution {
