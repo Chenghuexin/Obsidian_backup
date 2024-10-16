@@ -16,7 +16,7 @@ Find the Kth largest element in  a array
 class Solution {
 
     public int findKthLargest(int[] nums, int k) {
-
+		// because the sorting is increasing order
         k = nums.length - k;
 
 		// initialization, start => piviot
@@ -78,7 +78,7 @@ class Solution {
 
         }
         
-        swap(nums, start, temp_end); // after swapping, 
+        swap(nums, start, temp_end); // after swapping, the elements in the right side of piviot are larger than piviot
 
         return temp_end;
 
