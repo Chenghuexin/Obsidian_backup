@@ -7,7 +7,9 @@ Find the Kth largest element in  a array
 # Solution
 ## Quick Select
 
->[!NOTE]
+>[!NOTE]program explaination
+>initialize a piviot from arr[0]
+
 ```Java
 class Solution {
 
