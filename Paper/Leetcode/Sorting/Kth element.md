@@ -10,7 +10,8 @@ Find the Kth largest element in  a array
 >[!NOTE]program explaination
 >1. initialize a piviot to index 0
 >2. from index of piviot + 1, find the element which is larger than piviot, named as temp_start
->3. f
+>3. from end of array, find the element which is smaller than piviot, named as temp_end
+>4. 
 ```Java
 class Solution {
 
@@ -18,6 +19,7 @@ class Solution {
 
         k = nums.length - k;
 
+		// initi
         int start = 0, end = nums.length - 1;
 
         while(start < end){
