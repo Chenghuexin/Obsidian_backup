@@ -78,7 +78,7 @@ class Solution {
 
         }
         
-        swap(nums, start, temp_end);
+        swap(nums, start, temp_end); // after swapping, 
 
         return temp_end;
 
