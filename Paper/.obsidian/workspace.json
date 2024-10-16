@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Sorting/Kth element.md",
+                "file": "Leetcode/Sorting/Top K frequent element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Sorting/Kth element.md",
+                "file": "Leetcode/Sorting/Top K frequent element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Sorting/Kth element.md"
+                "file": "Leetcode/Sorting/Top K frequent element.md"
               }
             }
           }
@@ -160,10 +161,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "4c8e4e532372c254",
+  "active": "202f15210d8f706c",
   "lastOpenFiles": [
-    "Leetcode/Sorting/Top K frequent element.md",
     "Leetcode/Sorting/Kth element.md",
+    "Leetcode/Sorting/Top K frequent element.md",
     "Leetcode/Sorting",
     "Leetcode",
     "Data Analyze/DataOps.md",

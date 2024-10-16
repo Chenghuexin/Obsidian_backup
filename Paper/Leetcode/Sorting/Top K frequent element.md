@@ -7,7 +7,7 @@ tags:
 # Problem explaination
 find the k most frequent elements
 
->[!NOTE]Notice
+>[!NOTE] Notice
 >using array to store the elements of different frequence. 
 >e.g. array[3] sotre the elements whose frequency are 3
 >Don't use sorting!!
