@@ -3,6 +3,7 @@ Leetcode: https://leetcode.com/problems/top-k-frequent-elements/description/
 tags:
   - Sorting
   - DivideAndConquer
+  - BucketSort
 ---
 # Problem explaination
 find the k most frequent elements
