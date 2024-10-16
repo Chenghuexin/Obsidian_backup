@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "16ea466db49e789e",
+        "id": "8909020dad9c0cb8",
         "type": "tabs",
         "children": [
           {
-            "id": "0c4b20f482ae459c",
+            "id": "4c8e4e532372c254",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Analyze/DataOps.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analyze/DataOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analyze/DataOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Analyze/DataOps.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "0c4b20f482ae459c",
+  "active": "92eaa9d9ef74d557",
   "lastOpenFiles": [
-    "Data Analyze/Data pipeline/Untitled.md",
+    "Leetcode",
     "Data Analyze/DataOps.md",
+    "Data Analyze/Data pipeline/Untitled.md",
     "Data Analyze/attachments/Pasted image 20241011125558.png",
     "Data Analyze/attachments",
     "Data Analyze/Data pipeline/Types of data pipeline solutions.md",
@@ -190,7 +183,6 @@
     "2024-08-12.md",
     "2-Literature notes/attachments",
     "1-Fleeting notes/Test.md",
-    "Media Note - 【機器學習2022】開學囉~ 又要週更了~.md",
     "4-Index notes",
     "3-Permanent notes",
     "2-Literature notes",
