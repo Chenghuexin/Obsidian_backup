@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0dc87285335e68a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Analyze/Data pipeline/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analyze/DataOps.md",
+                "file": "Data Analyze/Data pipeline/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analyze/DataOps.md",
+                "file": "Data Analyze/Data pipeline/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analyze/DataOps.md"
+                "file": "Data Analyze/Data pipeline/Untitled.md"
               }
             }
           }
@@ -148,11 +161,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "0c4b20f482ae459c",
+  "active": "92eaa9d9ef74d557",
   "lastOpenFiles": [
+    "Data Analyze/DataOps.md",
+    "Data Analyze/Data pipeline/Untitled.md",
     "Data Analyze/attachments/Pasted image 20241011125558.png",
     "Data Analyze/attachments",
-    "Data Analyze/DataOps.md",
     "Data Analyze/Data pipeline/Types of data pipeline solutions.md",
     "Data Analyze/Data pipeline/Data pipeline components.md",
     "2-Literature notes/自注意力機制 (Self-attention) (上).md",
@@ -185,7 +199,6 @@
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT25M41.321S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT18M49.002S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT17M21.058S.webp",
-    "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT14M53.878S.webp",
     "Media Note - 【機器學習2021】預測本頻道觀看人數 (下) - 深度學習基本概念簡介.md",
     "2024-08-12.md",
     "2-Literature notes/attachments",
