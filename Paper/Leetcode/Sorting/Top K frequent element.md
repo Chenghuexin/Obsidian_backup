@@ -5,7 +5,10 @@ tags:
   - DivideAndConquer
 ---
 # Problem explaination
-find the top k 
+find the k most frequent elements
+
+>[!NOTE]Notice
+>
 # Solution
 ```Java
 class Solution {
