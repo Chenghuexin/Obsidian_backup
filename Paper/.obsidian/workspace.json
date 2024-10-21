@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Sorting/Top K frequent element.md",
+                "file": "2-Literature notes/機器學習任務攻略.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Sorting/Top K frequent element.md",
+                "file": "2-Literature notes/機器學習任務攻略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Sorting/Top K frequent element.md",
+                "file": "2-Literature notes/機器學習任務攻略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Sorting/Top K frequent element.md"
+                "file": "2-Literature notes/機器學習任務攻略.md"
               }
             }
           }
@@ -163,8 +163,11 @@
   },
   "active": "202f15210d8f706c",
   "lastOpenFiles": [
-    "Leetcode/Sorting/Kth element.md",
+    "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
+    "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
+    "2-Literature notes/類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
     "Leetcode/Sorting/Top K frequent element.md",
+    "Leetcode/Sorting/Kth element.md",
     "Leetcode/Sorting",
     "Leetcode",
     "Data Analyze/DataOps.md",
@@ -180,9 +183,6 @@
     "2-Literature notes/Introduction for machine learning.md",
     "2-Literature notes/Backpropagation.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",
-    "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
-    "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
-    "2-Literature notes/類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
     "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
     "2-Literature notes/自注意力機制 (Self-attention) (下).md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
