@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Sorting/Kth element.md",
+                "file": "Leetcode/Sorting/Top K frequent element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kth element"
+              "title": "Top K frequent element"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/機器學習任務攻略.md",
+                "file": "Leetcode/Sorting/Top K frequent element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 機器學習任務攻略"
+              "title": "Backlinks for Top K frequent element"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/機器學習任務攻略.md",
+                "file": "Leetcode/Sorting/Top K frequent element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 機器學習任務攻略"
+              "title": "Outgoing links from Top K frequent element"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Literature notes/機器學習任務攻略.md"
+                "file": "Leetcode/Sorting/Top K frequent element.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 機器學習任務攻略"
+              "title": "Outline of Top K frequent element"
             }
           }
         ]
@@ -164,13 +164,14 @@
       "media-extended:Open media": false
     }
   },
-  "active": "92eaa9d9ef74d557",
+  "active": "4c8e4e532372c254",
   "lastOpenFiles": [
+    "Leetcode/Sorting/Kth element.md",
+    "Leetcode/Sorting/Top K frequent element.md",
+    "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point).md",
-    "Leetcode/Sorting/Top K frequent element.md",
-    "Leetcode/Sorting/Kth element.md",
     "Leetcode/Sorting",
     "Leetcode",
     "Data Analyze/DataOps.md",
@@ -198,7 +199,6 @@
     "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT22M59.241S.webp",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
     "2-Literature notes/Brief Introduction of Deep Learning.md",
-    "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/attachments/Pasted image 20240902215232.png",
     "attachments",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT26M56.05S.webp",
