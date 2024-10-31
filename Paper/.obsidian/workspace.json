@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Sorting/Kth element.md",
+                "file": "Leetcode/Sorting/Top K frequent element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kth element"
+              "title": "Top K frequent element"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "4c8e4e532372c254",
   "lastOpenFiles": [
-    "Leetcode/Sorting/Top K frequent element.md",
     "Leetcode/Sorting/Kth element.md",
+    "Leetcode/Sorting/Top K frequent element.md",
     "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
