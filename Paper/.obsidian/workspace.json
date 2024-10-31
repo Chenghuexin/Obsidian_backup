@@ -16,7 +16,9 @@
                 "file": "Leetcode/Sorting/Kth element.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Kth element"
             }
           },
           {
@@ -28,11 +30,25 @@
                 "file": "2-Literature notes/機器學習任務攻略.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "機器學習任務攻略"
+            }
+          },
+          {
+            "id": "e948fe25efe12a34",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Literature notes/機器學習任務攻略.md",
+                "file": "Leetcode/Sorting/Kth element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kth element"
             }
           },
           {
@@ -115,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Literature notes/機器學習任務攻略.md",
+                "file": "Leetcode/Sorting/Kth element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kth element"
             }
           },
           {
@@ -129,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Literature notes/機器學習任務攻略.md"
-              }
+                "file": "Leetcode/Sorting/Kth element.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kth element"
             }
           }
         ]
@@ -161,7 +191,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "202f15210d8f706c",
+  "active": "e948fe25efe12a34",
   "lastOpenFiles": [
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
