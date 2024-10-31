@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Leetcode/Sorting/Same frequency or color are adjacent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Same frequency or color are adjacent"
             }
           }
         ],
@@ -182,7 +182,7 @@
   "active": "9f08f4fd1cc7bbbd",
   "lastOpenFiles": [
     "Leetcode/Sorting/Top K frequent element.md",
-    "Untitled.md",
+    "Leetcode/Sorting/Same frequency or color are adjacent.md",
     "Leetcode/Sorting/Kth element.md",
     "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
