@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Sorting/Top K frequent element.md",
+                "file": "Leetcode/Sorting/Kth element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top K frequent element"
+              "title": "Kth element"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Sorting/Top K frequent element.md",
+                "file": "Leetcode/Sorting/Kth element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Top K frequent element"
+              "title": "Backlinks for Kth element"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Sorting/Top K frequent element.md",
+                "file": "Leetcode/Sorting/Kth element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Top K frequent element"
+              "title": "Outgoing links from Kth element"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Sorting/Top K frequent element.md"
+                "file": "Leetcode/Sorting/Kth element.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Top K frequent element"
+              "title": "Outline of Kth element"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "4c8e4e532372c254",
   "lastOpenFiles": [
-    "Leetcode/Sorting/Kth element.md",
     "Leetcode/Sorting/Top K frequent element.md",
+    "Leetcode/Sorting/Kth element.md",
     "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
