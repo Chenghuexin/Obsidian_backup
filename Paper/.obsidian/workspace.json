@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "機器學習任務攻略"
             }
-          },
-          {
-            "id": "e948fe25efe12a34",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Sorting/Kth element.md",
+                "file": "2-Literature notes/機器學習任務攻略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kth element"
+              "title": "Backlinks for 機器學習任務攻略"
             }
           },
           {
@@ -139,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Sorting/Kth element.md",
+                "file": "2-Literature notes/機器學習任務攻略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kth element"
+              "title": "Outgoing links from 機器學習任務攻略"
             }
           },
           {
@@ -166,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Sorting/Kth element.md"
+                "file": "2-Literature notes/機器學習任務攻略.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kth element"
+              "title": "Outline of 機器學習任務攻略"
             }
           }
         ]
@@ -191,7 +179,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "e948fe25efe12a34",
+  "active": "202f15210d8f706c",
   "lastOpenFiles": [
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate).md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum).md",
