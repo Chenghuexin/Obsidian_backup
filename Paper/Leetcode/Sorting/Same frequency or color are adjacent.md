@@ -7,4 +7,7 @@ tags:
 # Problem explaination
 sort the objects so that objects of the same frequency or color are adjacent
 
->[!NOTE] 
+>[!NOTE] Notice
+>Sorting by using multiple pointers
+
+# Solution
