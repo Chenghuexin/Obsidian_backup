@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Two Pointers/Reverse.md",
+                "file": "Leetcode/Two Pointers/Reverse Vowels of a String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse"
+              "title": "Reverse Vowels of a String"
             }
           }
         ],
@@ -182,7 +182,7 @@
   "active": "9b083f1702f2d9d0",
   "lastOpenFiles": [
     "Leetcode/Sorting/Kth element.md",
-    "Leetcode/Two Pointers/Reverse.md",
+    "Leetcode/Two Pointers/Reverse Vowels of a String.md",
     "Leetcode/Two Pointers/Two Sum.md",
     "Leetcode/Sorting/Top K frequent element.md",
     "Leetcode/Two Pointers",
