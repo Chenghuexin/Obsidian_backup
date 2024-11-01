@@ -8,5 +8,5 @@ Given a **1-indexed** array of integers `numbers` that is already **_sorted
 
 >[!NOTE] Notice
 >Using two pointers, one pointer is in index 0, and another pointer is in the end of the array initially.
->if the sum of these positions is bigger than target, then second pointer should shift left.
->if the 
+>if the sum of these positions is bigger than target, then the second pointer should shift left.
+>if the sum of these positions is smaller than target, then the first pointer should shift right. 
