@@ -3,4 +3,5 @@ Leetcode: https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 tags:
   - TwoPoints
 ---
-# Problem e
+# Problem explaination
+Given a string `s`, reverse only all the vowels in the string and return it.
