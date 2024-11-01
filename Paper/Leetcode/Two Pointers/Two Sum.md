@@ -4,4 +4,7 @@ tags:
   - TwoPoints
 ---
 # Problem explaination
-In the sort
+Given a **1-indexed** array of integers `numbers` that is already **_sorted in non-decreasing order_**, find two numbers such that they add up to a specific `target` number.
+
+>[!NOTE] Notice
+>Using 
