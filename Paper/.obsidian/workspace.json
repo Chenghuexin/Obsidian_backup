@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Two Pointers/Two Sum.md",
+                "file": "Leetcode/Sorting/Kth element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Two Sum"
+              "title": "Kth element"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "79befac4634d6662",
   "lastOpenFiles": [
-    "Leetcode/Sorting/Top K frequent element.md",
     "Leetcode/Two Pointers/Two Sum.md",
+    "Leetcode/Sorting/Top K frequent element.md",
     "Leetcode/Sorting/Kth element.md",
     "Leetcode/Two Pointers",
     "Leetcode/Sorting/Same frequency or color are adjacent.md",
