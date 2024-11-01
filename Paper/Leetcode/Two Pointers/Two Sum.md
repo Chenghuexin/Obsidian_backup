@@ -7,6 +7,6 @@ tags:
 Given a **1-indexed** array of integers `numbers` that is already **_sorted in non-decreasing order_**, find two numbers such that they add up to a specific `target` number.
 
 >[!NOTE] Notice
->Using two pointers, one pointer is in index 0, and another pointer is in the end of the array initially.
->if the sum of these positions is bigger than target, then the second pointer should shift left.
->if the sum of these positions is smaller than target, then the first pointer should shift right. 
+>Using two pointers, initially, one pointer is at index 0, and another is at the end of the array.
+>If the sum of these positions is bigger than the target, the second pointer should shift left.
+>
