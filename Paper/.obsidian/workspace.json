@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Kth element"
             }
+          },
+          {
+            "id": "9b083f1702f2d9d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Two Pointers/Reverse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reverse"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,11 +179,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "79befac4634d6662",
+  "active": "9b083f1702f2d9d0",
   "lastOpenFiles": [
+    "Leetcode/Sorting/Kth element.md",
+    "Leetcode/Two Pointers/Reverse.md",
     "Leetcode/Two Pointers/Two Sum.md",
     "Leetcode/Sorting/Top K frequent element.md",
-    "Leetcode/Sorting/Kth element.md",
     "Leetcode/Two Pointers",
     "Leetcode/Sorting/Same frequency or color are adjacent.md",
     "2-Literature notes/機器學習任務攻略.md",
@@ -201,7 +217,6 @@
     "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT24M44.058S.webp",
     "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT22M59.241S.webp",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
-    "2-Literature notes/Brief Introduction of Deep Learning.md",
     "2-Literature notes/attachments/Pasted image 20240902215232.png",
     "attachments",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT26M56.05S.webp",
