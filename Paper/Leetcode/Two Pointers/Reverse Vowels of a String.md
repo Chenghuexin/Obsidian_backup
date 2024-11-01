@@ -7,4 +7,9 @@ tags:
 Given a string `s`, reverse only all the vowels in the string and return it.
 
 >[!NOTE] Notice
->Don't use swap, instead create a new array to put result.
+>Don't swap; create a new array to put the result.
+
+# Solution
+```java
+
+```
