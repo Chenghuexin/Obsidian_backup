@@ -11,10 +11,14 @@
             "id": "2883e4abe8d7ee99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-Literature notes/Machine learning basic concept.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Machine learning basic concept"
             }
           }
         ]
@@ -162,6 +166,8 @@
   },
   "active": "2883e4abe8d7ee99",
   "lastOpenFiles": [
+    "2-Literature notes/Introduction for machine learning.md",
+    "2-Literature notes/Brief Introduction of Deep Learning.md",
     "Leetcode/Sorting/Kth element.md",
     "Leetcode/Two Pointers/Reverse Vowels of a String.md",
     "Leetcode/Two Pointers/Two Sum.md",
@@ -184,7 +190,6 @@
     "Data Analyze/Data pipeline",
     "2-Literature notes/Machine learning basic concept.md",
     "Data Analyze",
-    "2-Literature notes/Introduction for machine learning.md",
     "2-Literature notes/Backpropagation.md",
     "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",
     "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
@@ -197,7 +202,6 @@
     "2-Literature notes/attachments/【機器學習2021】Transformer (下)PT9M18.824S.webp",
     "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT24M44.058S.webp",
     "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT22M59.241S.webp",
-    "2-Literature notes/類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介.md",
     "2-Literature notes/attachments/Pasted image 20240902215232.png",
     "attachments",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT26M56.05S.webp",
