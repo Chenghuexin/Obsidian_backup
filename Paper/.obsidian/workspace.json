@@ -11,10 +11,14 @@
             "id": "993b77b53b12ee0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "文字探勘論和應用/Introduction and Application.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction and Application"
             }
           }
         ]
@@ -162,6 +166,8 @@
   },
   "active": "993b77b53b12ee0f",
   "lastOpenFiles": [
+    "文字探勘論和應用/Introduction and Application.md",
+    "文字探勘論和應用",
     "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
     "2-Literature notes/自注意力機制 (Self-attention) (下).md",
     "2-Literature notes/自注意力機制 (Self-attention) (上).md",
@@ -194,7 +200,6 @@
     "2-Literature notes/Backpropagation.md",
     "2-Literature notes/Transformer (上).md",
     "1-Fleeting notes/大咪學到的東西.md",
-    "2-Literature notes/Transformer (下).md",
     "2-Literature notes/attachments/【機器學習2021】Transformer (下)PT9M18.824S.webp",
     "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT24M44.058S.webp",
     "2-Literature notes/attachments/【機器學習2021】Transformer (上)PT22M59.241S.webp",
@@ -206,7 +211,6 @@
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT18M49.002S.webp",
     "2-Literature notes/attachments/ML Lecture 6_ Brief Introduction of Deep LearningPT17M21.058S.webp",
     "2-Literature notes/attachments",
-    "4-Index notes",
-    "3-Permanent notes"
+    "4-Index notes"
   ]
 }
