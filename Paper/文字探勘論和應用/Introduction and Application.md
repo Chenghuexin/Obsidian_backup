@@ -6,6 +6,7 @@ NLP Tasts:
 ### NLU:
 tokenization / sentence segmentation
 part of speech tagging
+natural language inference
 ### NLG: 
 machine translation, document summarization
 # LLM
