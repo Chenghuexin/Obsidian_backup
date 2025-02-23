@@ -5,6 +5,7 @@ Definition : 從非結構化的字串型資料萃取出有用的資料，或接�
 NLP Tasts:
 ### NLU:
 tokenization / sentence segmentation
+part of speech tagging
 ### NLG: 
 machine translation, document summarization
 # LLM
