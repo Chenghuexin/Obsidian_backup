@@ -3,3 +3,4 @@
 - Misinformation
 - Disinformation
 - 透過事實查核網站確認
+	- 社群媒體平台有確認訊息是否正確的責任
