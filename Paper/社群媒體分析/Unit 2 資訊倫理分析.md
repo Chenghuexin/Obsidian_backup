@@ -31,3 +31,4 @@
 - Security
 	- 雖然有 Guardrial 監督，但仍然有方法使 AI 能夠回答出不符合道德的問題
 - Fairness
+	- AI 的回答可能帶有偏見
