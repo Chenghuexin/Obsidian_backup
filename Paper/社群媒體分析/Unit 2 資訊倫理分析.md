@@ -65,4 +65,6 @@
 	- 組織裡**各種人**都能夠被**公平對待**
 
 ## 3.  公平性(Fairness)
-- 群體公平性(Group Fairness)
+### 群體公平性(Group Fairness)
+- 人口學公平性(Demographic Parity)
+	- 不同群體有同等機會被選到
