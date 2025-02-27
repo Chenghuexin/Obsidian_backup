@@ -44,5 +44,5 @@
 - 信用(銀行繳款、開車紀錄)
 - 婚姻
 ## 2.  倫理觀念
-- 可究責性(Accountability)
-- 
+- 可究責性(Accountability) : 誰要負責什麼事
+- 透明性(Transparency)和可解釋性(E)
