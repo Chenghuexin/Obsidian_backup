@@ -49,9 +49,13 @@
 - 透明性(Transparency)和可解釋性(Explainability) :
 	- 需要**知道**的**風險**
 	- 需要**知道**這個建議是**如何做出的**
-- 
+
 - 知情同意(Informed Consent)
 	- 揭露 : 是否將所有事情都描述出來
 	- 了解
 	- 自主
 	- 確認
+
+- 普惠(Inclusiveness)
+	- 便利的工作環境
+	- 
