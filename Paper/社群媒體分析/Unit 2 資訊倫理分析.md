@@ -48,4 +48,4 @@
 - 透明性(Transparency)和可解釋性(Explainability) :
 	- 需要**知道**的**風險**
 	- 需要**知道**這個建議是**如何做出的**
-- 
+- 知情同意(Informed Consent)
