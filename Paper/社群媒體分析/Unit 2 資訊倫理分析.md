@@ -87,4 +87,6 @@ Question 2 : 求職者的履歷拿來訓練 AI 系統可以嗎
 ![[Pasted image 20250227160522.png]]
 
 # 課程討論版
-### Question 1
+
+案例 : 
+
