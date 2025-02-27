@@ -64,3 +64,5 @@
 - 多元(Diversity)
 	- 組織裡**各種人**都能夠被**公平對待**
 
+## 3.  公平性(Fairness)
+- 群體公平性(Group Fairness)
