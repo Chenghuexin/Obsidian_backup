@@ -68,5 +68,6 @@
 ### 群體公平性(Group Fairness)
 - 人口學公平性(Demographic Parity)
 	- 不同群體有同等機會被選到
+
 - 機會平等(Equality of Opportunity)
-- 
+	- 每個群體中，**有能力**的人有同等機會被選到
