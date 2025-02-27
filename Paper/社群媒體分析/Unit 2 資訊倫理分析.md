@@ -71,3 +71,6 @@
 
 - 機會平等(Equality of Opportunity)
 	- 每個群體中，**有能力**的人有同等機會被選到
+
+- 優惠性差別待遇(Affirmative Action)
+	- 為了矯正歷史的錯誤(?)，現在某
