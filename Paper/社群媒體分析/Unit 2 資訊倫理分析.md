@@ -74,3 +74,5 @@
 
 - 優惠性差別待遇(Affirmative Action)
 	- 為了矯正歷史的錯誤(?)，現在某些群體裡有更高的機會被選到
+
+### 個體公平性(Individual Fairness)
