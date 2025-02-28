@@ -89,7 +89,8 @@ Question 2 : 求職者的履歷拿來訓練 AI 系統可以嗎
 Answer 2 : 我認為是可以的，但前提是要讓求職者們知情了解，並且需要經過他們的同意
 
 Answier 3 : 我認為是有的
-Answer 4 : 
+Answer 4 : 有的，都有被受到平等的對待
+Answer 5 : 
 ![[Pasted image 20250227160522.png]]
 
 # 課程討論版
