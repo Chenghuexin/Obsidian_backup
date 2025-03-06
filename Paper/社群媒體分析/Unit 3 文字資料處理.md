@@ -49,3 +49,4 @@
 
 ### Tidying Messy Dataset
 ![[Pasted image 20250306202818.png]]![[Pasted image 20250306203007.png]]
+![[Pasted image 20250306203248.png]]
