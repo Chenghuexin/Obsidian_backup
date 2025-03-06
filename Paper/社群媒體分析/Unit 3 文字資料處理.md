@@ -46,4 +46,4 @@
 - 把Dimension variable values 當作 header names
 - 一個欄位裡面有多個變數
 - 把Measure variable當作值
-![[Pasted image 20250306202702.png]]
+![[Pasted image 20250306202818.png]]
