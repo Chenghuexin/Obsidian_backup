@@ -36,7 +36,9 @@
 
 結構化資料，使之便於分析
 
+### Two types of variables : 
 - Dimension variables : 
 	- 關於實體的基本屬性
+	- independent
 - Measure variables : 
-	- 
+	- 衡量
