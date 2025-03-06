@@ -35,3 +35,8 @@
 # Tidy Data
 
 結構化資料，使之便於分析
+
+- Dimension variables : 
+	- 關於實體的基本屬性
+- Measure variables : 
+	- 
