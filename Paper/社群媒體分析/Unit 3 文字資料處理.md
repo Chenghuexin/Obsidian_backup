@@ -41,4 +41,5 @@
 	- 關於實體的基本屬性
 	- independent
 - Measure variables : 
-	- 衡量
+	- 衡量的值
+### Tidying Messy Dataset
