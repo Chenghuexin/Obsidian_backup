@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Unit 3 文字資料處理"
             }
+          },
+          {
+            "id": "475993f6b51987bb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "8cda126a938f6860",
+  "active": "475993f6b51987bb",
   "lastOpenFiles": [
     "社群媒體分析/attachments/Pasted image 20250306203248.png",
     "社群媒體分析/attachments/Pasted image 20250306203007.png",
