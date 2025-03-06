@@ -46,4 +46,6 @@
 - 把Dimension variable values 當作 header names
 - 一個欄位裡面有多個變數
 - 把Measure variable當作值
-![[Pasted image 20250306202818.png]]
+
+### Tidying Messy Dataset
+![[Pasted image 20250306202818.png]]![[Pasted image 20250306203007.png]]
