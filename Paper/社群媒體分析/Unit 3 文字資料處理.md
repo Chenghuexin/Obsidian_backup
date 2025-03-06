@@ -42,4 +42,6 @@
 	- independent
 - Measure variables : 
 	- 衡量的值
-### Tidying Messy Dataset
+### Messy Dataset
+- 把Dimension variable values 當作 header names
+- 
