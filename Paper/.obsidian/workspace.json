@@ -49,7 +49,8 @@
               "title": "Unit 3 文字資料處理"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,8 +195,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "993b77b53b12ee0f",
+  "active": "8cda126a938f6860",
   "lastOpenFiles": [
+    "文字探勘論和應用/Introduction and Application.md",
     "社群媒體分析/Unit 3 文字資料處理.md",
     "社群媒體分析/attachments/Pasted image 20250306203248.png",
     "社群媒體分析/attachments/Pasted image 20250306203007.png",
@@ -204,7 +206,6 @@
     "社群媒體分析/Unit 2 資訊倫理分析.md",
     "社群媒體分析/attachments/Pasted image 20250227160522.png",
     "社群媒體分析/attachments",
-    "文字探勘論和應用/Introduction and Application.md",
     "社群媒體分析",
     "文字探勘論和應用",
     "2-Literature notes/卷積神經網路 (Convolutional Neural Networks, CNN).md",
