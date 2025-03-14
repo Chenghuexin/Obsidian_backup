@@ -6,3 +6,6 @@
 		- 連續行 : [0, 1]
 - valence : 喜歡程度
 - arousal : 強度
+
+# Sentiment Analysis
+用來判斷一篇文章./句子/一個目標的情緒取向(sentiment polarity)
