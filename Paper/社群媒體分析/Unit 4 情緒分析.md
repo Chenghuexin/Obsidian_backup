@@ -15,5 +15,5 @@
 2. Sentence Level
 3. Aspect Level
 
-##### Method
-- 字典法
+##### Method - 字典法
+- LIWC 情緒字典
