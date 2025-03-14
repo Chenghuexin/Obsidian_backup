@@ -14,4 +14,6 @@
 1. Document Level
 2. Sentence Level
 3. Aspect Level
-4. 
+
+##### Method
+- 字典法
