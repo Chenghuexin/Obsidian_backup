@@ -9,3 +9,9 @@
 
 # Sentiment Analysis
 用來判斷一篇文章./句子/一個目標的情緒取向(sentiment polarity)
+
+##### Different Level
+1. Document Level
+2. Sentence Level
+3. Aspect Level
+4. 
