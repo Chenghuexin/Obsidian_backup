@@ -22,4 +22,4 @@
 
 ## 標詞性 (POS)
 - 詞性實體型態
-	- Method 1: Sequence Model
+	- Method 1: ML Sequence Model
