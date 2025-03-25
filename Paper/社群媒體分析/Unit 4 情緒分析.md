@@ -19,3 +19,5 @@
 - LIWC 情緒字典
 
 # Sentiment Analysis - 2
+
+## 標詞性
