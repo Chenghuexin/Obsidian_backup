@@ -1,4 +1,4 @@
-# Sentiment Analysis - 1
+# Sentiment
 - 定義 : 對某東西的評價
 	- 表達方式 : 
 		- 類別式 : Positive、Negative、Neutral
@@ -7,7 +7,7 @@
 - valence : 喜歡程度
 - arousal : 強度
 
-# Sentiment Analysis
+# Sentiment Analysis - 1
 用來判斷一篇文章./句子/一個目標的情緒取向(sentiment polarity)
 
 ##### Different Level
