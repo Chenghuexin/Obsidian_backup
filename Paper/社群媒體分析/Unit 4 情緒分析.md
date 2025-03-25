@@ -21,3 +21,5 @@
 # Sentiment Analysis - 2
 
 ## 標詞性 (POS)
+- 詞性實體型態
+- 
