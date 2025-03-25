@@ -25,3 +25,5 @@
 	- Method 1: ML Sequence Model
 
 ## 進階情緒處理
+- 進階字典法
+	- 新增否定和加強字集
