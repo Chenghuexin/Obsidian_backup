@@ -1,4 +1,4 @@
-# Sentiment
+# Sentiment Analysis - 1
 - 定義 : 對某東西的評價
 	- 表達方式 : 
 		- 類別式 : Positive、Negative、Neutral
@@ -17,3 +17,5 @@
 
 ##### Method - 字典法
 - LIWC 情緒字典
+
+# Sentiment Analysis - 2
