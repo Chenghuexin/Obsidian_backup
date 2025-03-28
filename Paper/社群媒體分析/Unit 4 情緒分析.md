@@ -62,3 +62,5 @@
 #### ngram for word segmentation
 - Given a corpus, how do you define the importance of a term
 	- e.g. 般若 v.s. 般x
+
+#### ngram for Language Model
