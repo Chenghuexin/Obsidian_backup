@@ -67,4 +67,5 @@
 - Given a sequence of  words, what are the probable next words
 
 #### Word Correlation
-- How to de
+- How to decide two words are close
+- phi coefficient: Pearson correlation on binary variable
