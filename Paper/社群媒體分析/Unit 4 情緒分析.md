@@ -38,5 +38,7 @@
 # Document & Word Representation
 
 #### How to represent a document
-- Bag of Words
-- 
+- Bag of Words: 按照字詞出現的次數記錄
+- TF-IDF: 
+	- 維度為字詞
+	- 維度值ㄨ
