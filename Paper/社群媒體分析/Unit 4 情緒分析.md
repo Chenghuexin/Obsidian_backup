@@ -36,3 +36,5 @@
 - 遞迴深度模型法
 	- 需要情緒文具結構樹
 # Document & Word Representation
+
+#### How to 
