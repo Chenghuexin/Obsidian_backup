@@ -65,3 +65,6 @@
 
 #### ngram for Language Model
 - Given a sequence of  words, what are the probable next words
+
+#### Word Correlation
+- How to de
