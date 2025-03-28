@@ -51,4 +51,7 @@
 
 #### Finding the importance words
 - Calculate the average TF-IDF value of each word in all documents
-- Find the top 10 TF-IDF word in each do
+- Find the top 10 TF-IDF word in each document
+	 ![[Pasted image 20250328193140.png]]
+
+#### ngram
