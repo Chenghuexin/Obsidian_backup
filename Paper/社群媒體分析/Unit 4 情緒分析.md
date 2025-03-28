@@ -58,3 +58,5 @@
 ![[Pasted image 20250328193300.png]]
 - application:
 	- Gene
+	- Computational linguistics
+#### ngram for word segmentation
