@@ -44,3 +44,7 @@
 	- 維度值為該字詞的重要性
 		- TF: 字詞出現越多次越重要
 		- IDF: 字詞在越多文件出現越不重要
+#### How to calculate the similarity of documents
+- Euclidean Distance
+- Cosine Similarity
+- Pearson Correlation
