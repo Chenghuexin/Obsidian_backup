@@ -48,3 +48,5 @@
 - Euclidean Distance
 - Cosine Similarity
 - Pearson Correlation
+
+#### Finding the importance 
