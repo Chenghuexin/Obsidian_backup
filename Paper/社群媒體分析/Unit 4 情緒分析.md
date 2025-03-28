@@ -56,3 +56,5 @@
 
 #### ngram
 ![[Pasted image 20250328193300.png]]
+- application:
+	- Gene
