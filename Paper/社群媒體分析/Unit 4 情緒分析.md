@@ -50,3 +50,4 @@
 - Pearson Correlation
 
 #### Finding the importance words
+- Calculate the av
