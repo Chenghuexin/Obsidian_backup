@@ -37,4 +37,6 @@
 	- 需要情緒文具結構樹
 # Document & Word Representation
 
-#### How to 
+#### How to represent a document
+- Bag of Words
+- 
