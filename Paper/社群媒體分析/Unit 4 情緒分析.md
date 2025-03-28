@@ -55,3 +55,4 @@
 	 ![[Pasted image 20250328193140.png]]
 
 #### ngram
+![[Pasted image 20250328193300.png]]
