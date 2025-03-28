@@ -35,3 +35,4 @@
 	- 整理整個文件或句子的情緒
 - 遞迴深度模型法
 	- 需要情緒文具結構樹
+# Document & Word Representation
