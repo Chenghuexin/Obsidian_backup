@@ -64,3 +64,4 @@
 	- e.g. 般若 v.s. 般x
 
 #### ngram for Language Model
+- Given a sequence of  words, what are the probable next words
