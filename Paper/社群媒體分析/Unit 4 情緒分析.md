@@ -50,4 +50,5 @@
 - Pearson Correlation
 
 #### Finding the importance words
-- Calculate the av
+- Calculate the average TF-IDF value of each word in all documents
+- Find the top 10 TF-IDF word in each do
