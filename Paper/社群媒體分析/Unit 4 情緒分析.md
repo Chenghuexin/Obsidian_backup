@@ -49,4 +49,4 @@
 - Cosine Similarity
 - Pearson Correlation
 
-#### Finding the importance 
+#### Finding the importance words
