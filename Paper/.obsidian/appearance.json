@@ -1,5 +1,7 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "textFontFamily": "Times New Roman,Cascadia Code"
+  "textFontFamily": "Times New Roman,Cascadia Code",
+  "monospaceFontFamily": "Cascadia Code",
+  "interfaceFontFamily": "Cascadia Code"
 }
