@@ -3,5 +3,8 @@
   "theme": "obsidian",
   "textFontFamily": "Cascadia Code",
   "monospaceFontFamily": "Cascadia Code",
-  "interfaceFontFamily": "Cascadia Code"
+  "interfaceFontFamily": "Cascadia Code",
+  "enabledCssSnippets": [
+    "font-change"
+  ]
 }
