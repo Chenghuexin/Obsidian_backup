@@ -15,6 +15,8 @@ the significance of pixels is not solely dictated by their proximity but also by
 $$
 x_i' = x_i + \mathrm{PE}(i)
 $$
+- embeddings are generated using sinusoidal functions or learned directly.
+# Relatvie Position Encoding
 
 # PRE
 - capture the relative spatial relationships among regions of an image, learning the positional dependencies without relying on absolute coordinates.
