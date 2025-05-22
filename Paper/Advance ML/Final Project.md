@@ -13,8 +13,9 @@ the significance of pixels is not solely dictated by their proximity but also by
 # Absolute Position Encoding
 - To address the problem that self-attention mechanism does not consider input token positions
 $$
-- 
+x_i' = x_i + \mathrm{PE}(i)
 $$
+
 # PRE
 - capture the relative spatial relationships among regions of an image, learning the positional dependencies without relying on absolute coordinates.
 - ##### Limitaion: even if an image changes in terms of scaling, shifting, or orientation, the significance of the key-query position in RPE stays the same.
