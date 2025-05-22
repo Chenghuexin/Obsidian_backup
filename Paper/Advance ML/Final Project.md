@@ -36,11 +36,11 @@ $$
 | $$\mathbf{R}_{ij}^{V}$$ | 相對位置編碼，針對 value 向量的部分                                |
 | $$d_k$$                 | Query/Key 的維度，用於 softmax 前的標準化                       |
 | $$a_{ij}$$              | softmax 計算後的注意力權重                                    |
-
-# Keypoint Relative Position Encoding
-
 ##### Techinique:
 - By adding relative position encodings into the queries and keys, the model can effectively learn positional dependencies without relying on absolute coordinates. 
+# Keypoint Relative Position Encoding
+
+
 
 # KP-PRE
 - dynamically adapts(key, query) based on image keypoints(facial landmark)
