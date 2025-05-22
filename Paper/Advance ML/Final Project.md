@@ -6,4 +6,5 @@ the significance of pixels is not solely dictated by their proximity but also by
 ### Alignment
 - ##### definition: transform images into a consistent and standardized from, often by scaling, rotating, and translating.
 - ##### Problem of Alignment: This standardization helps recognition models learn the underlying patterns and features more effectively. As a result, many state-of-the-art (SoTA) face recognition models rely on well-aligned datasets to achieve high accuracy.
-- 
+
+#
