@@ -18,14 +18,15 @@ $$
 - embeddings are generated using sinusoidal functions or learned directly.
 # Relatvie Position Encoding
 - definition: considers query-key interactions based on sequence-relative distances
+- capture the relative spatial relationships among regions of an image, learning the positional dependencies without relying on absolute coordinates.
+- ##### Limitaion: even if an image changes in terms of scaling, shifting, or orientation, the significance of the key-query position in RPE stays the same.
 $$
 e_{ij}' = \frac{(\mathbf{Q}_i + \mathbf{R}_{ij}^{Q})(\mathbf{K}_j + \mathbf{R}_{ij}^{K})^T}{\sqrt{d_k}}, \quad 
 \mathbf{Y}_i = \sum_{j=1}^{n} a_{ij}(\mathbf{V}_j + \mathbf{R}_{ij}^{V}).
 $$
 
-# PRE
-- capture the relative spatial relationships among regions of an image, learning the positional dependencies without relying on absolute coordinates.
-- ##### Limitaion: even if an image changes in terms of scaling, shifting, or orientation, the significance of the key-query position in RPE stays the same.
+# 
+
 ##### Techinique:
 - By adding relative position encodings into the queries and keys, the model can effectively learn positional dependencies without relying on absolute coordinates. 
 
