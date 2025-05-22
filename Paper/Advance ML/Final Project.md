@@ -12,3 +12,6 @@ the significance of pixels is not solely dictated by their proximity but also by
 # PRE
 - capture the relative spatial relationships among regions of an image, learning the positional dependencies without relying on absolute coordinates.
 - ##### Limitaion: even if an image changes in terms of scaling, shifting, or orientation, the significance of the key-query position in RPE stays the same.
+
+# KP-PRE
+- dynamically adapts based on image keypoints
