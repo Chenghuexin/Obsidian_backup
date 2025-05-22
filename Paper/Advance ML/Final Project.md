@@ -17,7 +17,10 @@ x_i' = x_i + \mathrm{PE}(i)
 $$
 - embeddings are generated using sinusoidal functions or learned directly.
 # Relatvie Position Encoding
-
+- definition: considers query-key interactions based on sequence-relative distances
+$$
+e__ij' = x_i + \mathrm{PE}(i)
+$$
 # PRE
 - capture the relative spatial relationships among regions of an image, learning the positional dependencies without relying on absolute coordinates.
 - ##### Limitaion: even if an image changes in terms of scaling, shifting, or orientation, the significance of the key-query position in RPE stays the same.
