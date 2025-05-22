@@ -26,16 +26,16 @@ e_{ij}' = \frac{(\mathbf{Q}_i + \mathbf{R}_{ij}^{Q})(\mathbf{K}_j + \mathbf{R}_{
 $$
 ### 🧩 各參數說明
 
-| 參數                        | 說明                                                   |
-| ------------------------- | ---------------------------------------------------- |
-| $$\mathbf{Q}_i$$          | 第 \(i\) 個位置的 Query 向量（來自輸入特徵）                        |
-| `\(\mathbf{K}_j\)$        | 第 \(j\) 個位置的 Key 向量                                  |
-| `\(\mathbf{V}_j\)`        | 第 \(j\) 個位置的 Value 向量                                |
-| `\(\mathbf{R}_{ij}^{Q}\)` | 第 \(i\) 個 query 對應第 \(j\) 個 key 的相對位置編碼（針對 query 向量） |
-| `\(\mathbf{R}_{ij}^{K}\)` | 相對位置編碼，針對 key 向量的部分                                  |
-| `\(\mathbf{R}_{ij}^{V}\)` | 相對位置編碼，針對 value 向量的部分                                |
-| `\(d_k\)`                 | Query/Key 的維度，用於 softmax 前的標準化                       |
-| `\(a_{ij}\)`              | softmax 計算後的注意力權重                                    |
+| 參數                      | 說明                                                   |
+| ----------------------- | ---------------------------------------------------- |
+| $$\mathbf{Q}_i$$        | 第 \(i\) 個位置的 Query 向量（來自輸入特徵）                        |
+| $$\mathbf{K}_j$$        | 第 \(j\) 個位置的 Key 向量                                  |
+| $$\mathbf{V}_j$$        | 第 \(j\) 個位置的 Value 向量                                |
+| $$\mathbf{R}_{ij}^{Q}$$ | 第 \(i\) 個 query 對應第 \(j\) 個 key 的相對位置編碼（針對 query 向量） |
+| $$\mathbf{R}_{ij}^{K}$$ | 相對位置編碼，針對 key 向量的部分                                  |
+| $$\mathbf{R}_{ij}^{V}$$ | 相對位置編碼，針對 value 向量的部分                                |
+| $$d_k$$                 | Query/Key 的維度，用於 softmax 前的標準化                       |
+| $$a_{ij}$$              | softmax 計算後的注意力權重                                    |
 
 # Keypoint Relative Position Encoding
 
