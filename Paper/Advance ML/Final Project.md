@@ -10,6 +10,7 @@ the significance of pixels is not solely dictated by their proximity but also by
 - ##### Problem of Alignment: This standardization helps recognition models learn the underlying patterns and features more effectively. As a result, many state-of-the-art (SoTA) face recognition models rely on well-aligned datasets to achieve high accuracy.
 # KeyPoint
 - definition: serve as representative points that capture the essential structure or layout of an object
+# Absolute Position Encoding
 # PRE
 - capture the relative spatial relationships among regions of an image, learning the positional dependencies without relying on absolute coordinates.
 - ##### Limitaion: even if an image changes in terms of scaling, shifting, or orientation, the significance of the key-query position in RPE stays the same.
