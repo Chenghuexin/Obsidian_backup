@@ -4,4 +4,4 @@ Metdho Name: KP-PRE
 the significance of pixels is not solely dictated by their proximity but also by their relative positions to specific keypoints within the image
 
 ### Alignment
-- definition: transform images into a consistent and stand
+- definition: transform images into a consistent and standardized from, often by scaling, rotating, and translating.
