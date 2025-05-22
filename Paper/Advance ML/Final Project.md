@@ -14,4 +14,4 @@ the significance of pixels is not solely dictated by their proximity but also by
 - ##### Limitaion: even if an image changes in terms of scaling, shifting, or orientation, the significance of the key-query position in RPE stays the same.
 
 # KP-PRE
-- dynamically adapts based on image keypoints
+- dynamically adapts(key, query) based on image keypoints(facial landmark)
