@@ -19,7 +19,8 @@ $$
 # Relatvie Position Encoding
 - definition: considers query-key interactions based on sequence-relative distances
 $$
-e_{ij}' = x_i + \mathrm{PE}(i)
+e_{ij}' = \frac{(\mathbf{Q}_i + \mathbf{R}_{ij}^{Q})(\mathbf{K}_j + \mathbf{R}_{ij}^{K})^T}{\sqrt{d_k}}, \quad 
+\mathbf{Y}_i = \sum_{j=1}^{n} a_{ij}(\mathbf{V}_j + \mathbf{R}_{ij}^{V}).
 $$
 # PRE
 - capture the relative spatial relationships among regions of an image, learning the positional dependencies without relying on absolute coordinates.
