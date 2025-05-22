@@ -5,3 +5,4 @@ the significance of pixels is not solely dictated by their proximity but also by
 
 ### Alignment
 - definition: transform images into a consistent and standardized from, often by scaling, rotating, and translating.
+- 
