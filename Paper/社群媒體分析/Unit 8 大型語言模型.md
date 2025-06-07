@@ -46,5 +46,9 @@ GPT-2: 根據輸入的內容延續
 
 ### Solution
 - Pre-retrieval
-	- 
+	- Query Routing
+	- Query Rewriting
+	- Query Expansion
 - Post-retrieval
+	- Rerank
+	- Summary
