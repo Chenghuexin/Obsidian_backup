@@ -32,3 +32,6 @@
 ### Problem
 - Computation Bottleneck on the length of input sequence
 - Attention is short，會遺忘稍早字詞的重點
+
+### Bert
+- 使用 encoder
