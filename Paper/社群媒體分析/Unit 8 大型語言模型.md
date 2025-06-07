@@ -42,4 +42,4 @@ GPT-2: 根據輸入的內容延續
 - incorrect specificity, 回答太空泛
 - wrong output format
 - incomplete
-- LLM security
+- LLM security, 回答內容違反倫理
