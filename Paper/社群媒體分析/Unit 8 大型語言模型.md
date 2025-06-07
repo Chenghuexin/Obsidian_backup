@@ -36,4 +36,7 @@ GPT-2: 根據輸入的內容延續
 
 ### RAG 痛點
 - missing content
+- missed the top ranked documents
+- key points missing in answer
+- structured data QA
 - 
