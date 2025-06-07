@@ -6,6 +6,7 @@
 	- 缺點 : 維度過大、字詞的順序
 - Singular Value Decomposition (SVD)
 	- 分解 word to word matrix
+	- 只儲存比較重要的資訊
 # Word Embeddings
 
 # Transformer-based Embeddings
