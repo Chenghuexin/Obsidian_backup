@@ -27,4 +27,7 @@
 - 連接較多的community
 - shortes path 經過該節點的比率
 
-# Measure on 
+# Measure on entire graph
+### Reciprocity
+- measures a directed graph
+- 衡量雙向 (mutual links)的數量多不多
