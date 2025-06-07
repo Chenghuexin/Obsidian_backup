@@ -19,4 +19,6 @@ GPT-2: 根據輸入的內容延續
 # Prompt Enginerring
 ##### Tips in prompt design
 - provide clear context
-- shuffle() key words in the input
+- shuffle(調整) key words in the input
+- tell the LLM what to avoid
+- 
