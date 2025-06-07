@@ -23,3 +23,5 @@
 - Hub score: point to high pages
 - Authority score: high hub pages point to it
 ### Betweenness Centrality
+- broker (中介者)
+- 
