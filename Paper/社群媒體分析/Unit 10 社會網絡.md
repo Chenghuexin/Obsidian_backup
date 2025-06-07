@@ -38,4 +38,6 @@
 - loop 3 / loop 2
 
 ### Graph Density and Distance
+- nodes / N(N-1)/2
+- edges / N(N-1)/2
 - 
