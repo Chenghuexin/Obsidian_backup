@@ -7,6 +7,7 @@
 - Singular Value Decomposition (SVD)
 	- 分解 word to word matrix
 	- 只儲存比較重要的資訊
+	- 問題 : 計算耗時、難以整合新的字詞或文件、沒有考量到字詞的順序
 # Word Embeddings
 
 # Transformer-based Embeddings
