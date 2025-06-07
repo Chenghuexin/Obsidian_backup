@@ -54,3 +54,12 @@ know each other / friends
 
 # Co-authorship Network & Phone call Netword
 socail groups represented by more densly interconnection
+
+# Community Evolution
+- growth
+- contraction
+- merging
+- splitting
+- birth
+- death
+- 
