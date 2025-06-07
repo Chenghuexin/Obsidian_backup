@@ -19,5 +19,6 @@
 根據一個字詞去預測其周遭的字詞 (surrounding words)
 ![[Pasted image 20250608042638.png]]
 
-### Wo
+### Word analogies
+根據
 # Transformer-based Embeddings
