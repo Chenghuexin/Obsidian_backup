@@ -1,2 +1,3 @@
 - acyclic: no cycles
-- bipartite graph: undirected graph, 
+- bipartite graph: undirected graph
+- 
