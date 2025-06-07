@@ -28,3 +28,5 @@
 - 方法一 : 對 word2vecs 取向量
 - 方法二 : doc2vec
 # Transformer-based Embeddings
+### Problem
+- Computation Bottleneck
