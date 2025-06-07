@@ -34,7 +34,7 @@ GPT-2: 根據輸入的內容延續
 ![[Pasted image 20250608053735.png]]
 ![[Pasted image 20250608053820.png]]
 
-### RAG 痛點
+### NAIVE RAG 痛點
 - missing content
 - missed the top ranked documents
 - key points missing in answer
@@ -43,3 +43,8 @@ GPT-2: 根據輸入的內容延續
 - wrong output format
 - incomplete
 - LLM security, 回答內容違反倫理
+
+### Solution
+- Pre-retrieval
+	- 
+- Post-retrieval
