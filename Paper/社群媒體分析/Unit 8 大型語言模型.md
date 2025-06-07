@@ -67,4 +67,4 @@ GPT-2: 根據輸入的內容延續
 
 ### Retrieval Augmented Generation Assessment (RAGA)
 根據回答與正解比較正確性或相似性
-answer_relevancy, faithfulness, context_
+answer_relevancy, faithfulness, context_precision by LLM
