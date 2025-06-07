@@ -13,3 +13,4 @@
 - 比較多連接比較重要
 
 ### Eigenvector Centrality
+- 認識較多重要的人越重要
