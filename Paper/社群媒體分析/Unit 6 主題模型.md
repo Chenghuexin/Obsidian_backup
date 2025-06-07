@@ -33,3 +33,4 @@ P(w): 機率分佈
 ![[Pasted image 20250608034424.png]]
 ##### Generating Process in LDA
 ![[Pasted image 20250608034600.png]]
+預設
