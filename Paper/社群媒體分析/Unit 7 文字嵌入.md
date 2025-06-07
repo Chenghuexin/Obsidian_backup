@@ -4,6 +4,8 @@
 ##### 相似度(語義上的 semantically) :
 - word to word matrix: 根據前後文(context)的用字比較相似度
 	- 缺點 : 維度過大、字詞的順序
+- Singular Value Decomposition (SVD)
+	- 分解 word to word matrix
 # Word Embeddings
 
 # Transformer-based Embeddings
