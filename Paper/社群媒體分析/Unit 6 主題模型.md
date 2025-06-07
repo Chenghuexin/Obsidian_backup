@@ -18,7 +18,7 @@ Method 3: 自動決定，但每一個文件可能會屬於多個主題
 - 每一個文件以 a bag of words 表示(no order)
 - 主題數量
 - 每一個主題在字詞上是多元分佈的
-- 每一個文件在主題上是多元分佈的
+- 每一個文件在主題上是多元分佈的 (multinormal distribution)
 公式
 ![[Pasted image 20250604112309.png]]
 xi: 字詞 i 出現的次數
