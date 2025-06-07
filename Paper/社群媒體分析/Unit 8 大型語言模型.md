@@ -53,4 +53,7 @@ GPT-2: 根據輸入的內容延續
 	- Rerank
 	- Summary
 
-### Agentic
+### Agentic flow
+![[Pasted image 20250608054738.png]]
+- reflection: 反思
+- 
