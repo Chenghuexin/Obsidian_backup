@@ -65,5 +65,5 @@ GPT-2: 根據輸入的內容延續
 - 提供相當的解釋力
 - 降低幻覺 (hallucination)
 
-### Retrieval Augmented Generation Assessment
-
+### Retrieval Augmented Generation Assessment (RAGA)
+根據回答與正解
