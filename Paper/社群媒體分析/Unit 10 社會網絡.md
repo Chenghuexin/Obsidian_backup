@@ -35,4 +35,6 @@
 ### Transitivity
 - 地移性
 - 朋友的朋友是我的朋友
-- 
+- loop 3 / loop 2
+
+### 
