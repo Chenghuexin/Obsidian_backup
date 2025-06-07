@@ -21,4 +21,7 @@
 
 ### Word analogies
 轉為向量後，根據字詞之間的關係(夾角)去推論出另一個字詞有相關的字詞
+
+### Represent the meaning of sentence/text
+- 方法一 : 對  取向量
 # Transformer-based Embeddings
