@@ -17,3 +17,6 @@ GPT-2: 根據輸入的內容延續
 ![[Pasted image 20250608052019.png]]
 
 # Prompt Enginerring
+##### Tips in prompt design
+- provide clear context
+- 
