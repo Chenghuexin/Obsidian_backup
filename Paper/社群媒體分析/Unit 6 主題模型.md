@@ -38,3 +38,4 @@ P(w): 機率分佈
 
 ##### Topic Evaluation - Topic Coherence (fi)
 - Perplexity: 根據 fi 和 alpha 的 loss function (越小越好)，用來衡量主題數量的設置
+- Pointwise Mutual Information (PMI): 挑選每一個主題中前 10 個字詞，
