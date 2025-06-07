@@ -11,4 +11,9 @@
 # Word Embeddings
 - 每一個字詞都以low-dimension 向量表示
 - 關鍵 : 預測每一個字詞的surrounding words
+### Continuous Bag of Word (CBOW)
+從前後幾個字詞(a window of word) 去預測字詞
+
+### Skip-gram (SG)
+根據
 # Transformer-based Embeddings
