@@ -60,4 +60,6 @@ GPT-2: 根據輸入的內容延續
 - planning
 - multi-agent collaboration
 
-### Agentic RAG
+### RAG 優點
+- 外存知識 (fine tuning)
+- 提供相當的解釋粒
