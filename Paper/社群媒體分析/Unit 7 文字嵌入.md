@@ -30,3 +30,4 @@
 # Transformer-based Embeddings
 ### Problem
 - Computation Bottleneck
+- Attention is short，會遺忘稍早字詞的重點
