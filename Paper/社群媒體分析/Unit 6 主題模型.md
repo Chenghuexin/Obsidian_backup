@@ -27,3 +27,5 @@ P(w): 機率分佈
 # Topic Model
 ### Latent Dirichlet吃Allocation (LDA)
 ![[Pasted image 20250608033534.png]]![[Pasted image 20250608033732.png]]
+![[Pasted image 20250608034005.png]]
+- N: 文
