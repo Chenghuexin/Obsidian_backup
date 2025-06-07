@@ -17,4 +17,7 @@
 
 ### PageRank Centrality
 - 有考量到認識的人數
-- 加上隨機值使之
+- 加上隨機值使之擴散
+
+### HITS Scores
+### Betweenness Centrality
