@@ -29,3 +29,6 @@ P(w): 機率分佈
 ![[Pasted image 20250608033534.png]]![[Pasted image 20250608033732.png]]
 ![[Pasted image 20250608034005.png]]
 - N: 文件的字詞數量
+
+![[Pasted image 20250608034424.png]]
+##### Generating Process in LDA
