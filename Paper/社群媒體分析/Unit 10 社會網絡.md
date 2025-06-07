@@ -53,3 +53,4 @@ know each other / friends
 如果 central nodes 被切掉，其他人可能就無法聯繫
 
 # Co-authorship Network & Phone call Netword
+socail groups represented by more densly interconnection
