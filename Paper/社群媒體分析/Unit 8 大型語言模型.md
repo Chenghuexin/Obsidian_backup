@@ -9,7 +9,7 @@
 GPT-2: 根據輸入的內容延續
 
 # Step 2 - Supervised Fine-Tuning
-
+輸入 :
 # Step 3 - Humand Feedback
 - reward model: 根據 QA 評分
 # Step 4 - Reinforcement Learning
@@ -62,4 +62,6 @@ GPT-2: 根據輸入的內容延續
 
 ### RAG 優點
 - 外存知識 (fine tuning)
-- 提供相當的解釋粒
+- 提供相當的解釋力
+- 降低幻覺 (hallucination)
+- 
