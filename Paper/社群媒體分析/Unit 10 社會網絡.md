@@ -30,4 +30,6 @@
 # Measure on entire graph
 ### Reciprocity
 - measures a directed graph
-- 衡量雙向 (mutual links)的數量多不多
+- 衡量雙向 (mutual link) 的數量多不多
+
+### Transitivity
