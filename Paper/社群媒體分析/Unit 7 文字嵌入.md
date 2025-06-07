@@ -34,6 +34,6 @@
 - Attention is short，會遺忘稍早字詞的重點
 
 ### Decoder-Only Transformer
-
+最後輸出的向量會經過一些處理，比如說contrastive learning
 ### Bert
 - 使用 encoder
