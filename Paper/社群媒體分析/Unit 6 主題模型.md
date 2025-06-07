@@ -42,4 +42,5 @@ P(w): 機率分佈
 
 ##### Topic Evaluation - Document-Topic (sida)
 雖然沒有正解可以去衡量，但仍然可以根據一些已經有標籤的文章去做衡量
-- purity
+- purity: 
+![[Pasted image 20250608040149.png]]
