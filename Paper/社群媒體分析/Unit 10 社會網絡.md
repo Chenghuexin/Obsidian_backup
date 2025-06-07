@@ -40,4 +40,7 @@
 ### Graph Density and Distance
 - nodes / N(N-1)/2
 - edges / N(N-1)/2
-- 
+- avearage lengths of shortest path between all paris of nodes
+
+### Graph Diameter
+lengths of longest path between all paris of nodes
