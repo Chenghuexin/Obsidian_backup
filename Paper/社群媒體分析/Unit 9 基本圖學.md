@@ -4,3 +4,4 @@
 
 # Small Word Graph
 # Scale Free Graph
+the degree distribution of nodes follows a power
