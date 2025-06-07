@@ -46,7 +46,7 @@ GPT-2: 根據輸入的內容延續
 
 ### Solution
 - Pre-retrieval
-	- Query Routing
+	- Query Routing: 不同問題使用不同的方法
 	- Query Rewriting
 	- Query Expansion: decompose into sub questions
 - Post-retrieval
@@ -56,4 +56,8 @@ GPT-2: 根據輸入的內容延續
 ### Agentic flow
 ![[Pasted image 20250608054738.png]]
 - reflection: 反思
-- 
+- tool use
+- planning
+- multi-agent collaboration
+
+### Agentic RAG
