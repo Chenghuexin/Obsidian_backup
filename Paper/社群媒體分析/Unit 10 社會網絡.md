@@ -20,4 +20,6 @@
 - 加上隨機值使之擴散
 
 ### HITS Scores
+- Hub score: point to high pages
+- Authority score: high hub pages point to it
 ### Betweenness Centrality
