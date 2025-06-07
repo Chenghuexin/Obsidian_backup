@@ -28,4 +28,4 @@ P(w): 機率分佈
 ### Latent Dirichlet吃Allocation (LDA)
 ![[Pasted image 20250608033534.png]]![[Pasted image 20250608033732.png]]
 ![[Pasted image 20250608034005.png]]
-- N: 文
+- N: 文件的字詞數量
