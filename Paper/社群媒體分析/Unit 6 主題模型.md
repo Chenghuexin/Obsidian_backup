@@ -37,4 +37,4 @@ P(w): 機率分佈
 可以從預設發現我們在探討主題的時候不會將範圍設過大
 
 ##### Topic Evaluation - Topic Coherence (fi)
-- Perplexity: 根據 fi 和 alpha 的 loss function
+- Perplexity: 根據 fi 和 alpha 的 loss function (越小越好)，用來衡量主題數量的設置
