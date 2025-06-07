@@ -48,7 +48,7 @@ GPT-2: 根據輸入的內容延續
 - Pre-retrieval
 	- Query Routing
 	- Query Rewriting
-	- Query Expansion
+	- Query Expansion: decompose into sub questions
 - Post-retrieval
 	- Rerank
 	- Summary
