@@ -24,5 +24,6 @@ Method 3: 自動決定，但每一個文件可能會屬於多個主題
 xi: 字詞 i 出現的次數
 P(w): 機率分佈
 
+# Topic Model
 ### Latent Dirichlet吃Allocation (LDA)
 ![[Pasted image 20250608033534.png]]
