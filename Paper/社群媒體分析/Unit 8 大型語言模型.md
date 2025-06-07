@@ -22,4 +22,5 @@ GPT-2: 根據輸入的內容延續
 - shuffle(調整) key words in the input
 - tell the LLM what to avoid
 - use list as input
-- few shot prompting
+- few shot prompting, provide some examples to help LLM better understand your intention
+- Chain of Thought (COT) prompting, 
