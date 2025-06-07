@@ -11,3 +11,6 @@ GPT-2: 根據輸入的內容延續
 # Step 2 - Supervised Fine-Tuning
 
 # Step 3 - Humand Feedback
+
+# Step 4 - Reinforcement Learning
+
