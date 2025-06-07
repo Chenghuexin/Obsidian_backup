@@ -14,7 +14,7 @@
 ### Continuous Bag of Word (CBOW)
 從前後幾個字詞(a window of word) 去預測字詞
 ![[Pasted image 20250608042631.png]]
-![[Pasted image 20250608043002.png]]
+![[Pasted image 20250608043217.png]]
 ### Skip-gram (SG)
 根據一個字詞去預測其周遭的字詞 (surrounding words)
 ![[Pasted image 20250608042638.png]]
