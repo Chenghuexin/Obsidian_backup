@@ -28,3 +28,6 @@ GPT-2: 根據輸入的內容延續
 
 # Retrieval Assisted Generation (RAG)
 ##### LLM lack
+- real time data
+- data of a specialize domain
+- 
