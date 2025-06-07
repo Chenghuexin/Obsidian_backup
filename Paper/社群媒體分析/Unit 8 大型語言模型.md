@@ -21,4 +21,5 @@ GPT-2: 根據輸入的內容延續
 - provide clear context
 - shuffle(調整) key words in the input
 - tell the LLM what to avoid
-- 
+- use list as input
+- few shot prompting
