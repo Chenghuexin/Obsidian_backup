@@ -33,3 +33,6 @@
 - 衡量雙向 (mutual link) 的數量多不多
 
 ### Transitivity
+- 地移性
+- 朋友的朋友是我的朋友
+- 
