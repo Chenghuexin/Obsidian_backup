@@ -5,3 +5,4 @@
 	- humand feedback: 選擇題
 
 # Step 1 - BASE MODEL
+輸入的資料會包括網路上的資料 : 程式碼、維基百科
