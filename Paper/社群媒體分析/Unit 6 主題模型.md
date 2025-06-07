@@ -33,4 +33,5 @@ P(w): 機率分佈
 ![[Pasted image 20250608034424.png]]
 ##### Generating Process in LDA
 ![[Pasted image 20250608034600.png]]
-預設
+預設 : ![[Pasted image 20250608034757.png]]
+可以從預設發現我們在探討主題的時候不會將範圍設過大
