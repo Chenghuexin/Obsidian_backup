@@ -14,3 +14,5 @@
 
 ### Eigenvector Centrality
 - 認識較多重要的人越重要
+
+### PageRank Centrality
