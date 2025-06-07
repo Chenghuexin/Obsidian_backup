@@ -3,3 +3,4 @@
 - ![[Pasted image 20250608061247.png]]
 
 # Small Word Graph
+# Scale Free Graph
