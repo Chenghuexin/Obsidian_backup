@@ -4,4 +4,7 @@
 
 # Measure on the entire graph
 - 什麼結構
-- community
+- community coherence
+- community good at entrepreneurship
+
+# Measure on each node
