@@ -9,6 +9,8 @@
 	- 只儲存比較重要的資訊
 	- 問題 : 計算耗時、難以整合新的字詞或文件、沒有考量到字詞的順序
 # Word Embeddings
+
+### Word2Vec
 - 每一個字詞都以low-dimension 向量表示
 - 關鍵 : 預測每一個字詞的surrounding words
 ### Continuous Bag of Word (CBOW)
@@ -23,5 +25,6 @@
 轉為向量後，根據字詞之間的關係(夾角)去推論出另一個字詞有相關的字詞
 
 ### Represent the meaning of sentence/text
-- 方法一 : 對  取向量
+- 方法一 : 對 word2vecs 取向量
+- 方法二 : doc2vec
 # Transformer-based Embeddings
