@@ -14,3 +14,4 @@ GPT-2: 根據輸入的內容延續
 - reward model
 # Step 4 - Reinforcement Learning
 
+![[Pasted image 20250608052019.png]]
