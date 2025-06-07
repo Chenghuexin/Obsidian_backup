@@ -37,3 +37,6 @@
 最後輸出的向量會經過一些處理，比如說contrastive learning
 ### Bert
 - 使用 encoder
+
+### ChatGPT
+- 使用 decoder
