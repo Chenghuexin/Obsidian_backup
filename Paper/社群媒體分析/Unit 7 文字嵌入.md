@@ -20,5 +20,5 @@
 ![[Pasted image 20250608042638.png]]
 
 ### Word analogies
-根據
+轉為向量後，根據字詞之間的關係(夾角)去推論出另一個字詞有相關的字詞
 # Transformer-based Embeddings
