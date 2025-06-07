@@ -52,3 +52,5 @@ GPT-2: 根據輸入的內容延續
 - Post-retrieval
 	- Rerank
 	- Summary
+
+### Agentic
