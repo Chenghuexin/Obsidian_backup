@@ -25,3 +25,4 @@ xi: 字詞 i 出現的次數
 P(w): 機率分佈
 
 ### Latent Dirichlet吃Allocation (LDA)
+![[Pasted image 20250608033534.png]]
