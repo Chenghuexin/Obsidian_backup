@@ -8,3 +8,8 @@
 - community good at entrepreneurship
 
 # Measure on each node
+### Degree Certrality
+- importance
+- 比較多連接比較重要
+
+### Eigenvector Centrality
