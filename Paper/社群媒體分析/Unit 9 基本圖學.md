@@ -1,3 +1,3 @@
 - acyclic: no cycles
 - bipartite graph: undirected graph
-- 
+- ![[Pasted image 20250608061247.png]]
