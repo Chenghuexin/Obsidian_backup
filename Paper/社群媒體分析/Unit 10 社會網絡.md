@@ -26,3 +26,5 @@
 - broker (中介者)
 - 連接較多的community
 - shortes path 經過該節點的比率
+
+# Measure on 
