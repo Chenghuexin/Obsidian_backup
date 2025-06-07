@@ -39,4 +39,7 @@ GPT-2: 根據輸入的內容延續
 - missed the top ranked documents
 - key points missing in answer
 - structured data QA
-- 
+- incorrect specificity, 回答太空泛
+- wrong output format
+- incomplete
+- LLM security
