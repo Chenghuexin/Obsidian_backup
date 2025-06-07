@@ -24,4 +24,4 @@ GPT-2: 根據輸入的內容延續
 - use list as input
 - few shot prompting, provide some examples to help LLM better understand your intention
 - Chain of Thought (COT) prompting, ask LLM to reason before giving an answer
-- 
+- self consistency, 多問幾次
