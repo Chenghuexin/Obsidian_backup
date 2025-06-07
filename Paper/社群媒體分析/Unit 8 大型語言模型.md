@@ -30,4 +30,5 @@ GPT-2: 根據輸入的內容延續
 ##### LLM lack
 - real time data
 - data of a specialize domain
-- 
+
+![[Pasted image 20250608053735.png]]
