@@ -11,7 +11,7 @@ GPT-2: 根據輸入的內容延續
 # Step 2 - Supervised Fine-Tuning
 
 # Step 3 - Humand Feedback
-- reward model
+- reward model: 根據 QA 評分
 # Step 4 - Reinforcement Learning
 
 ![[Pasted image 20250608052019.png]]
