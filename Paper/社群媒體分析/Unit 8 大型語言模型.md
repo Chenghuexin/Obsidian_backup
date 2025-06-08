@@ -13,7 +13,7 @@ GPT-2: 根據輸入的內容延續
 準備大量的問答題餵入，使得產生這個回答的機率越高越好
 得到 : SFT model (可以做QA)
 # Step 3 - Humand Feedback
-- 利用選擇題的方式
+- 利用選擇題 (comparison data) 的方式
 - 回答是否有幫助、是否跟真實符合、用字遣詞是否有攻擊性 (human annotaion)
 - reward model: 根據 QA 評分(reward)
 # Step 4 - Reinforcement Learning
