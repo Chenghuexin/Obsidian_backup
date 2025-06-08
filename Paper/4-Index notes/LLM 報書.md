@@ -5,6 +5,8 @@
 + 跟 fully supervised learning 和 fine-tuning pre-trained models 比較
 + 介紹 pormpt-based inference 步驟
 
+### Prompt
+語言模型的任務就是要去根據輸入去預測
 ### Prompt 的起源
 + 前身 : Dynamic Memory Network (DMN)
 + 
