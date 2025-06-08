@@ -12,6 +12,7 @@ GPT-2: 根據輸入的內容延續
 輸入 : 問答題
 準備大量的問答題餵入，使得產生這個回答的機率越高越好
 # Step 3 - Humand Feedback
+- 利用選擇題的方式
 - reward model: 根據 QA 評分
 # Step 4 - Reinforcement Learning
 - 定義 : 根據 input 給予一個決定，將這個決定丟到外面世界後會得到一個feedback，接著根據 feedback 調整
