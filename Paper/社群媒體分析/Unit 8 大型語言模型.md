@@ -10,7 +10,7 @@ GPT-2: 根據輸入的內容延續
 
 # Step 2 - Supervised Fine-Tuning
 輸入 : 問答題
-準備大量的問答題
+準備大量的問答題餵入，使得產生這個回答的機率越高越好
 # Step 3 - Humand Feedback
 - reward model: 根據 QA 評分
 # Step 4 - Reinforcement Learning
