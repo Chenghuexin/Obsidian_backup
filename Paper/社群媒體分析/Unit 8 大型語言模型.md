@@ -14,6 +14,7 @@ GPT-2: 根據輸入的內容延續
 # Step 3 - Humand Feedback
 - reward model: 根據 QA 評分
 # Step 4 - Reinforcement Learning
+- 定義 : 根據i
 - reward 能符合人工對回答所排的順序
 ![[Pasted image 20250608052019.png]]
 
