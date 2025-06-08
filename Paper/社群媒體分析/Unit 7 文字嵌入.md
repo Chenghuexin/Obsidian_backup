@@ -40,3 +40,5 @@
 
 ### ChatGPT
 - 使用 decoder
+
+![[Pasted image 20250608080929.png]]
