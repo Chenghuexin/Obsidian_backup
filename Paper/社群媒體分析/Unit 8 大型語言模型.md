@@ -16,6 +16,7 @@ GPT-2: 根據輸入的內容延續
 - 利用選擇題 (comparison data) 的方式
 - 回答是否有幫助、是否跟真實符合、用字遣詞是否有攻擊性 (human annotaion)
 - reward model: 根據 QA 評分(reward)
+- comparison data: 根據回答的好壞坐排序
 # Step 4 - Reinforcement Learning
 - 定義 : 根據 input 給予一個決定，將這個決定丟到外面世界後會得到一個feedback，接著根據 feedback 調整
 - reward 能符合人工對回答所排的順序
