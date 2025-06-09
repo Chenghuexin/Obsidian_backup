@@ -19,4 +19,4 @@
 		+ 舉例 : 情緒分類
 	+ 專家設計「特徵工程」
 	+ 泛化能力不足
-# Pre-train and Fine-tune Learning
+# Pre-train and Fine-tune Learning in NLP
