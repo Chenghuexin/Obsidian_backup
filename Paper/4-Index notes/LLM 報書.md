@@ -47,3 +47,4 @@
 	+ 可能輸出不穩定或矛盾
 
 ### Prompt-based Learning Process
+![[Pasted image 20250609151104.png]]
