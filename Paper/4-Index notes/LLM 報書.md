@@ -12,3 +12,4 @@
 + 神經網路架構
 
 # Fully Supervised Learning
+# Pre-train and Fine-tune Learning
