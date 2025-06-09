@@ -45,3 +45,5 @@
 	+ 高度依賴 prompt 設計
 	+ 不易理解模型內部邏輯
 	+ 可能輸出不穩定或矛盾
+
+### Prompt-based Learning Process
