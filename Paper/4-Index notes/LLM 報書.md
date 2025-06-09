@@ -54,4 +54,6 @@
 
 ##### Step 2: Answer Search
 [z] 這個位置有很多可能的詞（例如 "great" 或 "terrible"），我們要讓模型幫我們判斷哪一個詞最適合填入這個空格，根據語境做出最佳預測。
++ 把候選答案 z 一個個代入 prompt 中的 `[z]`
++ 模型計算每個填入後的句子機率 P
 ##### Step 3: Answer Mapping
