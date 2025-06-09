@@ -10,3 +10,5 @@
 ### Prompt 的起源 - DMN
 + 前身 : Dynamic Memory Network (DMN)
 + 神經網路架構
+
+# Fully Supervised Learning
