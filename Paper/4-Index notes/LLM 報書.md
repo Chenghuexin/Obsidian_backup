@@ -53,4 +53,5 @@
 將輸入資料 x 套入一個預先設計好的模板 template，產生出語言模型要預測的提示句
 
 ##### Step 2: Answer Search
+[z] 這個位置有很多可能的詞（例如 "great" 或 "terrible"），我們要讓模型幫我們判斷哪一個詞最適合填入這個空格，根據語境做出最佳預測。
 ##### Step 3: Answer Mapping
