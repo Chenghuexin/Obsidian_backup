@@ -20,3 +20,5 @@
 	+ 專家設計「特徵工程」
 	+ 泛化能力不足
 # Pre-train and Fine-tune Learning in NLP
+![[Pasted image 20250609134114.png]]
++ 優點 : 
