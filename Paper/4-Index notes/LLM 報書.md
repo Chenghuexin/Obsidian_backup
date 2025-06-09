@@ -32,6 +32,8 @@
 	+ **訓練目標不一致**  
 		+ 預訓練是學「語意關係」，微調則是為了特定任務標註，兩者目標不同，可能造成效能下降。
 
-# Prompt-based Learning
+# Prompt-based Learning in NLP
 + prompt-based inference
 + 一種創新的方法，可利用語言模型的強大能力，**在不需再進行微調的情況下**，直接生成特定任務的輸出。
++ 優點
+	+ 
