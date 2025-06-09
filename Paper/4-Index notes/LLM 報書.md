@@ -11,5 +11,10 @@
 + 前身 : Dynamic Memory Network (DMN)
 + 神經網路架構
 
-# Fully Supervised Learning
+# Fully Supervised Learning in NLP
++ 使用帶有標記的資料（labeled data）進行訓練
++ 這些資料包含輸入與對應的輸出範例，作為模型要學習的任務依據
++ 缺點
+	+ 稀缺、昂貴、或需大量時間製作
+		+ 情緒分類
 # Pre-train and Fine-tune Learning
