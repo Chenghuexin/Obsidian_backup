@@ -47,6 +47,7 @@
 	+ 可能輸出不穩定或矛盾
 
 ### Prompt-based Learning Process
+以感情分類作為舉例
 ![[Pasted image 20250609151104.png]]
 ##### Step 1: Prompt Addition
 將輸入資料 x 套入一個預先設計好的模板 template，產生出語言模型要預測的提示句
