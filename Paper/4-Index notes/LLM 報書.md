@@ -34,4 +34,4 @@
 
 # Prompt-based Learning
 + prompt-based inference
-+ 
++ 一種創新的方法，可利用語言模型的強大能力，**在不需再進行微調的情況下**，直接生成特定任務的輸出。
