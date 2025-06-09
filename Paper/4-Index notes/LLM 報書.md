@@ -33,3 +33,5 @@
 		+ 預訓練是學「語意關係」，微調則是為了特定任務標註，兩者目標不同，可能造成效能下降。
 
 # Prompt-based Learning
++ prompt-based inference
++ 
