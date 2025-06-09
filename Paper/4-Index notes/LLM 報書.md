@@ -22,3 +22,7 @@
 # Pre-train and Fine-tune Learning in NLP
 ![[Pasted image 20250609134114.png]]
 + 優點 : 
+	+ 減少對標記資料的依賴
+		+ 因為預訓練已學得語言知識，微調時只需少量資料就能不錯的表現。
+	+ 大量知識轉移
+		+ 
