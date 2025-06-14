@@ -58,4 +58,7 @@ input data enters the multi-step decision of the model after proceeding through 
 + 2 pivotal components:
 	1. Attentive Transformer: feature selection
 	2. Feature Transformer: feature extraction
-### Feature Extraction
+### Attentive Transformer
+
+### Feature Transformer
+
