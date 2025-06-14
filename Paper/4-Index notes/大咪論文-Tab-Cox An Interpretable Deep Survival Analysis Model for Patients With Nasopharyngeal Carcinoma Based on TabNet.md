@@ -151,4 +151,5 @@ Final Loss Function: T_Loss + (λ∗M_Loss)
 The feature mask can only be analyzed as the local variable importance. However, the analysis of global variable importance requires combining the local variable importance from different steps
 
 The total decision contribution of sample b in the i step:
-$\eta_b[i]=\sum_{c=1}^N$
+$\eta_b[i]=\sum_{c=1}^{N_d}ReLU(d_{b,c}[i])$
+
