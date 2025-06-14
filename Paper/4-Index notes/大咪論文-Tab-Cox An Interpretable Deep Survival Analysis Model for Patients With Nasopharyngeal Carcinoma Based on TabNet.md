@@ -31,3 +31,4 @@ Drawback
 ### Deep Survival Analysis model
 + Overcome the linear constraints of CPH
 Challenge
++ many neural networks have not shown comparable levels of effectiveness in handling tabular data
