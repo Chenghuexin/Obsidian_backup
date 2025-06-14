@@ -104,3 +104,7 @@ Step 3: $[d[i],a[i]]=Split(FeatureTransformer(M[i]⋅f))$
 + $a[i]$: input to the Attentive Transformer for the next step
 
 ### Survival Risk Loss
+
+##### Primary purpose of survival analysis
+examine the relationship between variable x and the survival risk function
++ risk function: instantaneous mortality rate of patients at a specific time
