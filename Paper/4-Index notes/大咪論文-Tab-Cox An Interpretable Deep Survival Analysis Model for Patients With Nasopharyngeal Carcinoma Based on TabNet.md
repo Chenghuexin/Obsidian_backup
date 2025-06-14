@@ -99,5 +99,5 @@ Independent Decision Part:
 The parameters are obtained only by training each decision step separately, and the characteristic features are calculated
 
 Step 3: $[d[i],a[i]]=Split(FeatureTransformer(M[i]⋅f))$
-+ $d[i]$: input to
++ $d[i]$: input to the ReLu layer and combines the result of each step’s decision into the total decision $d_out$:
 + $a[i]$: input to the Attentive Transformer for the next step
