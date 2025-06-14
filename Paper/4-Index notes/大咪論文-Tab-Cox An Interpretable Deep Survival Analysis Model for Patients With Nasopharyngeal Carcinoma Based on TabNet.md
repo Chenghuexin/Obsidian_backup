@@ -38,6 +38,7 @@ Challenge
 		+ Tabular Data Characteristics
 			+ 特徵異質（heterogeneous features）
 			- 樣本數量相對較小
+			- 可能會有 curse of dimension
 			- 含有極端值與離群值（outliers）
 + the interpretability
 
