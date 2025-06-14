@@ -68,4 +68,5 @@ input data enters the multi-step decision of the model after proceeding through 
 	+ 一個與輸入特徵同樣維度的權重向量，通常數值介於 0 到 1 之間
 	+ decisions made at each step will not be wasted on irrelevant features
 ![[Pasted image 20250614234930.png]]
-+ input: the output of the Feature transformer of the previous decision step will be input to the split layer
++ Step 1 and 2: the output of the Feature transformer of the previous decision step will be input to the split layer
++ Step 3: 
