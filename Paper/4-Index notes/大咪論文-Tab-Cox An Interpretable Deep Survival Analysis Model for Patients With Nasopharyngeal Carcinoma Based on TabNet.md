@@ -61,4 +61,4 @@ input data enters the multi-step decision of the model after proceeding through 
 ### Attentive Transformer
 + generate a feature mask that assesses the importance of each feature
 ### Feature Transformer
-
++ “Instance-Wise” feature selection
