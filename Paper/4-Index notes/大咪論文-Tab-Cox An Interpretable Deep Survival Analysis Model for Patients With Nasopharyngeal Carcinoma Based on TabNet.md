@@ -73,4 +73,5 @@ input data enters the multi-step decision of the model after proceeding through 
 + Step 4 and 5: determine the feature weight
 	+ sparsemax activation function: $M [i] = sparsemax (P [i − 1] · hi (a [i − 1]))$
 	+ $P[i] = \prod_{j=1}^{i} (\gamma - M[j])$
-	+ 
+		+ **越早被選過的特徵，在後面就越不容易再被選中**（透過連乘，權重會下降）
+		- 是一種**特徵使用抑制機制**，鼓勵模型探索其他特徵
