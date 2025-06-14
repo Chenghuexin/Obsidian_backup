@@ -55,5 +55,7 @@ input data enters the multi-step decision of the model after proceeding through 
 + At each decision step, the processed feature representation will be outputted along with the single-step prediction vector
 + Finally, the feature representation is aggregated to calculate the global feature importance.
 + At each decision step, the model adjusts its focus by considering past outcomes and current information.
++ 2 pivotal components:
+	1. Attentive Transformer: feature selection
+2. Feature Transformer: feature extraction
 ### Feature Extraction
-2 pivotal components:
