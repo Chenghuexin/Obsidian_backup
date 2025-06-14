@@ -90,7 +90,7 @@ Main Function:
 + extract the features of each decision step
 + split this features into **shared decision part** and the **independent decision part**
 
-Shared Decision Part:
-shares parameters in all decision steps, allowing for training all decision steps simultaneously and calculating common features
+Shared Decision Part: shares parameters in all decision steps, allowing for training all decision steps simultaneously and calculating common features
 
 Independent Decision Part:
+The parameters are obtained only by training each decision step separately, and the characteristic features are calculated
