@@ -135,5 +135,6 @@ Strong assumnption is unrealistic:
 ##### Improve Cox - 2
 + $g(x)\Rightarrow g(t,x)$, time is also fitted as a covariate
 	+ $g(t,x)=x\log t$
-+ risk function after improving: $h (t|x) = h_0 (t) exp [g (t, x)]$
++ Risk function after improving: $h (t|x) = h_0 (t) exp [g (t, x)]$
++ Final loss function: $TLoss=\frac{1}{n}\sum_{i:D_i=1}\log​(\sum_{j∈\tilde{R_i}}​exp[g(x_j​)−g(x_i​)])$
 
