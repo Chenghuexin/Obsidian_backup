@@ -1,6 +1,6 @@
 
-# Introduction
-+ survival analysis model
+# Abastract
++ survival analysis model for NPC ()
 + combine TabNet and Cox models
 + Using:
 	+ TabNet: sequential attention mechanism
