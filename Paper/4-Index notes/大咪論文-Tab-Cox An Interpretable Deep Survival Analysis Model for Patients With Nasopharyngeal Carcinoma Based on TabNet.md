@@ -62,3 +62,4 @@ input data enters the multi-step decision of the model after proceeding through 
 + generate a feature mask that assesses the importance of each feature
 ### Feature Transformer
 + “Instance-Wise” feature selection
+	+ 不同資料其相同的特徵權重會不一樣
