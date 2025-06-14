@@ -80,8 +80,8 @@ input data enters the multi-step decision of the model after proceeding through 
 feature block: consist of sequentially connected FC, BN, and GLU layers
 + GLU: Gated Linear Unit, which implements selective input filtering to help the network capture long-term dependency information
 	+ $h_l(X) = (X \cdot W + b) \otimes \sigma(X \cdot V + c)$
-		+ X: input feature
-		+ W, V: weight matrix
-		+ b,c: bias
+		+ $X$: input feature
+		+ $W, V$: weight matrix
+		+ $b,c$: bias
 		+ $\sigma$: Sigmoid (output 0 ~ 1)
-		+ $\otimes$: element-wise 相乘
+		+ $\otimes$: element-wise multiplication
