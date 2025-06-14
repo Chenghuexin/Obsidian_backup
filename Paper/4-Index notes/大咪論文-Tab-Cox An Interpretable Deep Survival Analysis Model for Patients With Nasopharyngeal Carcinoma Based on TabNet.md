@@ -134,5 +134,5 @@ Strong assumnption is unrealistic:
 
 ##### Improve Cox - 2
 + $g(x)\Rightarrow g(t,x)$, time is also fitted as a covariate
-+ risk function after improving: 
++ risk function after improving: $h (t|x) = h_0 (t) exp [g (t, x)]$
 
