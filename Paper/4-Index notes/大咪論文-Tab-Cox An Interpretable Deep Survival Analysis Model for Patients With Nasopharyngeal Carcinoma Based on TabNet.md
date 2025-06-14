@@ -144,4 +144,7 @@ In order to further control the sparsity of the selected features
 	+ constrain the weight of $M$, the smaller the M_Loss, the sparser the attention mask $M[j]$ becomes
 	+ 只挑選出少量的關鍵特徵（提高 interpretability、減少過擬合）
 
-Final Loss Function: T_Loss + ()
+Final Loss Function: T_Loss + (λ∗M_Loss)
++ λ：控制兩者之間的權重比例，超參數
+
+### Ex
