@@ -52,4 +52,6 @@ input data enters the multi-step decision of the model after proceeding through 
 ### Decision Step
 + relies on sequential multi-step processing with N-steps decision
 + the input of each decision step is affected by information from the previous step to determine which features to utilize
++ At each decision step, the processed feature representation will be outputted along with the single-step prediction vector
++ Finally, the feature representation is aggregated to calculate the global feature importance.
 ### Feature Extraction
