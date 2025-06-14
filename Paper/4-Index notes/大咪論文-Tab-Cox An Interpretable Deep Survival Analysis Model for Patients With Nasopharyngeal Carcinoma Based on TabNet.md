@@ -102,3 +102,5 @@ Step 3: $[d[i],a[i]]=Split(FeatureTransformer(M[i]⋅f))$
 + $d[i]$: input to the ReLu layer and combines the result of each step’s decision into the total decision $d_{out}$:
 	+ $d_{out} = \sum_{i=1}^{N_{steps}} \text{ReLU}(d[i])$
 + $a[i]$: input to the Attentive Transformer for the next step
+
+### Survival Risk Loss
