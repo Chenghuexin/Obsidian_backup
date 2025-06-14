@@ -59,6 +59,6 @@ input data enters the multi-step decision of the model after proceeding through 
 	1. Attentive Transformer: feature selection
 	2. Feature Transformer: feature extraction
 ### Attentive Transformer
-
++ generate a feature mask that assesses the importance of each feature
 ### Feature Transformer
 
