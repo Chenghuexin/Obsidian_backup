@@ -125,6 +125,8 @@ Strong assumnption is unrealistic:
 + risk factor exhibits a linear relationship with the logarithm of the risk ratio
 
 ##### Improve Cox
-utilizes the output of the neural network to replace $g(x)$
-formula: $Loss=\sum_{i}D_i​⋅log​(\sum_{j∈R_i}​exp[g(x_j​)−g(x_i​)])​$
-batch-friendly: $batch_Loss=\frac{1}{n}\sum_{i:D_i=1}\log​(\sum_{j∈\tilde{R_i}}​exp[g(x_j​)−g(x_i​)])$
++ Utilizes the output of the neural network to replace $g(x)$
++ Formula: $Loss=\sum_{i}D_i​⋅log​(\sum_{j∈R_i}​exp[g(x_j​)−g(x_i​)])​$
++ Batch-friendly: $batchLoss=\frac{1}{n}\sum_{i:D_i=1}\log​(\sum_{j∈\tilde{R_i}}​exp[g(x_j​)−g(x_i​)])$
++ $\tilde{R_i}$: 在 batch 中仍存活的風險集（非整體資料集）
+Limitation: 
