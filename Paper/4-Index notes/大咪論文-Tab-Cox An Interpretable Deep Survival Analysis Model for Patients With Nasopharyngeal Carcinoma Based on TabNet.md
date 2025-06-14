@@ -50,5 +50,6 @@ Challenge
 input data enters the multi-step decision of the model after proceeding through the **BN layer**
 
 ### Key
-relies on sequential multi-step processing with N-steps decision
++ relies on sequential multi-step processing with N-steps decision
++ the input of each decision step is affected by information from the previous step to determine which features to utilize
 ### Feature Extraction
