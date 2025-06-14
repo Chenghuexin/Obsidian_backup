@@ -34,7 +34,11 @@ Drawback
 Challenge
 + many neural networks have not shown comparable levels of effectiveness in handling tabular data
 	+ In practice, clinical survival data frequently comprises a significant amount of tabular data, which many survival analysis models fail to adequately consider
-	+ why:
+	+ tabular data:
+		+ Tabular Data Characteristics
+			+ 特徵異質（heterogeneous features）
+			- 樣本數量相對較小
+			- 含有極端值與離群值（outliers）
 + the interpretability
 
 # Tab-Cox
