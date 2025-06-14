@@ -56,3 +56,4 @@ input data enters the multi-step decision of the model after proceeding through 
 + Finally, the feature representation is aggregated to calculate the global feature importance.
 + At each decision step, the model adjusts its focus by considering past outcomes and current information.
 ### Feature Extraction
+2 pivotal components:
