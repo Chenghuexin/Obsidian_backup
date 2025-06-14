@@ -121,4 +121,5 @@ Formula: $h(t,x)=h_0​(t)⋅exp[g(x)]$
 Converted formula: $ln(\frac{h(t,x)}{h_0(t)})=β^Tx$
 
 Strong assumnption:
++ each risk factor remains constant over time
 + 
