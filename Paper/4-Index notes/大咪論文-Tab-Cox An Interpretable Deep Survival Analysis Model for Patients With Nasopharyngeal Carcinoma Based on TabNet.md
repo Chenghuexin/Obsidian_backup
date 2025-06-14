@@ -126,4 +126,4 @@ Strong assumnption is unrealistic:
 
 ##### Improve Cox
 utilizes the output of the neural network to replace $g(x)$
-formula: $Loss=\sum_{i}D_i​⋅log​(\sum_j∈Ri​∑​exp[g(x_j​)−g(x_i​)]​$
+formula: $Loss=\sum_{i}D_i​⋅log​(\sum_{j∈R_i}​exp[g(x_j​)−g(x_i​)])​$
