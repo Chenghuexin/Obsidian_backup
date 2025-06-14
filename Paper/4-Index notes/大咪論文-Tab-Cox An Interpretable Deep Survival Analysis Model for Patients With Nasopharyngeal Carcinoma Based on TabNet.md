@@ -63,3 +63,5 @@ input data enters the multi-step decision of the model after proceeding through 
 ### Feature Transformer
 + “Instance-Wise” feature selection
 	+ 不同資料其相同的特徵權重會不一樣
++ generate a feature mask
+	+ 用來在模型訓練過程中**選擇性地關注輸入資料中的某些特徵欄位**，忽略其他特徵，讓模型能夠專注在對預測最有貢獻的欄位上。
