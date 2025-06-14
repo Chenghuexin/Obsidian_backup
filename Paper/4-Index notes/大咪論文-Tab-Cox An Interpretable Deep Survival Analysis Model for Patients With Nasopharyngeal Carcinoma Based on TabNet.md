@@ -127,6 +127,7 @@ Strong assumnption is unrealistic:
 ##### Improve Cox
 + Utilizes the output of the neural network to replace $g(x)$
 + Formula: $Loss=\sum_{i}D_i​⋅log​(\sum_{j∈R_i}​exp[g(x_j​)−g(x_i​)])​$
+	+ 
 + Batch-friendly: $batchLoss=\frac{1}{n}\sum_{i:D_i=1}\log​(\sum_{j∈\tilde{R_i}}​exp[g(x_j​)−g(x_i​)])$
-+ $\tilde{R_i}$: 在 batch 中仍存活的風險集（非整體資料集）
-Limitation: 
+	+ $\tilde{R_i}$: 在 batch 中仍存活的風險集（非整體資料集）
++ Limitation: 雖然解決了線性假設，但 Cox 的另一個假設「風險比例恆定（時間無關）」仍未被處理。
