@@ -71,4 +71,5 @@ input data enters the multi-step decision of the model after proceeding through 
 + Step 1 and 2: the output of the Feature transformer of the previous decision step will be input to the split layerr, which will split it and provide input to the input of the Attentive Transformer of the current decision step $a[i-1]$
 + Step 3: $hi$ Layer, consists of the Fully Connected Layer (FC) and Batch Normalization Layer (BN) to extract higher-dimensional and more abstract features
 + Step 4 and 5: determine the feature weight
-	+ sparsemax activation: 
+	+ sparsemax activation function: $M [i] = sparsemax (P [i − 1] · hi (a [i − 1]))$
+	+ 
