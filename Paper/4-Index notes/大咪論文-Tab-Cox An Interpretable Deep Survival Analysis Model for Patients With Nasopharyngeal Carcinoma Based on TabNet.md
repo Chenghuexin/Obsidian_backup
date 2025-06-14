@@ -125,4 +125,4 @@ Strong assumnption is unrealistic:
 + risk factor exhibits a linear relationship with the logarithm of the risk ratio
 
 ##### Improve Cox
-utilizes the output of the neural network in section A to replace g(x)
+utilizes the output of the neural network to replace $g(x)$
