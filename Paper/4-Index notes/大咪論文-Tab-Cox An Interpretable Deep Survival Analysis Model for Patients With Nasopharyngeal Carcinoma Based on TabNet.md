@@ -29,5 +29,5 @@ Drawback
 + it posits that the logarithmic survival risk of a patient can be expressed as a linear combination of patient covariates (預設病因是線性關係), which is considered overly simplistic for many practical medical situations due to the frequent presence of complex nonlinear relationships among variables.
 
 ### Deep Survival Analysis model
-With
++ Overcome the linear constraints of CPH
 Challenge
