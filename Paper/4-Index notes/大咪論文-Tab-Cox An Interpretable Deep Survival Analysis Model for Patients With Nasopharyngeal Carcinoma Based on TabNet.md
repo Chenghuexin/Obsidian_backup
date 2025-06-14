@@ -78,3 +78,4 @@ input data enters the multi-step decision of the model after proceeding through 
 
 ### Feature Transformer
 feature block: consist of sequentially connected FC, BN, and GLU layers
++ GLU: Gated Linear Unit, which implements selective input filtering to help the network capture long-term dependency information
