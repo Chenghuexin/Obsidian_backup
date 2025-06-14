@@ -124,10 +124,13 @@ Strong assumnption is unrealistic:
 + each risk factor remains constant over time
 + risk factor exhibits a linear relationship with the logarithm of the risk ratio
 
-##### Improve Cox
+##### Improve Cox - 1
 + Utilizes the output of the neural network to replace $g(x)$
 + Formula: $Loss=\sum_{i}D_i​⋅log​(\sum_{j∈R_i}​exp[g(x_j​)−g(x_i​)])​$
 	+ What is $R_i$ (風險集) : 在時間 $t_i$（即第 i 個樣本事件發生的時間）仍然存活或尚未發生事件的所有其他樣本的集合
 + Batch-friendly: $batchLoss=\frac{1}{n}\sum_{i:D_i=1}\log​(\sum_{j∈\tilde{R_i}}​exp[g(x_j​)−g(x_i​)])$
 	+ $\tilde{R_i}$: 在 batch 中仍存活的風險集（非整體資料集）
 + Limitation: 雖然解決了線性假設，但 Cox 的另一個假設「風險比例恆定（時間無關）」仍未被處理。
+
+##### Improve Cox - 2
+
