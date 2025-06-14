@@ -127,4 +127,4 @@ Strong assumnption is unrealistic:
 ##### Improve Cox
 utilizes the output of the neural network to replace $g(x)$
 formula: $Loss=\sum_{i}D_i​⋅log​(\sum_{j∈R_i}​exp[g(x_j​)−g(x_i​)])​$
-batch-friendly: $batch_Loss=\frac{1}{n}\sum_{i:D_i=1}\log​(\sum_{j∈R_i}​exp[g(x_j​)−g(x_i​)])$
+batch-friendly: $batch_Loss=\frac{1}{n}\sum_{i:D_i=1}\log​(\sum_{j∈\tilde{R_i}}​exp[g(x_j​)−g(x_i​)])$
