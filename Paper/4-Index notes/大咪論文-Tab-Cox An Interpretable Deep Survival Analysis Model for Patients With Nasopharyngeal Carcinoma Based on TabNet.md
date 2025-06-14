@@ -98,4 +98,4 @@ Shared Decision Part: shares parameters in all decision steps, allowing for trai
 Independent Decision Part:
 The parameters are obtained only by training each decision step separately, and the characteristic features are calculated
 
-Split
+Step 3:
