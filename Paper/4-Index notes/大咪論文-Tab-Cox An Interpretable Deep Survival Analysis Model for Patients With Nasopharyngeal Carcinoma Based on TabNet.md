@@ -72,5 +72,5 @@ input data enters the multi-step decision of the model after proceeding through 
 + Step 3: $hi$ Layer, consists of the Fully Connected Layer (FC) and Batch Normalization Layer (BN) to extract higher-dimensional and more abstract features
 + Step 4 and 5: determine the feature weight
 	+ sparsemax activation function: $M [i] = sparsemax (P [i − 1] · hi (a [i − 1]))$
-	+ $ P[i] = \prod_{j=1}^{i} (\gamma - M[j]) $
+	+ $P[i] = \prod_{j=1}^{i} (\gamma - M[j])$
 	+ 
