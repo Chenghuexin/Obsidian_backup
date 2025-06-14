@@ -147,4 +147,4 @@ In order to further control the sparsity of the selected features
 Final Loss Function: T_Loss + (λ∗M_Loss)
 + λ：控制兩者之間的權重比例，超參數
 
-### Ex
+### Explainable Risk Factor Evaluation
