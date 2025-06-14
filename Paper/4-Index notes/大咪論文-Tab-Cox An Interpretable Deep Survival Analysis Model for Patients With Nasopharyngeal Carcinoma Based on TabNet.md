@@ -91,5 +91,6 @@ Main Function:
 + split this features into **shared decision part** and the **independent decision part**
 
 Shared Decision Part:
+shares parameters in all decision steps, allowing for training all decision steps simultaneously and calculating common features
 
 Independent Decision Part:
