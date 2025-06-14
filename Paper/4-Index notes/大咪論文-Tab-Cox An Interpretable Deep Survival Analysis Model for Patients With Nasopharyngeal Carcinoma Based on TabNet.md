@@ -10,3 +10,7 @@
 
 # Motivation
 + the complexity of neural networks and their incompatibility with medical tabular data can reduce the interpretability of the model
+
+# Introduction
+### Malnutrition 
+a significant factor in the occurrence and development of tumors, affecting the entire course of cancer and serving as the primary negative factor for the adverse clinical outcomes of tumor patients
