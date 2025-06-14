@@ -82,4 +82,6 @@ feature block: consist of sequentially connected FC, BN, and GLU layers
 	+ $h_l(X) = (X \cdot W + b) \otimes \sigma(X \cdot V + c)$
 		+ X: input feature
 		+ W, V: weight matrix
-		+ 
+		+ b,c: bias
+		+ $\sigma$: Sigmoid (output 0 ~ 1)
+		+ $\otimes$: element-wise 相乘
