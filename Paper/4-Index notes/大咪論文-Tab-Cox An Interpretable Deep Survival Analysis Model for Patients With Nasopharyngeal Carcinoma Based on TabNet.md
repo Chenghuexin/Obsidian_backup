@@ -24,4 +24,4 @@ Most patients with malignant tumors require nutritional intervention. Therefore,
 + in medical field, it also can identify the risk factors that impact patient survival
 	+ for early decision-making
 	+ improved treatment strategies
-##### 
+##### Cox Proportional Hazard Model (CPH)
