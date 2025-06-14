@@ -67,5 +67,4 @@ input data enters the multi-step decision of the model after proceeding through 
 	+ 用來在模型訓練過程中**選擇性地關注輸入資料中的某些特徵欄位**，忽略其他特徵，讓模型能夠專注在對預測最有貢獻的欄位上
 	+ 一個與輸入特徵同樣維度的權重向量，通常數值介於 0 到 1 之間
 	+ decisions made at each step will not be wasted on irrelevant features
-+ input
-	+ the output of the Feature transformer of the previous decision step will be input to the split layer
++ input: the output of the Feature transformer of the previous decision step will be input to the split layer
