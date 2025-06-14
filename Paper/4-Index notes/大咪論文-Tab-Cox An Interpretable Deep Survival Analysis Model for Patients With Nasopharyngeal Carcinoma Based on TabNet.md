@@ -16,3 +16,5 @@
 A significant factor in the occurrence and development of tumors, affecting the entire course of cancer and serving as the primary negative factor for the adverse clinical outcomes of tumor patients
 
 Previous studies have shown that approximately 40% of patients with malignant tumors die from malnutrition, not from the disease itself
+
+Most patients with malignant tumors require nutritional intervention. Therefore, timely and accurate detection of malnutrition in patients with nasopharyngeal carcinoma
