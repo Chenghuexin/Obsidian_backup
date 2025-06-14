@@ -112,8 +112,8 @@ examine the relationship between variable x and the survival risk function
 ##### Cox Proportional Hazards Model
 Formula: $h(t,x)=h_0​(t)⋅exp[g(x)]$
 + $g(x)=β^Tx$
-- $h(t,x)$：某人在時間 t 的死亡風險。
+- $h(t,x)$: 某人在時間 t 的死亡風險。
     
-- h0(t)h_0(t)h0​(t)：基準風險函數（baseline hazard）——不含個人特徵的死亡率。
+- $h0(t)$: 基準風險函數（baseline hazard）——不含個人特徵的死亡率。
     
-- g(x)=βTxg(x) = \beta^T xg(x)=βTx：表示特徵 xxx 對風險的線性影響，β\betaβ 是回歸係數向量。
+- $g(x)=β^Tx$: 表示特徵 $x$ 對風險的線性影響，$β$taβ 是回歸係數向量。
