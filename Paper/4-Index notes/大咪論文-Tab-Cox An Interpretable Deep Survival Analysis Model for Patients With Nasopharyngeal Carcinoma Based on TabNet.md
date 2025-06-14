@@ -140,5 +140,5 @@ Strong assumnption is unrealistic:
 
 In order to further control the sparsity of the selected features
 + 只挑選出少量的關鍵特徵（提高 interpretability、減少過擬合）
-+ M\_Loss = \frac{1}{N_{\text{steps}} \cdot B} \sum_{i=1}^{N_{\text{steps}}} \sum_{b=1}^{B} \sum_{j=1}^{D} 
-  -M_{b,j}^{[i]} \cdot \log(M_{b,j}^{[i]} + \epsilon)
++ $M\_Loss = \frac{1}{N_{\text{steps}} \cdot B} \sum_{i=1}^{N_{\text{steps}}} \sum_{b=1}^{B} \sum_{j=1}^{D}-M_{b,j}^{[i]} \cdot \log(M_{b,j}^{[i]} + \epsilon)$
++ 
