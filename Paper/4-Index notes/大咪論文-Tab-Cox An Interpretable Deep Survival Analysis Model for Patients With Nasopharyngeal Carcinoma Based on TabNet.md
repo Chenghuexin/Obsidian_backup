@@ -48,4 +48,7 @@ Challenge
 # Tab-Cox
 ### Input
 input data enters the multi-step decision of the model after proceeding through the **BN layer**
+
+### Key
+relies on sequential multi-step processing with N-steps decision
 ### Feature Extraction
