@@ -32,4 +32,5 @@ Drawback
 + Overcome the linear constraints of CPH
 Challenge
 + many neural networks have not shown comparable levels of effectiveness in handling tabular data
-	+ In practice, clinical survival data frequently comprises a significant amount of tabular data, which many survival analysis models fail to adequately consider.
+	+ In practice, clinical survival data frequently comprises a significant amount of tabular data, which many survival analysis models fail to adequately consider
++ the interpretability
