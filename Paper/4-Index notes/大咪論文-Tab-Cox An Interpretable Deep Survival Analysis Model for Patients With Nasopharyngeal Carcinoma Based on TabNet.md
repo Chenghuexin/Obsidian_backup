@@ -85,3 +85,5 @@ feature block: consist of sequentially connected FC, BN, and GLU layers
 		+ $b,c$: bias
 		+ $\sigma$: Sigmoid (output 0 ~ 1)
 		+ $\otimes$: element-wise multiplication
+
+a
