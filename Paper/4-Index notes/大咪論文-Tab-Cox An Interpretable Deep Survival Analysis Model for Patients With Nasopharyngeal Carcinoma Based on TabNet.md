@@ -138,3 +138,4 @@ Strong assumnption is unrealistic:
 + Risk function after improving: $h (t|x) = h_0 (t) exp [g (t, x)]$
 + After improving loss function: $TLoss=\frac{1}{n}\sum_{i:C_i=1}\log​(\sum_{j∈\tilde{R_i}}​exp[g(T_i, x_j​)−g(T_i, x_i)])$
 
+In order to further control the sparsity of the selected features
