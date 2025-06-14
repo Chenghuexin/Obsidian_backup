@@ -107,4 +107,4 @@ Step 3: $[d[i],a[i]]=Split(FeatureTransformer(M[i]⋅f))$
 
 ##### Primary purpose of survival analysis
 examine the relationship between variable x and the survival risk function
-+ risk function: instantaneous mortality rate of patients at a specific time
++ risk function $h(t,x)$: instantaneous mortality rate of patients at a specific time ($x$)
