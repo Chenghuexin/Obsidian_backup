@@ -22,3 +22,4 @@ Most patients with malignant tumors require nutritional intervention. Therefore,
 ### Survival analysis model
 + time-to-event model
 + in medical field, it also can identify the risk factors that impact patient survival
+	+ for early decision-making
