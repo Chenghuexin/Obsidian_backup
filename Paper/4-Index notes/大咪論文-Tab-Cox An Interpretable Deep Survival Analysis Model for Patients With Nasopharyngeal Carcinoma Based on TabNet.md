@@ -139,6 +139,6 @@ Strong assumnption is unrealistic:
 + After improving loss function: $TLoss=\frac{1}{n}\sum_{i:C_i=1}\log​(\sum_{j∈\tilde{R_i}}​exp[g(T_i, x_j​)−g(T_i, x_i)])$
 
 In order to further control the sparsity of the selected features
-+ 只挑選出少量的關鍵特徵（提高 interpretability、減少過擬合）
 + $M\_Loss = \frac{1}{N_{\text{steps}} \cdot B} \sum_{i=1}^{N_{\text{steps}}} \sum_{b=1}^{B} \sum_{j=1}^{D}-M_{b,j}^{[i]} \cdot \log(M_{b,j}^{[i]} + \epsilon)$
-+ 
+	+ $\epsilon$：防止 log(0) 的極小值常數。
+	+ 只挑選出少量的關鍵特徵（提高 interpretability、減少過擬合）
