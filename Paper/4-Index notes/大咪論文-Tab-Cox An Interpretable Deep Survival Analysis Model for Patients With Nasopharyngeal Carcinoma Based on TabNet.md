@@ -25,3 +25,5 @@ Most patients with malignant tumors require nutritional intervention. Therefore,
 	+ for early decision-making
 	+ improved treatment strategies
 ##### Cox Proportional Hazard Model (CPH)
+Drawback
++ it posits that the logarithmic survival risk of a patient can be expressed as a linear combination of patient covariates
