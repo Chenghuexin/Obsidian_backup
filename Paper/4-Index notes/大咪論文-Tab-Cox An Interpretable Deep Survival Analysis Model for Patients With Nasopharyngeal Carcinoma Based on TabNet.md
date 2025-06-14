@@ -133,4 +133,5 @@ Strong assumnption is unrealistic:
 + Limitation: 雖然解決了線性假設，但 Cox 的另一個假設「風險比例恆定（時間無關）」仍未被處理。
 
 ##### Improve Cox - 2
+$g(x)$
 
