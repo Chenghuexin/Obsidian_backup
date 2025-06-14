@@ -88,4 +88,4 @@ Feature Block: consist of sequentially connected FC, BN, and GLU layers
 
 Main Function: 
 + extract the features of each decision step
-+ split this features into 
++ split this features into shared decision part and the independent decision part
