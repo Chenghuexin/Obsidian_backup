@@ -141,4 +141,7 @@ Strong assumnption is unrealistic:
 In order to further control the sparsity of the selected features
 + $M\_Loss = \frac{1}{N_{\text{steps}} \cdot B} \sum_{i=1}^{N_{\text{steps}}} \sum_{b=1}^{B} \sum_{j=1}^{D}-M_{b,j}^{[i]} \cdot \log(M_{b,j}^{[i]} + \epsilon)$
 	+ $\epsilon$：防止 log(0) 的極小值常數。
+	+ constrain the weight of $M$, the smaller the M_Loss, the sparser the attention mask $M[j]$ becomes
 	+ 只挑選出少量的關鍵特徵（提高 interpretability、減少過擬合）
+
+Final Loss Function: T_Loss + ()
