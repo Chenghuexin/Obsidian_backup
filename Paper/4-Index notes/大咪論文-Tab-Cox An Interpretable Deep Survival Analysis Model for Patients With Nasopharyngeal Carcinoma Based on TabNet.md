@@ -1,6 +1,6 @@
 
 # Abastract
-+ survival analysis model for NPC ()
++ survival analysis model for NPC (malignant tumors)
 + combine TabNet and Cox models
 + Using:
 	+ TabNet: sequential attention mechanism
