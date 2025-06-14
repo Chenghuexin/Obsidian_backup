@@ -119,3 +119,6 @@ Formula: $h(t,x)=h_0​(t)⋅exp[g(x)]$
 - $g(x)=β^Tx$: 表示特徵 $x$ 對風險的線性影響，$β$ 是回歸係數向量。
 
 Converted formula: $ln(\frac{h(t,x)}{h_0(t)})=β^Tx$
+
+Strong assumnption:
++ 
