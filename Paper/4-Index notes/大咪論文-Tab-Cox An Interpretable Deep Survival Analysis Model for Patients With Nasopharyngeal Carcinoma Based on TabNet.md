@@ -148,3 +148,7 @@ Final Loss Function: T_Loss + (λ∗M_Loss)
 + λ：控制兩者之間的權重比例，超參數
 
 ### Explainable Risk Factor Evaluation
+The feature mask can only be analyzed as the local variable importance. However, the analysis of global variable importance requires combining the local variable importance from different steps
+
+The total decision contribution of sample b in the i step:
+$\eta_b[ㄛ]$
