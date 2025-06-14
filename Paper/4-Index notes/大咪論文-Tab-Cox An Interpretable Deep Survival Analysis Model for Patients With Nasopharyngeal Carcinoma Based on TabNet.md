@@ -40,6 +40,9 @@ Challenge
 			- 樣本數量相對較小
 			- 可能會有 curse of dimension
 			- 含有極端值與離群值（outliers）
+		- 深度學習架構的限制
+			- 主要為連續數值資料設計 (影像、語音)
+			- 無法有效處理類別型或非線性邏輯複雜的 tabular 資料
 + the interpretability
 
 # Tab-Cox
