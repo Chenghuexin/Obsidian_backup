@@ -178,7 +178,14 @@ only considers the ability to predict whether an event occurs or not, and does n
 + censored: **尚未發生事件（例如死亡、疾病復發）**，我們無法知道他們究竟何時會發生事件，只知道在某個時間點以前還沒發生。
 
 ##### BS weighted version
-+ formula: BS(t) = \frac{1}{N} \sum_{i=1}^{N} \left[\frac{ \hat{S}(t \mid x_i)^2 \cdot \mathbb{1}\{T_i \le t,\ D_i = 1\} }{ \hat{G}(T_i) } + \frac{ (1 - \hat{S}(t \mid x_i))^2 \cdot \mathbb{1}\{T_i > t\} }{ \hat{G}(t) }\right]
-
-+ 
++ formula: $BS(t) = \frac{1}{N} \sum_{i=1}^{N} \left[\frac{ \hat{S}(t \mid x_i)^2 \cdot \mathbb{1}\{T_i \le t,\ D_i = 1\} }{ \hat{G}(T_i) } + \frac{ (1 - \hat{S}(t \mid x_i))^2 \cdot \mathbb{1}\{T_i > t\} }{ \hat{G}(t) }\right]$
+	- $\hat{S}(t|x_i)$：模型對第 i 個樣本在時間 ttt 尚未發生事件的機率預測值。
+    
+	- 1{⋅}\mathbf{1}\{ \cdot \}1{⋅}：指示函數，滿足條件則為 1，否則為 0。
+    
+	- DiD_iDi​：表示第 iii 筆樣本是否發生事件（1 表示發生；0 表示截尾）。
+    
+	- TiT_iTi​：事件或截尾時間。
+    
+	- G^(⋅)\hat{G}(\cdot)G^(⋅)：估計的截尾分布函數，通常透過 **Kaplan-Meier** 方法求得。
 ### DataSet
