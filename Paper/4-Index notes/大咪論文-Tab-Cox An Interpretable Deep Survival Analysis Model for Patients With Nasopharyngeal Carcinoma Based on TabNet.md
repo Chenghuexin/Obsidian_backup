@@ -178,6 +178,6 @@ only considers the ability to predict whether an event occurs or not, and does n
 + censored: **尚未發生事件（例如死亡、疾病復發）**，我們無法知道他們究竟何時會發生事件，只知道在某個時間點以前還沒發生。
 
 ##### BS weighted version
-+ formula: 
++ formula: $BS(t)=N1​i=1∑N​\[G^(Ti​)S^(t∣xi​)2⋅1{Ti​≤t, Di​\=1}​+G^(t)(1−S^(t∣xi​))2⋅1{Ti​\>t}​\]$
 + 
 ### DataSet
