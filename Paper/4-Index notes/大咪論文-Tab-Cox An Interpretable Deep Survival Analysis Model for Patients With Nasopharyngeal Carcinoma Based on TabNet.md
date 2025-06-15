@@ -172,4 +172,7 @@ only considers the ability to predict whether an event occurs or not, and does n
     
 	- $P(\cdot)$：表示滿足條件時，預測的生存概率正確排序的比例。
 - a higher C index indicates a stronger ability of the model
+
+##### Brier Score (BS)
+
 ### DataSet
