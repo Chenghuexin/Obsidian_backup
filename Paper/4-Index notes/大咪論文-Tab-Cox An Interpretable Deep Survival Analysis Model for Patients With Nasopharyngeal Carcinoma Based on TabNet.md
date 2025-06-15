@@ -175,4 +175,5 @@ only considers the ability to predict whether an event occurs or not, and does n
 
 ##### Brier Score (BS)
 衡量機率預測與實際結果差異的一種指標。在生存分析中，傳統的 BS 會失準，因為某些樣本並未發生事件（censored）
++ censored: **尚未發生事件（例如死亡、疾病復發）**，我們無法知道他們究竟何時會發生事件，只知道在某個時間點以前還沒發生。
 ### DataSet
