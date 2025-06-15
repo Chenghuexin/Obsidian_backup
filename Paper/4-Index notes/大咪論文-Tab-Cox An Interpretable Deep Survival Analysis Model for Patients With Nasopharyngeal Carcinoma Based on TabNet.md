@@ -162,6 +162,6 @@ The final global variable importance is determined by combining the contribution
 ##### C-index
 only considers the ability to predict whether an event occurs or not, and does not take the time factor into account. Since time factor is a crucial factor in the proposed model
 
-##### metric based on the time-dependent Cindex
+##### time-dependent Cindex
 
 ### DataSet
