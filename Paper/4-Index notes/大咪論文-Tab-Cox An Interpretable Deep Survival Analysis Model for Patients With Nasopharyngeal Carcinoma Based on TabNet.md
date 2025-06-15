@@ -183,9 +183,9 @@ only considers the ability to predict whether an event occurs or not, and does n
     
 	- ${1}\{ \cdot \}$：指示函數，滿足條件則為 1，否則為 0。
     
-	- $D_i$i​：表示第 iii 筆樣本是否發生事件（1 表示發生；0 表示截尾）。
+	- $D_i$​：表示第 i 筆樣本是否發生事件（1 表示發生；0 表示截尾）。
     
-	- TiT_iTi​：事件或截尾時間。
+	- $T_i$​：事件或截尾時間。
     
-	- G^(⋅)\hat{G}(\cdot)G^(⋅)：估計的截尾分布函數，通常透過 **Kaplan-Meier** 方法求得。
+	- $\hat{G}(\cdot)$：估計的截尾分布函數，通常透過 **Kaplan-Meier** 方法求得。
 ### DataSet
