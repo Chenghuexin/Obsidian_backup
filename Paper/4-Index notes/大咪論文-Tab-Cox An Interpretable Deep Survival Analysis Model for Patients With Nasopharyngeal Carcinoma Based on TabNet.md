@@ -171,4 +171,5 @@ only considers the ability to predict whether an event occurs or not, and does n
 	- $D_i = 1$：表示樣本 i 是「有觀察到事件發生」（非截尾資料）。
     
 	- $P(\cdot)$：表示滿足條件時，預測的生存概率正確排序的比例。
+- a higher C index indicates a stronger ability of the model
 ### DataSet
