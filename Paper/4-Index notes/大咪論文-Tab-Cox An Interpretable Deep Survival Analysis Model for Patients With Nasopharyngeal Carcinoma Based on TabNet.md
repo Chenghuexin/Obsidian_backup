@@ -164,9 +164,9 @@ only considers the ability to predict whether an event occurs or not, and does n
 
 ##### time-dependent Cindex
 + formula: $C_{td} = P\left( \hat{S}(T_i \mid x_i) < \hat{S}(T_i \mid x_j) \,\middle|\, T_i < T_j,\ D_i = 1 \right)$
-	- $S^(Ti∣xi)\hat{S}(T_i \mid x_i)S^(Ti​∣xi​)$：樣本 iii 在時間 TiT_iTi​ 的生存機率預測（生存函數的估計）。
+	- $\hat{S}(T_i \mid x_i)$：樣本 i 在時間 $T_i$​ 的生存機率預測（生存函數的估計）。
     
-	- Ti<TjT_i < T_jTi​<Tj​：樣本 iii 發生事件的時間早於樣本 jjj。
+	- $T_i < T_j$​：樣本 i 發生事件的時間早於樣本 jjj。
     
 	- Di=1D_i = 1Di​=1：表示樣本 iii 是「有觀察到事件發生」（非截尾資料）。
     
