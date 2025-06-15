@@ -152,5 +152,5 @@ The feature mask can only be analyzed as the local variable importance. However,
 
 The total decision contribution of sample b in the i step:
 $\eta_b[i]=\sum_{c=1}^{N_d}ReLU(d_{b,c}[i])$
-+ larger d_{b,c}[i], greater importance
++ larger $d_{b,c}[i]$, greater importance
 + 
