@@ -188,4 +188,9 @@ only considers the ability to predict whether an event occurs or not, and does n
 	- $T_i$​：事件或截尾時間。
     
 	- $\hat{G}(\cdot)$：估計的截尾分布函數，通常透過 **Kaplan-Meier** 方法求得。
+
+##### Integral Brier Score (IBS)
+由於單一時間點的 BS 無法全面評估預測在整段時間區間的表現，因此提出 IBS（積分 Brier Score）
++ formula: $\text{IBS} = \frac{1}{t_2 - t_1} \int_{t_1}^{t_2} \text{BS}(t) \, dt$
+
 ### DataSet
