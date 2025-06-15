@@ -1,6 +1,6 @@
 
 # Abastract
-+ survival analysis model for NPC (malignant tumors)
++ p (malignant tumors)
 + nutritional status of cancer patients is closely associated with the clinical progression of the disease.
 + combine TabNet and Cox models
 + Using:
