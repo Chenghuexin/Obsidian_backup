@@ -120,7 +120,7 @@ Formula: $h(t,x)=h_0​(t)⋅exp[g(x)]$
 
 Converted formula: $ln(\frac{h(t,x)}{h_0(t)})=β^Tx$
 
-Strong assumnption is unrealistic:
+Strong assumption is unrealistic:
 + each risk factor remains constant over time
 + risk factor exhibits a linear relationship with the logarithm of the risk ratio
 
