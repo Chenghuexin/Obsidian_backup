@@ -155,3 +155,4 @@ $\eta_b[i]=\sum_{c=1}^{N_d}ReLU(d_{b,c}[i])$
 + larger $d_{b,c}[i]$, greater importance
 
 The final global variable importance is determined by combining the contribution of a single decision step $ηb[i]$ and the local variable importance analysis $M_{b,j}[i]$
++ formula: $M_{\text{agg}}[j] = \frac{\sum_{i=1}^{N_{\text{steps}}} \eta_b[i] \cdot M_{b,j}[i]}{\sum_{j=1}^{D} \sum_{i=1}^{N_{\text{steps}}} \eta_b[i] \cdot M_{b,j}[i]}$
