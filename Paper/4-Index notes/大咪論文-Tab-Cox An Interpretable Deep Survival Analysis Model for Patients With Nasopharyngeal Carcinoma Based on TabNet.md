@@ -174,5 +174,5 @@ only considers the ability to predict whether an event occurs or not, and does n
 - a higher C index indicates a stronger ability of the model
 
 ##### Brier Score (BS)
-
+衡量機率預測與實際結果差異的一種指標。在生存分析中，傳統的 BS 會失準，因為某些樣本並未發生事件（censored）
 ### DataSet
