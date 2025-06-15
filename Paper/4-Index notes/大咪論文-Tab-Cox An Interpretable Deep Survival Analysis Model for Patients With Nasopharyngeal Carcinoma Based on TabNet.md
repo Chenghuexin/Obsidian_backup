@@ -174,6 +174,8 @@ only considers the ability to predict whether an event occurs or not, and does n
 - a higher C index indicates a stronger ability of the model
 
 ##### Brier Score (BS)
-衡量機率預測與實際結果差異的一種指標。在生存分析中，傳統的 BS 會失準，因為某些樣本並未發生事件（censored）
+衡量機率預測與實際結果差異的一種指標。在生存分析中，傳統的 BS 會失準，因為某些樣本並未發生事件（censored），因為它假設我們知道所有樣本的真實標籤。但對被截尾的樣本，我們只能確定「目前沒事」，不能確定未來會不會發生。
 + censored: **尚未發生事件（例如死亡、疾病復發）**，我們無法知道他們究竟何時會發生事件，只知道在某個時間點以前還沒發生。
+
+###
 ### DataSet
