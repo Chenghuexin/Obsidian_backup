@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "大咪論文-Tab-Cox An Interpretable Deep Survival Analysis Model for Patients With Nasopharyngeal Carcinoma Based on TabNet"
             }
+          },
+          {
+            "id": "e5aa9875039f140e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "榮總胃癌.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "榮總胃癌"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f684e491af8eeed5",
@@ -177,13 +191,14 @@
       "media-extended:Open media": false
     }
   },
-  "active": "1c51d3f077a1ae18",
+  "active": "e5aa9875039f140e",
   "lastOpenFiles": [
+    "4-Index notes/大咪論文-Tab-Cox An Interpretable Deep Survival Analysis Model for Patients With Nasopharyngeal Carcinoma Based on TabNet.md",
+    "榮總胃癌.md",
     "4-Index notes/attachments/Pasted image 20250615042223.png",
     "4-Index notes/attachments/Pasted image 20250614234930.png",
     "4-Index notes/attachments/Pasted image 20250614234920.png",
     "4-Index notes/LLM 報書.md",
-    "4-Index notes/大咪論文-Tab-Cox An Interpretable Deep Survival Analysis Model for Patients With Nasopharyngeal Carcinoma Based on TabNet.md",
     "4-Index notes/計畫進度.md",
     "4-Index notes/attachments/Pasted image 20250609151104.png",
     "4-Index notes/attachments/Pasted image 20250609141308.png",
@@ -199,7 +214,6 @@
     "社群媒體分析/attachments/Pasted image 20250608061247.png",
     "社群媒體分析/attachments/Pasted image 20250608054738.png",
     "社群媒體分析/attachments/Pasted image 20250608053820.png",
-    "社群媒體分析/attachments/Pasted image 20250608053735.png",
     "Advance ML/Final Project.md",
     "社群媒體分析/Unit 4 情緒分析.md",
     "社群媒體分析/Unit 5 文辭與文件分析.md",
