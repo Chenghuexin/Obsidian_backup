@@ -10,3 +10,4 @@ Improvements:
 + learned policies can be transferred to new datasets (AutoAugment-transfer)
 
 # AutoAugment
+###### policy: what image processing operation to use, the probability of using the operation in each batch, and the magnitude of the operation
