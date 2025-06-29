@@ -21,4 +21,5 @@ The operations we searched over are ShearX/Y, TranslateX/Y, Rotate, AutoContrast
 
 ##### Search Algorithm
 concept: reinforcement learning
- + a controller, which is a recurrent neural network, and the training algorithm, which is the Proximal Policy Optimization algorithm
+ + a controller, which is a recurrent neural network (RNN)
+ + the training algorithm, which is the Proximal Policy Optimization algorithm
