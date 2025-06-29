@@ -20,3 +20,5 @@ A policy consists of 5 sub-policies with each sub-policy consisting of two image
 The operations we searched over are ShearX/Y, TranslateX/Y, Rotate, AutoContrast, Invert, Equalize, Solarize, Posterize, Contrast, Color, Brightness, Sharpness, Cutout, Sample Pairing.
 
 ##### Search Algorithm
+concept: reinforcement learning
+ + a controller, which is a recurrent neural network, and the training algorithm, which is the Proximal Policy Optimization algorithm
