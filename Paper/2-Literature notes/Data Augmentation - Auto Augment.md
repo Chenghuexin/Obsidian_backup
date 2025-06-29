@@ -23,4 +23,6 @@ The operations we searched over are ShearX/Y, TranslateX/Y, Rotate, AutoContrast
 concept: reinforcement learning
  + a controller, which is a recurrent neural network (RNN)
  + the training algorithm, which is the Proximal Policy Optimization algorithm
- At each step, the controller predicts a decision produced by a softmax; the prediction is then fed into the next step as an embedding.
+ At each step, the controller predicts a decision produced by a softmax; the prediction is then fed into the next step as an embedding
+
+##### The training of controller RNN
