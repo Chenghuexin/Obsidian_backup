@@ -26,4 +26,5 @@ concept: reinforcement learning
  At each step, the controller predicts a decision produced by a softmax; the prediction is then fed into the next step as an embedding
 
 ##### The training of controller RNN
- 
+The controller is trained with a reward signal, which is how good the policy is in improving the generalization of a “child model” (a neural network trained as part of the search process)
++ validation set
