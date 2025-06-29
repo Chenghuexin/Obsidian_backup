@@ -8,3 +8,5 @@ Search Algorithm: reinforcement learning
 Improvements:
 + AutoAugment can be applied directly on the dataset of interest to find the best augmentation policy (AutoAugment-direct)
 + learned policies can be transferred to new datasets (AutoAugment-transfer)
+
+# AutoAugment
