@@ -26,3 +26,4 @@ concept: reinforcement learning
  At each step, the controller predicts a decision produced by a softmax; the prediction is then fed into the next step as an embedding
 
 ##### The training of controller RNN
+ 
