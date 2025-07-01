@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Index notes/榮總胃癌/Todo List.md",
+                "file": "2-Literature notes/Introduction for machine learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo List"
+              "title": "Introduction for machine learning"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "c1d0cb1260ecab40",
   "lastOpenFiles": [
-    "4-Index notes/榮總胃癌/榮總胃癌.md",
+    "2-Literature notes/機器學習任務攻略.md",
     "4-Index notes/榮總胃癌/Todo List.md",
+    "4-Index notes/榮總胃癌/榮總胃癌.md",
     "4-Index notes/大咪論文-Tab-Cox An Interpretable Deep Survival Analysis Model for Patients With Nasopharyngeal Carcinoma Based on TabNet.md",
     "4-Index notes/榮總胃癌",
     "Data Analyze/Data pipeline/Data pipeline components.md",
@@ -216,7 +217,6 @@
     "2-Literature notes/自注意力機制 (Self-attention) (下).md",
     "2-Literature notes/自注意力機制 (Self-attention) (上).md",
     "2-Literature notes/3D Medical image segmentation using parallel transformers.md",
-    "2-Literature notes/機器學習任務攻略.md",
     "2-Literature notes/報書 - ChatGPT4.md",
     "2-Literature notes/Introduction for machine learning.md",
     "2-Literature notes/Machine learning basic concept.md",
