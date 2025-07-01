@@ -7,6 +7,6 @@
 | don't using probability in augmentation   | Maybe next week |                  |
 | wheather top 20 policies use augmentation | Maybe next week |                  |
 + task 1: multi level without leision
-+ [ ] excel files
-+ [ ] picture files
++ [x] excel files
++ [x] picture files
 + [ ] program
