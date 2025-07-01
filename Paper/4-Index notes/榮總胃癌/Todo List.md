@@ -10,3 +10,5 @@
 + [x] excel files
 + [x] picture files
 + [ ] program
++ problem about task 1
+	+ only 6 patients have more tha
