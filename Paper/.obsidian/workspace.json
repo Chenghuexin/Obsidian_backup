@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Index notes/榮總胃癌/Todo List.md",
+                "file": "4-Index notes/榮總胃癌/榮總胃癌.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo List"
+              "title": "榮總胃癌"
             }
           }
         ]
@@ -176,11 +176,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "c1d0cb1260ecab40",
+  "active": "92eaa9d9ef74d557",
   "lastOpenFiles": [
+    "4-Index notes/榮總胃癌/Todo List.md",
     "4-Index notes/榮總胃癌/榮總胃癌.md",
     "4-Index notes/大咪論文-Tab-Cox An Interpretable Deep Survival Analysis Model for Patients With Nasopharyngeal Carcinoma Based on TabNet.md",
-    "4-Index notes/榮總胃癌/Todo List.md",
     "4-Index notes/榮總胃癌",
     "Data Analyze/Data pipeline/Data pipeline components.md",
     "2-Literature notes/Data Augmentation - Auto Augment.md",
