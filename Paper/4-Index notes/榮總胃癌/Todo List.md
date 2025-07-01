@@ -2,4 +2,5 @@
 
 | tast                        | state | additional       |
 | --------------------------- | ----- | ---------------- |
-| multi level without leision |       | resnet, densenet |
+| multi level without leision | To Do | resnet, densenet |
+| check picture numbers       |       |                  |
