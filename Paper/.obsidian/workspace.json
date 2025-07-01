@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Literature notes/Data Augmentation - Auto Augment.md",
+                "file": "榮總胃癌.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Augmentation - Auto Augment"
+              "title": "榮總胃癌"
             }
           }
         ],
@@ -205,11 +205,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "c1d0cb1260ecab40",
+  "active": "92eaa9d9ef74d557",
   "lastOpenFiles": [
+    "4-Index notes/榮總胃癌",
+    "Data Analyze/Data pipeline/Data pipeline components.md",
+    "2-Literature notes/Data Augmentation - Auto Augment.md",
     "2-Literature notes/attachments/Pasted image 20250629213028.png",
     "榮總胃癌.md",
-    "2-Literature notes/Data Augmentation - Auto Augment.md",
     "4-Index notes/大咪論文-Tab-Cox An Interpretable Deep Survival Analysis Model for Patients With Nasopharyngeal Carcinoma Based on TabNet.md",
     "4-Index notes/attachments/Pasted image 20250615042223.png",
     "4-Index notes/attachments/Pasted image 20250614234930.png",
@@ -229,11 +231,9 @@
     "社群媒體分析/attachments/Pasted image 20250608080929.png",
     "社群媒體分析/attachments/Pasted image 20250608061247.png",
     "社群媒體分析/attachments/Pasted image 20250608054738.png",
-    "社群媒體分析/attachments/Pasted image 20250608053820.png",
     "Advance ML/Final Project.md",
     "社群媒體分析/Unit 4 情緒分析.md",
     "社群媒體分析/Unit 5 文辭與文件分析.md",
-    "Untitled",
     "Advance ML",
     "社群媒體分析/Unit 3 文字資料處理.md",
     "社群媒體分析/Unit 2 資訊倫理分析.md",
@@ -248,7 +248,6 @@
     "2-Literature notes/報書 - ChatGPT4.md",
     "2-Literature notes/Introduction for machine learning.md",
     "2-Literature notes/Machine learning basic concept.md",
-    "2-Literature notes/類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響.md",
     "Leetcode/Two Pointers",
     "Leetcode/Sorting",
     "Leetcode",
