@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58689a5840e3a021",
+        "id": "31036e724a4574a0",
         "type": "tabs",
         "children": [
           {
-            "id": "826501b1459460f8",
+            "id": "1c3594b4bd9639bd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -143,13 +143,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "6d49895caa891fb6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +173,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "826501b1459460f8",
+  "active": "1c3594b4bd9639bd",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Paper/2-Literature notes/Data Engineering/DE Introduction.md",
+    "Paper/2-Literature notes/Data Engineering",
     "README.md"
   ]
 }
