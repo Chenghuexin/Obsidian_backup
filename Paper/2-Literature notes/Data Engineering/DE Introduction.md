@@ -14,3 +14,4 @@
 
 # Relational Databases
 ![[{0744AEAF-BAB2-4F9D-97C3-CD8319A8F529}.png]]
+# Big Data Fundamentals
