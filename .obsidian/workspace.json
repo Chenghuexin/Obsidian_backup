@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "31036e724a4574a0",
+        "id": "3bcdebecb588029d",
         "type": "tabs",
         "children": [
           {
-            "id": "1c3594b4bd9639bd",
+            "id": "0c95695f3c9a4726",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Paper/2-Literature notes/Data Engineering/DE Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DE Introduction"
             }
           }
         ]
@@ -159,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +178,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c3594b4bd9639bd",
+  "active": "0c95695f3c9a4726",
   "lastOpenFiles": [
     "Untitled.base",
     "Paper/2-Literature notes/Data Engineering/DE Introduction.md",
