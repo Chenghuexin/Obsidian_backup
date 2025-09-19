@@ -1,9 +1,9 @@
-Programming Language: 
+# Programming Language: 
 + python
 + java
 + skalar
 
-Data Structure
+# Data Structure
 + array
 + linked list
 + stack
@@ -12,5 +12,5 @@ Data Structure
 + trees
 + sorting and searching algorithms
 
-Relational Databases
+# Relational Databases
 ![[{0744AEAF-BAB2-4F9D-97C3-CD8319A8F529}.png]]
