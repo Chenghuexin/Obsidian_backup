@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "每週進度報告"
             }
+          },
+          {
+            "id": "ce88baa7a4c32443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper/4-Index notes/榮總胃癌/相關文獻/A CLAHE-Enhanced Vision Transformer with OVR-SVM for Breast Cancer Classification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A CLAHE-Enhanced Vision Transformer with OVR-SVM for Breast Cancer Classification"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +193,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "1baabe233746638b",
+  "active": "ce88baa7a4c32443",
   "lastOpenFiles": [
+    "Paper/4-Index notes/榮總胃癌/每週進度報告.md",
+    "Paper/4-Index notes/榮總胃癌/相關文獻/A CLAHE-Enhanced Vision Transformer with OVR-SVM for Breast Cancer Classification.md",
     "Paper/4-Index notes/榮總胃癌/相關文獻",
     "Paper/2-Literature notes/Data Engineering/DE Introduction.md",
     "Paper/2-Literature notes/attachments/{0744AEAF-BAB2-4F9D-97C3-CD8319A8F529}.png",
