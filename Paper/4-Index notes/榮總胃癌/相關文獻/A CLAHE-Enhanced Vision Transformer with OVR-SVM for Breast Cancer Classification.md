@@ -8,3 +8,4 @@
 1. Contrast Limited Adaptive Histogram Equalization (CLAHE): enhance structural and textural detail
 
 ### Proposed approach
++ Only the encoder portion of the Vision Transformer (ViT)
