@@ -6,4 +6,5 @@
 # Methodology
 ### Dataset Preparation and Preprocessing
 1. Contrast Limited Adaptive Histogram Equalization (CLAHE): enhance structural and textural detail
-2. 
+
+### Proposed approach
