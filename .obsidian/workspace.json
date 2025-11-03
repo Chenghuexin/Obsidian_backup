@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/4-Index notes/榮總胃癌/相關文獻/相關文獻連結.md",
+                "file": "Paper/4-Index notes/榮總胃癌/每週進度報告.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "相關文獻連結"
+              "title": "每週進度報告"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "0c95695f3c9a4726",
   "lastOpenFiles": [
-    "Paper/4-Index notes/榮總胃癌/每週進度報告.md",
+    "Paper/4-Index notes/計畫進度.md",
+    "Paper/4-Index notes/LLM 報書.md",
     "Paper/4-Index notes/榮總胃癌/相關文獻/相關文獻連結.md",
+    "Paper/4-Index notes/榮總胃癌/每週進度報告.md",
     "Paper/4-Index notes/榮總胃癌/相關文獻",
     "Paper/4-Index notes/榮總胃癌/相關文獻/A CLAHE-Enhanced Vision Transformer with OVR-SVM for Breast Cancer Classification.md",
     "Paper/2-Literature notes/Data Engineering/DE Introduction.md",
