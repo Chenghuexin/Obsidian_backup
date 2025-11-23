@@ -10,6 +10,7 @@ refernece: https://ieeexplore.ieee.org/document/9389708
 + fast clustering method
 + clustering is performed using only cluster information within a certain area without requiring the entire image’s cluster information.
 + the pixels in the image are clustered into **k superpixels** using the same procedure
++ 其中的分群找中心的概念差不多，只是計算距離的
 
 > [!NOTE] SuperPixel
 > 有意義的像素群
