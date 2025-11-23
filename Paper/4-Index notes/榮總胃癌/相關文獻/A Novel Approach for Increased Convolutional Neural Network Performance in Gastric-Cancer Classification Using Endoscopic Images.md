@@ -19,3 +19,4 @@ refernece: https://ieeexplore.ieee.org/document/9389708
 + 改顏色空間：RGB → CIELAB
 	+ CIELAB「比較接近人眼感受」的均勻色差
 + 用 1D kernel 算梯度
++ 在每個初始中心周圍 3×3 區域裡，找「梯度最小」的位置(最不像邊界的位置)，把中心移過去
