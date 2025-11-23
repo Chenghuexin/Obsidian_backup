@@ -4,7 +4,7 @@ tags:
   - CADx
   - gastric_cancer
   - segmentation
-refernece:
+refernece: https://ieeexplore.ieee.org/document/9389708
 ---
 # SEGMENTATION METHOD: SLIC SUPERPIXEL
 + fast clustering method
