@@ -17,3 +17,5 @@ refernece: https://ieeexplore.ieee.org/document/9389708
 
 ### 前置處理
 + 改顏色空間：RGB → CIELAB
+	+ CIELAB「比較接近人眼感受」的均勻色差
++ 用 1D kernel 算梯度
