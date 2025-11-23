@@ -25,5 +25,7 @@ refernece: https://ieeexplore.ieee.org/document/9389708
 → 顏色越相似，dc 越小。
 
 ### 定義空間距離 ds
-**dc = pixel i 與 cluster j 在 CIELAB 顏色空間的歐氏距離**  
-→ 顏色越相似，dc 越小。
+**ds = pixel i 與 cluster j 在平面座標上的距離**  
+→ pixel 越靠近該 cluster center，ds 越小。
+
+### 定義總距離 D
