@@ -29,3 +29,4 @@ refernece: https://ieeexplore.ieee.org/document/9389708
 → pixel 越靠近該 cluster center，ds 越小。
 
 ### 定義總距離 D
+![[{FE4B7000-65E6-4DC6-BC24-40952069E179}.png]]
