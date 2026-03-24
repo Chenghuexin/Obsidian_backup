@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "683b1ecce3b908cd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.12.4"
-            }
-          },
-          {
             "id": "e143c1d375c10a87",
             "type": "leaf",
             "state": {
@@ -62,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
